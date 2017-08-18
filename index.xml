@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tal Schuster on Tal Schuster</title>
-    <link>https://talschuster.github.io/</link>
+    <link>/</link>
     <description>Recent content in Tal Schuster on Tal Schuster</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,29 +12,29 @@
     
     <item>
       <title>Optical Flow Requires Multiple Strategies (but only one network)</title>
-      <link>https://talschuster.github.io/publication/multiple_strategies/</link>
+      <link>/publication/multiple_strategies/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://talschuster.github.io/publication/multiple_strategies/</guid>
+      <guid>/publication/multiple_strategies/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Deep Learning pipeline for Optical Flow</title>
-      <link>https://talschuster.github.io/talk/amazon/</link>
+      <link>/talk/amazon/</link>
       <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://talschuster.github.io/talk/amazon/</guid>
+      <guid>/talk/amazon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optical Flow Requires Multiple Strategies</title>
-      <link>https://talschuster.github.io/talk/pixel-club/</link>
+      <link>/talk/pixel-club/</link>
       <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://talschuster.github.io/talk/pixel-club/</guid>
+      <guid>/talk/pixel-club/</guid>
       <description></description>
     </item>
     
