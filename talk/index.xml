@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Tal Schuster</title>
-    <link>http://people.csail.mit.edu/tals/talk/</link>
+    <link>https://talschuster.github.io/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Tal Schuster</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Tal Schuster</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tals/talk/" rel="self" type="application/rss+xml" />
+    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Deep Learning pipeline for Optical Flow</title>
-      <link>http://people.csail.mit.edu/tals/talk/amazon/</link>
+      <link>https://talschuster.github.io/talk/amazon/</link>
       <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/talk/amazon/</guid>
+      <guid>https://talschuster.github.io/talk/amazon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optical Flow Requires Multiple Strategies</title>
-      <link>http://people.csail.mit.edu/tals/talk/pixel-club/</link>
+      <link>https://talschuster.github.io/talk/pixel-club/</link>
       <pubDate>Tue, 06 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/talk/pixel-club/</guid>
+      <guid>https://talschuster.github.io/talk/pixel-club/</guid>
       <description></description>
     </item>
     
