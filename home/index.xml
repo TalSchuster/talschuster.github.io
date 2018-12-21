@@ -6,9 +6,56 @@
     <description>Recent content in Homes on Tal Schuster</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Tal Schuster</copyright>
+    <copyright>&amp;copy; 2018 Tal Schuster</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://talschuster.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://talschuster.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://talschuster.github.io/home/about/</guid>
+      <description>Biography I&amp;rsquo;m a Ph.D. student at MIT CSAIL and a member of the NLP and Learn To Cure groups. My advisor is Prof. Regina Barzilay.  Currently, I&amp;rsquo;m focusing on multi-lingual transfer for zero-shot learning and other low resource scenarios. I was also working on creating Deep-Learning screening based models to improve cancer detection and risk assessment.  Before coming to MIT, I was an MSc student in Computer Science at Tel Aviv University, Advised by Prof.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://talschuster.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://talschuster.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://talschuster.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://talschuster.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://talschuster.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://talschuster.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://talschuster.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://talschuster.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
