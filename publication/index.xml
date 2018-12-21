@@ -6,9 +6,20 @@
     <description>Recent content in Publications on Tal Schuster</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Tal Schuster</copyright>
+    <copyright>&amp;copy; 2018 Tal Schuster</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tals/publication/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://people.csail.mit.edu/tals/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mammographic breast density assessment using deep learning: clinical implementation</title>
+      <link>http://people.csail.mit.edu/tals/publication/density/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.csail.mit.edu/tals/publication/density/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Optical Flow Requires Multiple Strategies (but only one network)</title>
