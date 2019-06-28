@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Tal Schuster</title>
-    <link>http://people.csail.mit.edu/tals/categories/</link>
+    <link>https://talschuster.github.io/categories/</link>
     <description>Recent content in Categories on Tal Schuster</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Tal Schuster</copyright>
     
-	<atom:link href="http://people.csail.mit.edu/tals/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://talschuster.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
