@@ -6,27 +6,45 @@
     <description>Recent content in Tags on Tal Schuster</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Tal Schuster</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2019 Tal Schuster</copyright>
+    <lastBuildDate>Tue, 07 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://talschuster.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Content tagged as &#39;Academic&#39;</title>
-      <link>https://talschuster.github.io/tags/academic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <title>Deep Learning</title>
+      <link>https://talschuster.github.io/tags/deep-learning/</link>
+      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://talschuster.github.io/tags/academic/</guid>
-      <description>Here is a list of all the content that has been tagged as academic.</description>
+      <guid>https://talschuster.github.io/tags/deep-learning/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>.DL</title>
-      <link>https://talschuster.github.io/tags/.dl/</link>
+      <title>Mammography</title>
+      <link>https://talschuster.github.io/tags/mammography/</link>
+      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://talschuster.github.io/tags/mammography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MRI</title>
+      <link>https://talschuster.github.io/tags/mri/</link>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://talschuster.github.io/tags/mri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embeddings</title>
+      <link>https://talschuster.github.io/tags/embeddings/</link>
       <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://talschuster.github.io/tags/.dl/</guid>
+      <guid>https://talschuster.github.io/tags/embeddings/</guid>
       <description></description>
     </item>
     
@@ -36,6 +54,24 @@
       <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://talschuster.github.io/tags/medical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>https://talschuster.github.io/tags/nlp/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://talschuster.github.io/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vision</title>
+      <link>https://talschuster.github.io/tags/vision/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://talschuster.github.io/tags/vision/</guid>
       <description></description>
     </item>
     

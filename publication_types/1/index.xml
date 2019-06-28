@@ -6,18 +6,27 @@
     <description>Recent content in 1 on Tal Schuster</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Tal Schuster</copyright>
-    <lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2019 Tal Schuster</copyright>
+    <lastBuildDate>Tue, 04 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://talschuster.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Cross-Lingual Alignment of Contextual Word Embeddings, with Applications to Zero-shot Dependency Parsing</title>
+      <link>https://talschuster.github.io/publication/crosslingual_elmo/</link>
+      <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://talschuster.github.io/publication/crosslingual_elmo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Optical Flow Requires Multiple Strategies (but only one network)</title>
-      <link>https://talschuster.github.io/publication/multiple_strategies/</link>
+      <link>https://talschuster.github.io/publication/optical/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://talschuster.github.io/publication/multiple_strategies/</guid>
+      <guid>https://talschuster.github.io/publication/optical/</guid>
       <description></description>
     </item>
     

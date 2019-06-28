@@ -5,33 +5,35 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 3.2.0">
-  <meta name="generator" content="Hugo 0.52" />
-  <meta name="author" content="Tal Schuster">
+  <meta name="generator" content="Source Themes Academic 4.3.1">
+
+  
 
   
   
   
   
+  
+    
+    
     
   
-  <meta name="description" content="A deep learning algorithm was used to assess mammographic breast density at the level of an experienced mammographer during routine clinical practice.">
+  
+
+  <meta name="author" content="Tal Schuster">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="This DL model can be used to assess mammographic breast density at the level of an experienced mammographer.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://talschuster.github.io/publication/density/">
 
   
 
-
-  
-
-  
-
-  
-
-  
-
-  
 
   
 
@@ -46,7 +48,6 @@
   
   
     
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
@@ -60,7 +61,8 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
         
       
     
@@ -76,7 +78,11 @@
   <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
   
 
-  <link rel="stylesheet" href="/styles.css">
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.min.dc2a312999c42d400cf1e632dd37dee3.css">
+
   
 
   
@@ -98,9 +104,6 @@
   
 
   
-  <link rel="alternate" href="https://talschuster.github.io/index.xml" type="application/rss+xml" title="Tal Schuster">
-  <link rel="feed" href="https://talschuster.github.io/index.xml" type="application/rss+xml" title="Tal Schuster">
-  
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
@@ -113,14 +116,16 @@
   
   
     
-    
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@str_t5">
+  <meta property="twitter:creator" content="@str_t5">
   
   <meta property="og:site_name" content="Tal Schuster">
   <meta property="og:url" content="https://talschuster.github.io/publication/density/">
   <meta property="og:title" content="Mammographic breast density assessment using deep learning: clinical implementation | Tal Schuster">
-  <meta property="og:description" content="A deep learning algorithm was used to assess mammographic breast density at the level of an experienced mammographer during routine clinical practice."><meta property="og:image" content="https://talschuster.github.io/img/portrait.jpg">
+  <meta property="og:description" content="This DL model can be used to assess mammographic breast density at the level of an experienced mammographer."><meta property="og:image" content="https://talschuster.github.io/publication/density/featured.jpg">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2018-10-01T00:00:00&#43;00:00">
@@ -168,6 +173,7 @@
 </aside>
 
 
+
 <nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
   <div class="container">
 
@@ -185,7 +191,7 @@
 
       
       
-      <ul class="navbar-nav ml-auto">
+      <ul class="navbar-nav mr-auto">
         
 
         
@@ -196,8 +202,22 @@
           
         
 
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
         <li class="nav-item">
-          <a class="nav-link" href="/#about">
+          <a class="nav-link " href="/#about">
             
             <span>Home</span>
             
@@ -215,8 +235,22 @@
           
         
 
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
         <li class="nav-item">
-          <a class="nav-link" href="/#publications_selected">
+          <a class="nav-link " href="/#publications">
             
             <span>Publications</span>
             
@@ -234,8 +268,22 @@
           
         
 
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
         <li class="nav-item">
-          <a class="nav-link" href="/#projects">
+          <a class="nav-link " href="/#projects">
             
             <span>Projects</span>
             
@@ -253,8 +301,55 @@
           
         
 
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
         <li class="nav-item">
-          <a class="nav-link" href="/#contact">
+          <a class="nav-link " href="/#teaching">
+            
+            <span>Teaching</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact">
             
             <span>Contact</span>
             
@@ -264,6 +359,9 @@
         
         
 
+      
+      </ul>
+      <ul class="navbar-nav ml-auto">
       
 
         
@@ -316,90 +414,83 @@
   
     
 
+
+
+<meta content="2018-10-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2018-10-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
 <div class="article-metadata">
 
   
   
   
+  
   <div>
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Constance Lehman</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Adam Yala</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Tal Schuster</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Brian Dontchos</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Manisha Bahl</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Kyle Swanson</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Regina Barzilay</span>
-    </span>
     
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/constance-lehman/">Constance Lehman</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/adam-yala/">Adam Yala</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/admin/">Tal Schuster</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/brian-dontchos/">Brian Dontchos</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/manisha-bahl/">Manisha Bahl</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/kyle-swanson/">Kyle Swanson</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/regina-barzilay/">Regina Barzilay</a></span>
+
   </div>
   
+  
 
+  
   <span class="article-date">
     
-    <meta content="2018-10-01 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-    <time datetime="2018-10-01 00:00:00 &#43;0000 UTC" itemprop="dateModified">
-      Oct 1, 2018
-    </time>
+    
+      
+    
+    <time>October 2018</time>
   </span>
-  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="Tal Schuster">
-  </span>
-
   
 
-  
   
 
   
 
   
   
+
+  
+  
+
+  
+    
 <div class="share-box" aria-hidden="true">
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Mammographic%20breast%20density%20assessment%20using%20deep%20learning%3a%20clinical%20implementation&amp;url=https%3a%2f%2ftalschuster.github.io%2fpublication%2fdensity%2f"
+         href="https://twitter.com/intent/tweet?text=&amp;url="
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2ftalschuster.github.io%2fpublication%2fdensity%2f"
+         href="https://www.facebook.com/sharer.php?u="
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2ftalschuster.github.io%2fpublication%2fdensity%2f&amp;title=Mammographic%20breast%20density%20assessment%20using%20deep%20learning%3a%20clinical%20implementation"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title="
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2ftalschuster.github.io%2fpublication%2fdensity%2f&amp;title=Mammographic%20breast%20density%20assessment%20using%20deep%20learning%3a%20clinical%20implementation"
+         href="http://service.weibo.com/share/share.php?url=&amp;title="
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Mammographic%20breast%20density%20assessment%20using%20deep%20learning%3a%20clinical%20implementation&amp;body=https%3a%2f%2ftalschuster.github.io%2fpublication%2fdensity%2f">
+         href="mailto:?subject=&amp;body=">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -423,6 +514,7 @@
 
 
 
+  
 
 
 
@@ -436,9 +528,11 @@
 
 
 
+
   
     
   
+
 
 
 <a class="btn btn-outline-primary my-1 mr-1" href="https://pubs.rsna.org/doi/pdf/10.1148/radiol.2018180694" target="_blank" rel="noopener">
@@ -447,6 +541,19 @@
 
 
 
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/density/cite.bib">
+  Cite
+</button>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/yala/OncoServe_public" target="_blank" rel="noopener">
+  Code
+</a>
 
 
 
@@ -479,7 +586,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">A deep learning algorithm was used to assess mammographic breast density at the level of an experienced mammographer during routine clinical practice.</p>
+    <p class="pub-abstract" itemprop="text">In this retrospective study, a deep convolutional neural network was trained to assess Breast Imaging Reporting and Data System (BI-RADS) breast density based on the original interpretation by an experienced radiologist of 41 479 digital screening mammograms obtained in 27 684 women from January 2009 to May 2011. The resulting algorithm was tested on a held-out test set of 8677 mammograms in 5741 women. In addition, five radiologists performed a reader study on 500 mammograms randomly selected from the test set. Finally, the algorithm was implemented in routine clinical practice, where eight radiologists reviewed 10 763 consecutive mammograms assessed with the model. Agreement on BI-RADS category for the DL model and for three sets of readings—(a) radiologists in the test set, (b) radiologists working in consensus in the reader study set, and &copy; radiologists in the clinical implementation set—were estimated with linear-weighted κ statistics and were compared across 5000 bootstrap samples to assess significance.</p>
     
 
     
@@ -489,6 +596,7 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
+            
             
             <a href="/publication/#2">
               Journal article
@@ -516,34 +624,53 @@
     <div class="d-md-none space-below"></div>
     
 
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Date</div>
-          <div class="col-12 col-md-9" itemprop="datePublished">
-            October, 2018
-          </div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-sm-none space-below"></div>
-
     <div class="space-below"></div>
 
     <div class="article-style"></div>
 
     
 
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/deep-learning/">Deep Learning</a>
+  
+  <a class="badge badge-light" href="/tags/mammography/">Mammography</a>
+  
+</div>
+
+
     
 
 
 
+
+
+
+
+
+  
+  
+    
+  
   
 
 
 
+
+
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="/authors/constance-lehman/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+        
+      </ul>
+    </div>
+  </div>
 
 
 
@@ -558,7 +685,7 @@
   
 
   <p class="powered-by">
-    &copy; 2018 Tal Schuster &middot; 
+    &copy; 2019 Tal Schuster &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
@@ -608,28 +735,22 @@
 
     
     
-    
-    <script src="/js/mathjax-config.js"></script>
-    
 
     
     
     
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha512-+NqPlbbtM1QqiK8ZAo4Yrj2c4lNQoGv8P79DPtKzj++l5jnN39rHA/xsqn8zE9l0uSoxaCdrOgFs6yjyfbBxSg==" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha256-VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
 
       
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
         
       
 
       
-      
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
       
     
 
@@ -698,9 +819,13 @@
     
     
     
-    <script src="/js/academic.min.d037ee5294b166a79dec317c58aea9cc.js"></script>
-
     
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.15494b02d66be9b96bab2e305f69c460.js"></script>
 
   </body>
 </html>

@@ -1,124 +1,231 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    <url>
-    
-      <loc>https://talschuster.github.io/publication/density/</loc>
-      <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://talschuster.github.io/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://talschuster.github.io/project/mammography/</loc>
-      <lastmod>2017-09-25T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://talschuster.github.io/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://talschuster.github.io/publication/multiple_strategies/</loc>
-      <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://talschuster.github.io/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://talschuster.github.io/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://talschuster.github.io/authors/admin/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://talschuster.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://talschuster.github.io/publication_types/1/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://talschuster.github.io/tags/.dl/</loc>
-      <lastmod>2017-09-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://talschuster.github.io/authors/amir-globerson/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://talschuster.github.io/publication_types/1/</loc>
-      <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://talschuster.github.io/authors/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://talschuster.github.io/publication_types/2/</loc>
-      <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://talschuster.github.io/publication/crosslingual_elmo/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://talschuster.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://talschuster.github.io/authors/ori-ram/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://talschuster.github.io/tags/medical/</loc>
-      <lastmod>2017-09-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://talschuster.github.io/publication_types/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://talschuster.github.io/project/</loc>
-      <lastmod>2017-09-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://talschuster.github.io/publication/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://talschuster.github.io/publication_types/</loc>
-      <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://talschuster.github.io/authors/regina-barzilay/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://talschuster.github.io/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://talschuster.github.io/publication_types/2/</loc>
+    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://talschuster.github.io/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://talschuster.github.io/publication/mammo_risk/</loc>
+    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/authors/adam-yala/</loc>
+    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/authors/constance-lehman/</loc>
+    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/tags/deep-learning/</loc>
+    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/tags/mammography/</loc>
+    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/tags/</loc>
+    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/authors/tally-portnoi/</loc>
+    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/authors/brian-dontchos/</loc>
+    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/publication/mri/</loc>
+    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/authors/leslie-lamb/</loc>
+    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/tags/mri/</loc>
+    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/authors/kyle-swanson/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/publication/density/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/authors/manisha-bahl/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/tags/embeddings/</loc>
+    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/project/fake_news/</loc>
+    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/project/optical/</loc>
+    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/tags/medical/</loc>
+    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/project/mammography/</loc>
+    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/tags/nlp/</loc>
+    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/project/</loc>
+    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/tags/vision/</loc>
+    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/project/embeddings/</loc>
+    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/authors/david-gadot/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/authors/lior-wolf/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/publication/optical/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
   
 </urlset>
