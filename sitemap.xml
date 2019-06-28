@@ -3,228 +3,228 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://talschuster.github.io/talk/example/</loc>
+    <loc>http://people.csail.mit.edu/tals/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/talk/</loc>
+    <loc>http://people.csail.mit.edu/tals/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/</loc>
+    <loc>http://people.csail.mit.edu/tals/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/authors/admin/</loc>
+    <loc>http://people.csail.mit.edu/tals/authors/admin/</loc>
     <lastmod>2019-06-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/publication_types/1/</loc>
-    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://talschuster.github.io/authors/amir-globerson/</loc>
+    <loc>http://people.csail.mit.edu/tals/publication_types/1/</loc>
     <lastmod>2019-06-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/authors/</loc>
+    <loc>http://people.csail.mit.edu/tals/authors/amir-globerson/</loc>
     <lastmod>2019-06-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/publication/crosslingual_elmo/</loc>
-    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://talschuster.github.io/authors/ori-ram/</loc>
+    <loc>http://people.csail.mit.edu/tals/authors/</loc>
     <lastmod>2019-06-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/publication_types/</loc>
+    <loc>http://people.csail.mit.edu/tals/publication/crosslingual_elmo/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/authors/ori-ram/</loc>
     <lastmod>2019-06-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/publication/</loc>
-    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://talschuster.github.io/authors/regina-barzilay/</loc>
+    <loc>http://people.csail.mit.edu/tals/publication_types/</loc>
     <lastmod>2019-06-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/publication_types/2/</loc>
+    <loc>http://people.csail.mit.edu/tals/publication/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/authors/regina-barzilay/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/publication_types/2/</loc>
     <lastmod>2019-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/publication/mammo_risk/</loc>
+    <loc>http://people.csail.mit.edu/tals/publication/mammo_risk/</loc>
     <lastmod>2019-05-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/authors/adam-yala/</loc>
-    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://talschuster.github.io/authors/constance-lehman/</loc>
+    <loc>http://people.csail.mit.edu/tals/authors/adam-yala/</loc>
     <lastmod>2019-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/tags/deep-learning/</loc>
+    <loc>http://people.csail.mit.edu/tals/authors/constance-lehman/</loc>
     <lastmod>2019-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/tags/mammography/</loc>
+    <loc>http://people.csail.mit.edu/tals/tags/deep-learning/</loc>
     <lastmod>2019-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/tags/</loc>
+    <loc>http://people.csail.mit.edu/tals/tags/mammography/</loc>
     <lastmod>2019-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/authors/tally-portnoi/</loc>
+    <loc>http://people.csail.mit.edu/tals/tags/</loc>
     <lastmod>2019-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/authors/brian-dontchos/</loc>
+    <loc>http://people.csail.mit.edu/tals/authors/tally-portnoi/</loc>
+    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/authors/brian-dontchos/</loc>
     <lastmod>2019-01-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/publication/mri/</loc>
+    <loc>http://people.csail.mit.edu/tals/publication/mri/</loc>
     <lastmod>2019-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/authors/leslie-lamb/</loc>
-    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://talschuster.github.io/tags/mri/</loc>
+    <loc>http://people.csail.mit.edu/tals/authors/leslie-lamb/</loc>
     <lastmod>2019-01-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/authors/kyle-swanson/</loc>
+    <loc>http://people.csail.mit.edu/tals/tags/mri/</loc>
+    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/authors/kyle-swanson/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/publication/density/</loc>
+    <loc>http://people.csail.mit.edu/tals/publication/density/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/authors/manisha-bahl/</loc>
+    <loc>http://people.csail.mit.edu/tals/authors/manisha-bahl/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/tags/embeddings/</loc>
+    <loc>http://people.csail.mit.edu/tals/tags/embeddings/</loc>
     <lastmod>2017-09-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/project/fake_news/</loc>
+    <loc>http://people.csail.mit.edu/tals/project/fake_news/</loc>
     <lastmod>2017-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/project/optical/</loc>
+    <loc>http://people.csail.mit.edu/tals/project/optical/</loc>
     <lastmod>2017-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/tags/medical/</loc>
-    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://talschuster.github.io/project/mammography/</loc>
-    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://talschuster.github.io/tags/nlp/</loc>
+    <loc>http://people.csail.mit.edu/tals/tags/medical/</loc>
     <lastmod>2017-09-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/project/</loc>
+    <loc>http://people.csail.mit.edu/tals/project/mammography/</loc>
+    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/tags/nlp/</loc>
     <lastmod>2017-09-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/tags/vision/</loc>
+    <loc>http://people.csail.mit.edu/tals/project/</loc>
     <lastmod>2017-09-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/project/embeddings/</loc>
+    <loc>http://people.csail.mit.edu/tals/tags/vision/</loc>
+    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/project/embeddings/</loc>
     <lastmod>2017-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/authors/david-gadot/</loc>
+    <loc>http://people.csail.mit.edu/tals/authors/david-gadot/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/authors/lior-wolf/</loc>
+    <loc>http://people.csail.mit.edu/tals/authors/lior-wolf/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/publication/optical/</loc>
+    <loc>http://people.csail.mit.edu/tals/publication/optical/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/categories/</loc>
+    <loc>http://people.csail.mit.edu/tals/categories/</loc>
     <priority>0</priority>
   </url>
   

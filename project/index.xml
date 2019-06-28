@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Tal Schuster</title>
-    <link>https://talschuster.github.io/project/</link>
+    <link>http://people.csail.mit.edu/tals/project/</link>
     <description>Recent content in Projects on Tal Schuster</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Tal Schuster</copyright>
     <lastBuildDate>Mon, 25 Sep 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://talschuster.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://people.csail.mit.edu/tals/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fake News</title>
-      <link>https://talschuster.github.io/project/fake_news/</link>
+      <link>http://people.csail.mit.edu/tals/project/fake_news/</link>
       <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://talschuster.github.io/project/fake_news/</guid>
+      <guid>http://people.csail.mit.edu/tals/project/fake_news/</guid>
       <description>Automatic detection of false information in articles.</description>
     </item>
     
     <item>
       <title>Learning Strategies</title>
-      <link>https://talschuster.github.io/project/optical/</link>
+      <link>http://people.csail.mit.edu/tals/project/optical/</link>
       <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://talschuster.github.io/project/optical/</guid>
+      <guid>http://people.csail.mit.edu/tals/project/optical/</guid>
       <description>Sample selection when training deep learning models.</description>
     </item>
     
     <item>
       <title>Medical</title>
-      <link>https://talschuster.github.io/project/mammography/</link>
+      <link>http://people.csail.mit.edu/tals/project/mammography/</link>
       <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://talschuster.github.io/project/mammography/</guid>
+      <guid>http://people.csail.mit.edu/tals/project/mammography/</guid>
       <description>Deep learning models to improve cancer risk assessment.</description>
     </item>
     
     <item>
       <title>Word Embeddings</title>
-      <link>https://talschuster.github.io/project/embeddings/</link>
+      <link>http://people.csail.mit.edu/tals/project/embeddings/</link>
       <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://talschuster.github.io/project/embeddings/</guid>
+      <guid>http://people.csail.mit.edu/tals/project/embeddings/</guid>
       <description>Dense representations of words for NLP.</description>
     </item>
     

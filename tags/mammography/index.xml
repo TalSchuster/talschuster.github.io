@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mammography on Tal Schuster</title>
-    <link>https://talschuster.github.io/tags/mammography/</link>
+    <link>http://people.csail.mit.edu/tals/tags/mammography/</link>
     <description>Recent content in Mammography on Tal Schuster</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Tal Schuster</copyright>
     <lastBuildDate>Tue, 07 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://talschuster.github.io/tags/mammography/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://people.csail.mit.edu/tals/tags/mammography/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Deep Learning Mammography-based Model for Improved Breast Cancer Risk Prediction</title>
-      <link>https://talschuster.github.io/publication/mammo_risk/</link>
+      <link>http://people.csail.mit.edu/tals/publication/mammo_risk/</link>
       <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://talschuster.github.io/publication/mammo_risk/</guid>
+      <guid>http://people.csail.mit.edu/tals/publication/mammo_risk/</guid>
       <description>Deep learning models that use full-field mammograms yield substantially improved risk discrimination compared with the Tyrer-Cuzick (version 8) model.</description>
     </item>
     
     <item>
       <title>Mammographic breast density assessment using deep learning: clinical implementation</title>
-      <link>https://talschuster.github.io/publication/density/</link>
+      <link>http://people.csail.mit.edu/tals/publication/density/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://talschuster.github.io/publication/density/</guid>
+      <guid>http://people.csail.mit.edu/tals/publication/density/</guid>
       <description>This DL model can be used to assess mammographic breast density at the level of an experienced mammographer.</description>
     </item>
     

@@ -2,130 +2,130 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Tal Schuster</title>
-    <link>https://talschuster.github.io/authors/</link>
+    <link>http://people.csail.mit.edu/tals/authors/</link>
     <description>Recent content in Authors on Tal Schuster</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Tal Schuster</copyright>
     <lastBuildDate>Tue, 04 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://talschuster.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://people.csail.mit.edu/tals/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://talschuster.github.io/authors/admin/</link>
+      <link>http://people.csail.mit.edu/tals/authors/admin/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://talschuster.github.io/authors/admin/</guid>
+      <guid>http://people.csail.mit.edu/tals/authors/admin/</guid>
       <description>I&amp;rsquo;m a Ph.D. student at MIT CSAIL and a member of the NLP and Learn To Cure groups. My advisor is Prof. Regina Barzilay.  Currently, I&amp;rsquo;m focusing on multi-lingual transfer for zero-shot learning and other low resource scenarios. I have also worked on creating Deep-Learning screening based models to improve cancer detection and risk assessment.  Before coming to MIT, I was an MSc student in Computer Science at Tel Aviv University, advised by Prof.</description>
     </item>
     
     <item>
       <title>Amir Globerson</title>
-      <link>https://talschuster.github.io/authors/amir-globerson/</link>
+      <link>http://people.csail.mit.edu/tals/authors/amir-globerson/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://talschuster.github.io/authors/amir-globerson/</guid>
+      <guid>http://people.csail.mit.edu/tals/authors/amir-globerson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ori Ram</title>
-      <link>https://talschuster.github.io/authors/ori-ram/</link>
+      <link>http://people.csail.mit.edu/tals/authors/ori-ram/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://talschuster.github.io/authors/ori-ram/</guid>
+      <guid>http://people.csail.mit.edu/tals/authors/ori-ram/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regina Barzilay</title>
-      <link>https://talschuster.github.io/authors/regina-barzilay/</link>
+      <link>http://people.csail.mit.edu/tals/authors/regina-barzilay/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://talschuster.github.io/authors/regina-barzilay/</guid>
+      <guid>http://people.csail.mit.edu/tals/authors/regina-barzilay/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adam Yala</title>
-      <link>https://talschuster.github.io/authors/adam-yala/</link>
+      <link>http://people.csail.mit.edu/tals/authors/adam-yala/</link>
       <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://talschuster.github.io/authors/adam-yala/</guid>
+      <guid>http://people.csail.mit.edu/tals/authors/adam-yala/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Constance Lehman</title>
-      <link>https://talschuster.github.io/authors/constance-lehman/</link>
+      <link>http://people.csail.mit.edu/tals/authors/constance-lehman/</link>
       <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://talschuster.github.io/authors/constance-lehman/</guid>
+      <guid>http://people.csail.mit.edu/tals/authors/constance-lehman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tally Portnoi</title>
-      <link>https://talschuster.github.io/authors/tally-portnoi/</link>
+      <link>http://people.csail.mit.edu/tals/authors/tally-portnoi/</link>
       <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://talschuster.github.io/authors/tally-portnoi/</guid>
+      <guid>http://people.csail.mit.edu/tals/authors/tally-portnoi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Brian Dontchos</title>
-      <link>https://talschuster.github.io/authors/brian-dontchos/</link>
+      <link>http://people.csail.mit.edu/tals/authors/brian-dontchos/</link>
       <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://talschuster.github.io/authors/brian-dontchos/</guid>
+      <guid>http://people.csail.mit.edu/tals/authors/brian-dontchos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Leslie Lamb</title>
-      <link>https://talschuster.github.io/authors/leslie-lamb/</link>
+      <link>http://people.csail.mit.edu/tals/authors/leslie-lamb/</link>
       <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://talschuster.github.io/authors/leslie-lamb/</guid>
+      <guid>http://people.csail.mit.edu/tals/authors/leslie-lamb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kyle Swanson</title>
-      <link>https://talschuster.github.io/authors/kyle-swanson/</link>
+      <link>http://people.csail.mit.edu/tals/authors/kyle-swanson/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://talschuster.github.io/authors/kyle-swanson/</guid>
+      <guid>http://people.csail.mit.edu/tals/authors/kyle-swanson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Manisha Bahl</title>
-      <link>https://talschuster.github.io/authors/manisha-bahl/</link>
+      <link>http://people.csail.mit.edu/tals/authors/manisha-bahl/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://talschuster.github.io/authors/manisha-bahl/</guid>
+      <guid>http://people.csail.mit.edu/tals/authors/manisha-bahl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>David Gadot</title>
-      <link>https://talschuster.github.io/authors/david-gadot/</link>
+      <link>http://people.csail.mit.edu/tals/authors/david-gadot/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://talschuster.github.io/authors/david-gadot/</guid>
+      <guid>http://people.csail.mit.edu/tals/authors/david-gadot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lior Wolf</title>
-      <link>https://talschuster.github.io/authors/lior-wolf/</link>
+      <link>http://people.csail.mit.edu/tals/authors/lior-wolf/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://talschuster.github.io/authors/lior-wolf/</guid>
+      <guid>http://people.csail.mit.edu/tals/authors/lior-wolf/</guid>
       <description></description>
     </item>
     

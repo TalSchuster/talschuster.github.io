@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Constance Lehman on Tal Schuster</title>
-    <link>https://talschuster.github.io/authors/constance-lehman/</link>
+    <link>http://people.csail.mit.edu/tals/authors/constance-lehman/</link>
     <description>Recent content in Constance Lehman on Tal Schuster</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Tal Schuster</copyright>
     <lastBuildDate>Tue, 07 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://talschuster.github.io/authors/constance-lehman/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://people.csail.mit.edu/tals/authors/constance-lehman/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Deep Learning Mammography-based Model for Improved Breast Cancer Risk Prediction</title>
-      <link>https://talschuster.github.io/publication/mammo_risk/</link>
+      <link>http://people.csail.mit.edu/tals/publication/mammo_risk/</link>
       <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://talschuster.github.io/publication/mammo_risk/</guid>
+      <guid>http://people.csail.mit.edu/tals/publication/mammo_risk/</guid>
       <description>Deep learning models that use full-field mammograms yield substantially improved risk discrimination compared with the Tyrer-Cuzick (version 8) model.</description>
     </item>
     
     <item>
       <title>Deep Learning Model to Assess Cancer Risk on the Basis of a Breast MR Image Alone</title>
-      <link>https://talschuster.github.io/publication/mri/</link>
+      <link>http://people.csail.mit.edu/tals/publication/mri/</link>
       <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://talschuster.github.io/publication/mri/</guid>
+      <guid>http://people.csail.mit.edu/tals/publication/mri/</guid>
       <description>Our DL model can assess the 5-year cancer risk on the basis of a breast MR image alone, and it showed improved individual risk discrimination when compared with a state-of-the-art risk assessment model. These results offer promising preliminary data regarding the potential of image-based risk assessment models to support more personalized care.</description>
     </item>
     
     <item>
       <title>Mammographic breast density assessment using deep learning: clinical implementation</title>
-      <link>https://talschuster.github.io/publication/density/</link>
+      <link>http://people.csail.mit.edu/tals/publication/density/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://talschuster.github.io/publication/density/</guid>
+      <guid>http://people.csail.mit.edu/tals/publication/density/</guid>
       <description>This DL model can be used to assess mammographic breast density at the level of an experienced mammographer.</description>
     </item>
     
