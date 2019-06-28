@@ -1,124 +1,231 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    <url>
-    
-      <loc>http://people.csail.mit.edu/tals/publication/density/</loc>
-      <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://people.csail.mit.edu/tals/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://people.csail.mit.edu/tals/project/mammography/</loc>
-      <lastmod>2017-09-25T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://people.csail.mit.edu/tals/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://people.csail.mit.edu/tals/publication/multiple_strategies/</loc>
-      <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://people.csail.mit.edu/tals/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://people.csail.mit.edu/tals/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://people.csail.mit.edu/tals/authors/admin/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://people.csail.mit.edu/tals/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>http://people.csail.mit.edu/tals/publication_types/1/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://people.csail.mit.edu/tals/tags/.dl/</loc>
-      <lastmod>2017-09-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://people.csail.mit.edu/tals/authors/amir-globerson/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://people.csail.mit.edu/tals/publication_types/1/</loc>
-      <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://people.csail.mit.edu/tals/authors/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://people.csail.mit.edu/tals/publication_types/2/</loc>
-      <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://people.csail.mit.edu/tals/publication/crosslingual_elmo/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://people.csail.mit.edu/tals/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://people.csail.mit.edu/tals/authors/ori-ram/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://people.csail.mit.edu/tals/tags/medical/</loc>
-      <lastmod>2017-09-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://people.csail.mit.edu/tals/publication_types/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://people.csail.mit.edu/tals/project/</loc>
-      <lastmod>2017-09-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://people.csail.mit.edu/tals/publication/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://people.csail.mit.edu/tals/publication_types/</loc>
-      <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://people.csail.mit.edu/tals/authors/regina-barzilay/</loc>
+    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://people.csail.mit.edu/tals/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://people.csail.mit.edu/tals/publication_types/2/</loc>
+    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    
-    <url>
-    
-      <loc>http://people.csail.mit.edu/tals/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>http://people.csail.mit.edu/tals/publication/mammo_risk/</loc>
+    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/authors/adam-yala/</loc>
+    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/authors/constance-lehman/</loc>
+    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/tags/deep-learning/</loc>
+    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/tags/mammography/</loc>
+    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/tags/</loc>
+    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/authors/tally-portnoi/</loc>
+    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/authors/brian-dontchos/</loc>
+    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/publication/mri/</loc>
+    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/authors/leslie-lamb/</loc>
+    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/tags/mri/</loc>
+    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/authors/kyle-swanson/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/publication/density/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/authors/manisha-bahl/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/tags/embeddings/</loc>
+    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/project/fake_news/</loc>
+    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/project/optical/</loc>
+    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/tags/medical/</loc>
+    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/project/mammography/</loc>
+    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/tags/nlp/</loc>
+    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/project/</loc>
+    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/tags/vision/</loc>
+    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/project/embeddings/</loc>
+    <lastmod>2017-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/authors/david-gadot/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/authors/lior-wolf/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/publication/optical/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/categories/</loc>
+    <priority>0</priority>
+  </url>
   
 </urlset>

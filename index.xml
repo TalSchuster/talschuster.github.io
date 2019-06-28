@@ -1,14 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tal Schuster on Tal Schuster</title>
+    <title>Tal Schuster</title>
     <link>http://people.csail.mit.edu/tals/</link>
-    <description>Recent content in Tal Schuster on Tal Schuster</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content on Tal Schuster</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Tal Schuster</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tals/" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2019 Tal Schuster</copyright>
+    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="http://people.csail.mit.edu/tals/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Example Talk</title>
+      <link>http://people.csail.mit.edu/tals/talk/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      
+      <guid>http://people.csail.mit.edu/tals/talk/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cross-Lingual Alignment of Contextual Word Embeddings, with Applications to Zero-shot Dependency Parsing</title>
+      <link>http://people.csail.mit.edu/tals/publication/crosslingual_elmo/</link>
+      <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.csail.mit.edu/tals/publication/crosslingual_elmo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Deep Learning Mammography-based Model for Improved Breast Cancer Risk Prediction</title>
+      <link>http://people.csail.mit.edu/tals/publication/mammo_risk/</link>
+      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.csail.mit.edu/tals/publication/mammo_risk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Model to Assess Cancer Risk on the Basis of a Breast MR Image Alone</title>
+      <link>http://people.csail.mit.edu/tals/publication/mri/</link>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.csail.mit.edu/tals/publication/mri/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mammographic breast density assessment using deep learning: clinical implementation</title>
@@ -20,7 +73,26 @@
     </item>
     
     <item>
-      <title>Mammography</title>
+      <title>Fake News</title>
+      <link>http://people.csail.mit.edu/tals/project/fake_news/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.csail.mit.edu/tals/project/fake_news/</guid>
+      <description>&lt;p&gt;In progress&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning Strategies</title>
+      <link>http://people.csail.mit.edu/tals/project/optical/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.csail.mit.edu/tals/project/optical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medical</title>
       <link>http://people.csail.mit.edu/tals/project/mammography/</link>
       <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
       
@@ -35,12 +107,23 @@
     </item>
     
     <item>
+      <title>Word Embeddings</title>
+      <link>http://people.csail.mit.edu/tals/project/embeddings/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.csail.mit.edu/tals/project/embeddings/</guid>
+      <description>&lt;p&gt;Analyzing the space of word represenations for multilingual applications and for better performance with less data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Optical Flow Requires Multiple Strategies (but only one network)</title>
-      <link>http://people.csail.mit.edu/tals/publication/multiple_strategies/</link>
+      <link>http://people.csail.mit.edu/tals/publication/optical/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/publication/multiple_strategies/</guid>
-      <description></description>
+      <guid>http://people.csail.mit.edu/tals/publication/optical/</guid>
+      <description>&lt;hr /&gt;
+</description>
     </item>
     
   </channel>
