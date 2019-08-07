@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Tal Schuster</copyright>
-    <lastBuildDate>Tue, 07 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://talschuster.github.io/authors/constance-lehman/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Deep Learning Mammography-based Model for Improved Breast Cancer Risk Prediction</title>
+      <link>https://talschuster.github.io/publication/mammo_triage/</link>
+      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://talschuster.github.io/publication/mammo_triage/</guid>
+      <description>A DL model to triage a portion of mammograms as cancer free, improving performance and workflow efficiency.</description>
+    </item>
     
     <item>
       <title>A Deep Learning Mammography-based Model for Improved Breast Cancer Risk Prediction</title>
