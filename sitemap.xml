@@ -20,7 +20,65 @@
   
   <url>
     <loc>http://people.csail.mit.edu/tals/authors/admin/</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/publication_types/1/</loc>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/authors/</loc>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/authors/daniel-filizzola/</loc>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/authors/darsh-j-shah/</loc>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/authors/enrico-santus/</loc>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/publication_types/</loc>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/publication/</loc>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/authors/regina-barzilay/</loc>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/publication/fact_symmetric/</loc>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://people.csail.mit.edu/tals/authors/yun-jie-serene-yeo/</loc>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -36,12 +94,6 @@
   
   <url>
     <loc>http://people.csail.mit.edu/tals/authors/adam-yala/</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://people.csail.mit.edu/tals/authors/</loc>
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -65,24 +117,7 @@
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/publication_types/</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://people.csail.mit.edu/tals/publication/</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://people.csail.mit.edu/tals/authors/randy-miles/</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://people.csail.mit.edu/tals/authors/regina-barzilay/</loc>
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -90,12 +125,6 @@
   <url>
     <loc>http://people.csail.mit.edu/tals/tags/</loc>
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://people.csail.mit.edu/tals/publication_types/1/</loc>
-    <lastmod>2019-06-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
