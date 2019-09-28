@@ -37,6 +37,15 @@
     </item>
     
     <item>
+      <title>Are We Safe Yet? The Limitations of Distributional Features for Fake News Detection</title>
+      <link>http://people.csail.mit.edu/tals/publication/are_we_safe/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.csail.mit.edu/tals/publication/are_we_safe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Towards Debiasing Fact Verification Models</title>
       <link>http://people.csail.mit.edu/tals/publication/fact_symmetric/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
@@ -96,7 +105,9 @@
       <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>http://people.csail.mit.edu/tals/project/fake_news/</guid>
-      <description>&lt;p&gt;To be updated&lt;/p&gt;
+      <description>&lt;p&gt;The 21st century has opened up a boundless influx of headlines, articles, and stories. This information explosion, however, is contaminated: it contains fallacious, deliberately manipulated material from dubious sources. According to research by the European Research Council, 1 in 4 Americans visited at least one such fake article during the 20016 presidential campaign.&lt;/p&gt;
+
+&lt;p&gt;In this project, we aim to improve the automatic detection of false information. We rely on trustworthy sources and evaluate content against them.&lt;/p&gt;
 </description>
     </item>
     
