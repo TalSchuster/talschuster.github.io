@@ -20,47 +20,52 @@
   
   <url>
     <loc>https://talschuster.github.io/authors/admin/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://talschuster.github.io/publication_types/4/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/authors/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/publication/fact_generation/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/authors/darsh-j-shah/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/publication_types/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/publication/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/authors/regina-barzilay/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://talschuster.github.io/publication/are_we_safe/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://talschuster.github.io/authors/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://talschuster.github.io/authors/darsh-j-shah/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://talschuster.github.io/publication_types/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://talschuster.github.io/publication/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://talschuster.github.io/authors/regina-barzilay/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
