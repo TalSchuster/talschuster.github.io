@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Tal Schuster</copyright>
-    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://people.csail.mit.edu/tals/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Automatic Fact-guided Sentence Modification</title>
+      <link>http://people.csail.mit.edu/tals/publication/fact_generation/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.csail.mit.edu/tals/publication/fact_generation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Are We Safe Yet? The Limitations of Distributional Features for Fake News Detection</title>
@@ -87,7 +96,7 @@
     <item>
       <title></title>
       <link>http://people.csail.mit.edu/tals/authors/admin/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>http://people.csail.mit.edu/tals/authors/admin/</guid>
       <description>I&amp;rsquo;m a Ph.D. student at MIT CSAIL and a member of the NLP and Learn To Cure groups. My advisor is Prof. Regina Barzilay.  Currently, I&amp;rsquo;m focusing on automatic fact-checking and on the geometry of contextual word embeddings. I have also worked on creating deep learning screening-based methods to improve cancer detection and risk assessment.  Before coming to MIT, I was an MSc student in Computer Science at Tel Aviv University, advised by Prof.</description>
