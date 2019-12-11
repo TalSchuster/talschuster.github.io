@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kyle Swanson on טל שוסטר</title>
+    <link>https://talschuster.github.io/he/authors/kyle-swanson/</link>
+    <description>Recent content in Kyle Swanson on טל שוסטר</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2019 Tal Schuster</copyright>
+    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://talschuster.github.io/he/authors/kyle-swanson/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mammographic breast density assessment using deep learning: clinical implementation</title>
+      <link>https://talschuster.github.io/he/publication/density/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://talschuster.github.io/he/publication/density/</guid>
+      <description>This DL model can be used to assess mammographic breast density at the level of an experienced mammographer.</description>
+    </item>
+    
+  </channel>
+</rss>

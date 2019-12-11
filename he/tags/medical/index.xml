@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Medical on טל שוסטר</title>
+    <link>https://talschuster.github.io/he/tags/medical/</link>
+    <description>Recent content in Medical on טל שוסטר</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2019 Tal Schuster</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://talschuster.github.io/he/tags/medical/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Medical</title>
+      <link>https://talschuster.github.io/he/project/mammography/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://talschuster.github.io/he/project/mammography/</guid>
+      <description>Deep learning models to improve cancer risk assessment.</description>
+    </item>
+    
+  </channel>
+</rss>
