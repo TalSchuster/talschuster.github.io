@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Gadot on טל שוסטר</title>
+    <link>http://people.csail.mit.edu/tals/he/authors/david-gadot/</link>
+    <description>Recent content in David Gadot on טל שוסטר</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2019 Tal Schuster</copyright>
+    <lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://people.csail.mit.edu/tals/he/authors/david-gadot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Optical Flow Requires Multiple Strategies (but only one network)</title>
+      <link>http://people.csail.mit.edu/tals/he/publication/optical/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.csail.mit.edu/tals/he/publication/optical/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

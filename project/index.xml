@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Tal Schuster</copyright>
-    <lastBuildDate>Mon, 25 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://people.csail.mit.edu/tals/project/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Fake News</title>
       <link>http://people.csail.mit.edu/tals/project/fake_news/</link>
-      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>http://people.csail.mit.edu/tals/project/fake_news/</guid>
       <description>Automatic detection of false information in articles.</description>
@@ -24,7 +24,7 @@
     <item>
       <title>Learning Strategies</title>
       <link>http://people.csail.mit.edu/tals/project/optical/</link>
-      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>http://people.csail.mit.edu/tals/project/optical/</guid>
       <description>Sample selection when training deep learning models.</description>
@@ -33,7 +33,7 @@
     <item>
       <title>Medical</title>
       <link>http://people.csail.mit.edu/tals/project/mammography/</link>
-      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>http://people.csail.mit.edu/tals/project/mammography/</guid>
       <description>Deep learning models to improve cancer risk assessment.</description>
@@ -42,7 +42,7 @@
     <item>
       <title>Word Embeddings</title>
       <link>http://people.csail.mit.edu/tals/project/embeddings/</link>
-      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>http://people.csail.mit.edu/tals/project/embeddings/</guid>
       <description>Dense representations of words for NLP.</description>

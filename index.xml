@@ -110,9 +110,19 @@
     </item>
     
     <item>
+      <title>Optical Flow Requires Multiple Strategies (but only one network)</title>
+      <link>http://people.csail.mit.edu/tals/publication/optical/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.csail.mit.edu/tals/publication/optical/</guid>
+      <description>&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Fake News</title>
       <link>http://people.csail.mit.edu/tals/project/fake_news/</link>
-      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>http://people.csail.mit.edu/tals/project/fake_news/</guid>
       <description>&lt;p&gt;In this project, we aim to improve the automatic detection of false information. We rely on trustworthy sources and evaluate content against them.&lt;/p&gt;
@@ -122,7 +132,7 @@
     <item>
       <title>Learning Strategies</title>
       <link>http://people.csail.mit.edu/tals/project/optical/</link>
-      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>http://people.csail.mit.edu/tals/project/optical/</guid>
       <description></description>
@@ -131,7 +141,7 @@
     <item>
       <title>Medical</title>
       <link>http://people.csail.mit.edu/tals/project/mammography/</link>
-      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>http://people.csail.mit.edu/tals/project/mammography/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://learningtocure.csail.mit.edu/mammo#project&#34;&gt;Project website&lt;/a&gt;
@@ -146,20 +156,10 @@
     <item>
       <title>Word Embeddings</title>
       <link>http://people.csail.mit.edu/tals/project/embeddings/</link>
-      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>http://people.csail.mit.edu/tals/project/embeddings/</guid>
       <description>&lt;p&gt;Analyzing the space of word represenations for multilingual applications and for better performance with less data.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Optical Flow Requires Multiple Strategies (but only one network)</title>
-      <link>http://people.csail.mit.edu/tals/publication/optical/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://people.csail.mit.edu/tals/publication/optical/</guid>
-      <description>&lt;hr /&gt;
 </description>
     </item>
     

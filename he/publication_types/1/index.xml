@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on טל שוסטר</title>
+    <link>http://people.csail.mit.edu/tals/he/publication_types/1/</link>
+    <description>Recent content in 1 on טל שוסטר</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2019 Tal Schuster</copyright>
+    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://people.csail.mit.edu/tals/he/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automatic Fact-guided Sentence Modification</title>
+      <link>http://people.csail.mit.edu/tals/he/publication/fact_generation/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.csail.mit.edu/tals/he/publication/fact_generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Debiasing Fact Verification Models</title>
+      <link>http://people.csail.mit.edu/tals/he/publication/fact_symmetric/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.csail.mit.edu/tals/he/publication/fact_symmetric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-Lingual Alignment of Contextual Word Embeddings, with Applications to Zero-shot Dependency Parsing</title>
+      <link>http://people.csail.mit.edu/tals/he/publication/crosslingual_elmo/</link>
+      <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.csail.mit.edu/tals/he/publication/crosslingual_elmo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optical Flow Requires Multiple Strategies (but only one network)</title>
+      <link>http://people.csail.mit.edu/tals/he/publication/optical/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.csail.mit.edu/tals/he/publication/optical/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

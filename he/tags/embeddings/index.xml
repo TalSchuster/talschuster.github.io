@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Embeddings on טל שוסטר</title>
+    <link>http://people.csail.mit.edu/tals/he/tags/embeddings/</link>
+    <description>Recent content in Embeddings on טל שוסטר</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2019 Tal Schuster</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://people.csail.mit.edu/tals/he/tags/embeddings/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Word Embeddings</title>
+      <link>http://people.csail.mit.edu/tals/he/project/embeddings/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.csail.mit.edu/tals/he/project/embeddings/</guid>
+      <description>Dense representations of words for NLP.</description>
+    </item>
+    
+  </channel>
+</rss>
