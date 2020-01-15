@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>t on Tal Schuster</title>
+    <link>http://people.csail.mit.edu/tals/tags/t/</link>
+    <description>Recent content in t on Tal Schuster</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Tal Schuster</copyright>
+    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://people.csail.mit.edu/tals/tags/t/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Humpty Dumpty: Controlling Word Meanings via Corpus Poisoning</title>
+      <link>http://people.csail.mit.edu/tals/publication/emb_attack/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.csail.mit.edu/tals/publication/emb_attack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Fact-guided Sentence Modification</title>
+      <link>http://people.csail.mit.edu/tals/publication/fact_generation/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.csail.mit.edu/tals/publication/fact_generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Debiasing Fact Verification Models</title>
+      <link>http://people.csail.mit.edu/tals/publication/fact_symmetric/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.csail.mit.edu/tals/publication/fact_symmetric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-Lingual Alignment of Contextual Word Embeddings, with Applications to Zero-shot Dependency Parsing</title>
+      <link>http://people.csail.mit.edu/tals/publication/crosslingual_elmo/</link>
+      <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.csail.mit.edu/tals/publication/crosslingual_elmo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Deep Learning Mammography-based Model for Improved Breast Cancer Risk Prediction</title>
+      <link>http://people.csail.mit.edu/tals/publication/mammo_risk/</link>
+      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.csail.mit.edu/tals/publication/mammo_risk/</guid>
+      <description>Deep learning models that use full-field mammograms yield substantially improved risk discrimination compared with the Tyrer-Cuzick (version 8) model.</description>
+    </item>
+    
+    <item>
+      <title>Mammographic breast density assessment using deep learning: clinical implementation</title>
+      <link>http://people.csail.mit.edu/tals/publication/density/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.csail.mit.edu/tals/publication/density/</guid>
+      <description>This DL model can be used to assess mammographic breast density at the level of an experienced mammographer.</description>
+    </item>
+    
+    <item>
+      <title>Optical Flow Requires Multiple Strategies (but only one network)</title>
+      <link>http://people.csail.mit.edu/tals/publication/optical/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.csail.mit.edu/tals/publication/optical/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

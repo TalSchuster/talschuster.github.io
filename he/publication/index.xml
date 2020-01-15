@@ -6,10 +6,19 @@
     <description>Recent content in Publications on טל שוסטר</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2019 Tal Schuster</copyright>
-    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://people.csail.mit.edu/tals/he/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Humpty Dumpty: Controlling Word Meanings via Corpus Poisoning</title>
+      <link>http://people.csail.mit.edu/tals/he/publication/emb_attack/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://people.csail.mit.edu/tals/he/publication/emb_attack/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Automatic Fact-guided Sentence Modification</title>
