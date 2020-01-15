@@ -7,35 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Tal Schuster</copyright>
-    <lastBuildDate>Tue, 06 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://talschuster.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title></title>
+      <link>https://talschuster.github.io/tags/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://talschuster.github.io/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>t</title>
+      <link>https://talschuster.github.io/tags/t/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://talschuster.github.io/tags/t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deep Learning</title>
       <link>https://talschuster.github.io/tags/deep-learning/</link>
-      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>https://talschuster.github.io/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mammography</title>
-      <link>https://talschuster.github.io/tags/mammography/</link>
-      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://talschuster.github.io/tags/mammography/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MRI</title>
-      <link>https://talschuster.github.io/tags/mri/</link>
-      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://talschuster.github.io/tags/mri/</guid>
       <description></description>
     </item>
     
