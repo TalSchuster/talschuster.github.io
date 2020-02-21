@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tal Schuster</title>
-    <link>http://people.csail.mit.edu/tals/</link>
+    <link>https://people.csail.mit.edu/tals/</link>
     <description>Recent content on Tal Schuster</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Tal Schuster</copyright>
     <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="http://people.csail.mit.edu/tals/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://people.csail.mit.edu/tals/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Example Talk</title>
-      <link>http://people.csail.mit.edu/tals/talk/example/</link>
+      <link>https://people.csail.mit.edu/tals/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/talk/example/</guid>
+      <guid>https://people.csail.mit.edu/tals/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -37,123 +37,124 @@
     </item>
     
     <item>
+      <title>The Limitations of Stylometry for Detecting Machine-Generated Fake News</title>
+      <link>https://people.csail.mit.edu/tals/publication/are_we_safe/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.csail.mit.edu/tals/publication/are_we_safe/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Note:&lt;/em&gt; this article was earlier published under the name: &lt;em&gt;Are We Safe Yet? The Limitations of Distributional Features for Fake News Detection&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Humpty Dumpty: Controlling Word Meanings via Corpus Poisoning</title>
-      <link>http://people.csail.mit.edu/tals/publication/emb_attack/</link>
+      <link>https://people.csail.mit.edu/tals/publication/emb_attack/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/publication/emb_attack/</guid>
+      <guid>https://people.csail.mit.edu/tals/publication/emb_attack/</guid>
       <description>&lt;hr /&gt;
 </description>
     </item>
     
     <item>
       <title>Automatic Fact-guided Sentence Modification</title>
-      <link>http://people.csail.mit.edu/tals/publication/fact_generation/</link>
+      <link>https://people.csail.mit.edu/tals/publication/fact_generation/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/publication/fact_generation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Are We Safe Yet? The Limitations of Distributional Features for Fake News Detection</title>
-      <link>http://people.csail.mit.edu/tals/publication/are_we_safe/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://people.csail.mit.edu/tals/publication/are_we_safe/</guid>
+      <guid>https://people.csail.mit.edu/tals/publication/fact_generation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards Debiasing Fact Verification Models</title>
-      <link>http://people.csail.mit.edu/tals/publication/fact_symmetric/</link>
+      <link>https://people.csail.mit.edu/tals/publication/fact_symmetric/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/publication/fact_symmetric/</guid>
+      <guid>https://people.csail.mit.edu/tals/publication/fact_symmetric/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Deep Learning Model to Triage Screening Mammograms: A Simulation Study</title>
-      <link>http://people.csail.mit.edu/tals/publication/mammo_triage/</link>
+      <link>https://people.csail.mit.edu/tals/publication/mammo_triage/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/publication/mammo_triage/</guid>
+      <guid>https://people.csail.mit.edu/tals/publication/mammo_triage/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross-Lingual Alignment of Contextual Word Embeddings, with Applications to Zero-shot Dependency Parsing</title>
-      <link>http://people.csail.mit.edu/tals/publication/crosslingual_elmo/</link>
+      <link>https://people.csail.mit.edu/tals/publication/crosslingual_elmo/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/publication/crosslingual_elmo/</guid>
+      <guid>https://people.csail.mit.edu/tals/publication/crosslingual_elmo/</guid>
       <description>&lt;hr /&gt;
 </description>
     </item>
     
     <item>
       <title>A Deep Learning Mammography-based Model for Improved Breast Cancer Risk Prediction</title>
-      <link>http://people.csail.mit.edu/tals/publication/mammo_risk/</link>
+      <link>https://people.csail.mit.edu/tals/publication/mammo_risk/</link>
       <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/publication/mammo_risk/</guid>
+      <guid>https://people.csail.mit.edu/tals/publication/mammo_risk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning Model to Assess Cancer Risk on the Basis of a Breast MR Image Alone</title>
-      <link>http://people.csail.mit.edu/tals/publication/mri/</link>
+      <link>https://people.csail.mit.edu/tals/publication/mri/</link>
       <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/publication/mri/</guid>
+      <guid>https://people.csail.mit.edu/tals/publication/mri/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mammographic breast density assessment using deep learning: clinical implementation</title>
-      <link>http://people.csail.mit.edu/tals/publication/density/</link>
+      <link>https://people.csail.mit.edu/tals/publication/density/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/publication/density/</guid>
+      <guid>https://people.csail.mit.edu/tals/publication/density/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optical Flow Requires Multiple Strategies (but only one network)</title>
-      <link>http://people.csail.mit.edu/tals/publication/optical/</link>
+      <link>https://people.csail.mit.edu/tals/publication/optical/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/publication/optical/</guid>
+      <guid>https://people.csail.mit.edu/tals/publication/optical/</guid>
       <description>&lt;hr /&gt;
 </description>
     </item>
     
     <item>
       <title>Fake News</title>
-      <link>http://people.csail.mit.edu/tals/project/fake_news/</link>
+      <link>https://people.csail.mit.edu/tals/project/fake_news/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/project/fake_news/</guid>
+      <guid>https://people.csail.mit.edu/tals/project/fake_news/</guid>
       <description>&lt;p&gt;In this project, we aim to improve the automatic detection of false information. We rely on trustworthy sources and evaluate content against them.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Learning Strategies</title>
-      <link>http://people.csail.mit.edu/tals/project/optical/</link>
+      <link>https://people.csail.mit.edu/tals/project/optical/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/project/optical/</guid>
+      <guid>https://people.csail.mit.edu/tals/project/optical/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Medical</title>
-      <link>http://people.csail.mit.edu/tals/project/mammography/</link>
+      <link>https://people.csail.mit.edu/tals/project/mammography/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/project/mammography/</guid>
+      <guid>https://people.csail.mit.edu/tals/project/mammography/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://learningtocure.csail.mit.edu/mammo#project&#34;&gt;Project website&lt;/a&gt;
 &lt;/br&gt;&lt;/p&gt;
 
@@ -165,10 +166,10 @@
     
     <item>
       <title>Word Embeddings</title>
-      <link>http://people.csail.mit.edu/tals/project/embeddings/</link>
+      <link>https://people.csail.mit.edu/tals/project/embeddings/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/project/embeddings/</guid>
+      <guid>https://people.csail.mit.edu/tals/project/embeddings/</guid>
       <description>&lt;p&gt;Analyzing the space of word represenations for multilingual applications and for better performance with less data.&lt;/p&gt;
 </description>
     </item>

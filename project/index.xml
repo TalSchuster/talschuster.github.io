@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Tal Schuster</title>
-    <link>http://people.csail.mit.edu/tals/project/</link>
+    <link>https://people.csail.mit.edu/tals/project/</link>
     <description>Recent content in Projects on Tal Schuster</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Tal Schuster</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://people.csail.mit.edu/tals/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://people.csail.mit.edu/tals/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fake News</title>
-      <link>http://people.csail.mit.edu/tals/project/fake_news/</link>
+      <link>https://people.csail.mit.edu/tals/project/fake_news/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/project/fake_news/</guid>
+      <guid>https://people.csail.mit.edu/tals/project/fake_news/</guid>
       <description>Automatic detection of false information in articles.</description>
     </item>
     
     <item>
       <title>Learning Strategies</title>
-      <link>http://people.csail.mit.edu/tals/project/optical/</link>
+      <link>https://people.csail.mit.edu/tals/project/optical/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/project/optical/</guid>
+      <guid>https://people.csail.mit.edu/tals/project/optical/</guid>
       <description>Sample selection when training deep learning models.</description>
     </item>
     
     <item>
       <title>Medical</title>
-      <link>http://people.csail.mit.edu/tals/project/mammography/</link>
+      <link>https://people.csail.mit.edu/tals/project/mammography/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/project/mammography/</guid>
+      <guid>https://people.csail.mit.edu/tals/project/mammography/</guid>
       <description>Deep learning models to improve cancer risk assessment.</description>
     </item>
     
     <item>
       <title>Word Embeddings</title>
-      <link>http://people.csail.mit.edu/tals/project/embeddings/</link>
+      <link>https://people.csail.mit.edu/tals/project/embeddings/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/project/embeddings/</guid>
+      <guid>https://people.csail.mit.edu/tals/project/embeddings/</guid>
       <description>Dense representations of words for NLP.</description>
     </item>
     

@@ -2,201 +2,201 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on טל שוסטר</title>
-    <link>http://people.csail.mit.edu/tals/he/authors/</link>
+    <link>https://people.csail.mit.edu/tals/he/authors/</link>
     <description>Recent content in Authors on טל שוסטר</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2019 Tal Schuster</copyright>
-    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://people.csail.mit.edu/tals/he/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://people.csail.mit.edu/tals/he/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://people.csail.mit.edu/tals/he/authors/admin/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <link>https://people.csail.mit.edu/tals/he/authors/admin/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/he/authors/admin/</guid>
+      <guid>https://people.csail.mit.edu/tals/he/authors/admin/</guid>
       <description>אני מועמד לדוקטורט במעבדת הבינה המלאכותית של המכון הטכנולוגי של מסצ׳וסטס</description>
     </item>
     
     <item>
-      <title>Roei Schuster</title>
-      <link>http://people.csail.mit.edu/tals/he/authors/roei-schuster/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://people.csail.mit.edu/tals/he/authors/roei-schuster/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vitaly Shmatikov</title>
-      <link>http://people.csail.mit.edu/tals/he/authors/vitaly-shmatikov/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://people.csail.mit.edu/tals/he/authors/vitaly-shmatikov/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yoav Meri</title>
-      <link>http://people.csail.mit.edu/tals/he/authors/yoav-meri/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://people.csail.mit.edu/tals/he/authors/yoav-meri/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Darsh J Shah</title>
-      <link>http://people.csail.mit.edu/tals/he/authors/darsh-j-shah/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <link>https://people.csail.mit.edu/tals/he/authors/darsh-j-shah/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/he/authors/darsh-j-shah/</guid>
+      <guid>https://people.csail.mit.edu/tals/he/authors/darsh-j-shah/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regina Barzilay</title>
-      <link>http://people.csail.mit.edu/tals/he/authors/regina-barzilay/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <link>https://people.csail.mit.edu/tals/he/authors/regina-barzilay/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/he/authors/regina-barzilay/</guid>
+      <guid>https://people.csail.mit.edu/tals/he/authors/regina-barzilay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roei Schuster</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/roei-schuster/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.csail.mit.edu/tals/he/authors/roei-schuster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vitaly Shmatikov</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/vitaly-shmatikov/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.csail.mit.edu/tals/he/authors/vitaly-shmatikov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yoav Meri</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/yoav-meri/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.csail.mit.edu/tals/he/authors/yoav-meri/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Daniel Filizzola</title>
-      <link>http://people.csail.mit.edu/tals/he/authors/daniel-filizzola/</link>
+      <link>https://people.csail.mit.edu/tals/he/authors/daniel-filizzola/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/he/authors/daniel-filizzola/</guid>
+      <guid>https://people.csail.mit.edu/tals/he/authors/daniel-filizzola/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enrico Santus</title>
-      <link>http://people.csail.mit.edu/tals/he/authors/enrico-santus/</link>
+      <link>https://people.csail.mit.edu/tals/he/authors/enrico-santus/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/he/authors/enrico-santus/</guid>
+      <guid>https://people.csail.mit.edu/tals/he/authors/enrico-santus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yun Jie Serene Yeo</title>
-      <link>http://people.csail.mit.edu/tals/he/authors/yun-jie-serene-yeo/</link>
+      <link>https://people.csail.mit.edu/tals/he/authors/yun-jie-serene-yeo/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/he/authors/yun-jie-serene-yeo/</guid>
+      <guid>https://people.csail.mit.edu/tals/he/authors/yun-jie-serene-yeo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adam Yala</title>
-      <link>http://people.csail.mit.edu/tals/he/authors/adam-yala/</link>
+      <link>https://people.csail.mit.edu/tals/he/authors/adam-yala/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/he/authors/adam-yala/</guid>
+      <guid>https://people.csail.mit.edu/tals/he/authors/adam-yala/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Constance Lehman</title>
-      <link>http://people.csail.mit.edu/tals/he/authors/constance-lehman/</link>
+      <link>https://people.csail.mit.edu/tals/he/authors/constance-lehman/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/he/authors/constance-lehman/</guid>
+      <guid>https://people.csail.mit.edu/tals/he/authors/constance-lehman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Randy Miles</title>
-      <link>http://people.csail.mit.edu/tals/he/authors/randy-miles/</link>
+      <link>https://people.csail.mit.edu/tals/he/authors/randy-miles/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/he/authors/randy-miles/</guid>
+      <guid>https://people.csail.mit.edu/tals/he/authors/randy-miles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Amir Globerson</title>
-      <link>http://people.csail.mit.edu/tals/he/authors/amir-globerson/</link>
+      <link>https://people.csail.mit.edu/tals/he/authors/amir-globerson/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/he/authors/amir-globerson/</guid>
+      <guid>https://people.csail.mit.edu/tals/he/authors/amir-globerson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ori Ram</title>
-      <link>http://people.csail.mit.edu/tals/he/authors/ori-ram/</link>
+      <link>https://people.csail.mit.edu/tals/he/authors/ori-ram/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/he/authors/ori-ram/</guid>
+      <guid>https://people.csail.mit.edu/tals/he/authors/ori-ram/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tally Portnoi</title>
-      <link>http://people.csail.mit.edu/tals/he/authors/tally-portnoi/</link>
+      <link>https://people.csail.mit.edu/tals/he/authors/tally-portnoi/</link>
       <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/he/authors/tally-portnoi/</guid>
+      <guid>https://people.csail.mit.edu/tals/he/authors/tally-portnoi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Brian Dontchos</title>
-      <link>http://people.csail.mit.edu/tals/he/authors/brian-dontchos/</link>
+      <link>https://people.csail.mit.edu/tals/he/authors/brian-dontchos/</link>
       <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/he/authors/brian-dontchos/</guid>
+      <guid>https://people.csail.mit.edu/tals/he/authors/brian-dontchos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Leslie Lamb</title>
-      <link>http://people.csail.mit.edu/tals/he/authors/leslie-lamb/</link>
+      <link>https://people.csail.mit.edu/tals/he/authors/leslie-lamb/</link>
       <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/he/authors/leslie-lamb/</guid>
+      <guid>https://people.csail.mit.edu/tals/he/authors/leslie-lamb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kyle Swanson</title>
-      <link>http://people.csail.mit.edu/tals/he/authors/kyle-swanson/</link>
+      <link>https://people.csail.mit.edu/tals/he/authors/kyle-swanson/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/he/authors/kyle-swanson/</guid>
+      <guid>https://people.csail.mit.edu/tals/he/authors/kyle-swanson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Manisha Bahl</title>
-      <link>http://people.csail.mit.edu/tals/he/authors/manisha-bahl/</link>
+      <link>https://people.csail.mit.edu/tals/he/authors/manisha-bahl/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/he/authors/manisha-bahl/</guid>
+      <guid>https://people.csail.mit.edu/tals/he/authors/manisha-bahl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>David Gadot</title>
-      <link>http://people.csail.mit.edu/tals/he/authors/david-gadot/</link>
+      <link>https://people.csail.mit.edu/tals/he/authors/david-gadot/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/he/authors/david-gadot/</guid>
+      <guid>https://people.csail.mit.edu/tals/he/authors/david-gadot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lior Wolf</title>
-      <link>http://people.csail.mit.edu/tals/he/authors/lior-wolf/</link>
+      <link>https://people.csail.mit.edu/tals/he/authors/lior-wolf/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/he/authors/lior-wolf/</guid>
+      <guid>https://people.csail.mit.edu/tals/he/authors/lior-wolf/</guid>
       <description></description>
     </item>
     

@@ -3,831 +3,815 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/talk/example/</loc>
+    <loc>https://people.csail.mit.edu/tals/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/talk/example/"
+                href="https://people.csail.mit.edu/tals/he/talk/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/talk/example/"
+                href="https://people.csail.mit.edu/tals/talk/example/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/talk/</loc>
+    <loc>https://people.csail.mit.edu/tals/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/talk/"
+                href="https://people.csail.mit.edu/tals/he/talk/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/talk/"
+                href="https://people.csail.mit.edu/tals/talk/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/</loc>
+    <loc>https://people.csail.mit.edu/tals/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/"
+                href="https://people.csail.mit.edu/tals/he/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/"
+                href="https://people.csail.mit.edu/tals/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/tags/</loc>
+    <loc>https://people.csail.mit.edu/tals/tags/</loc>
+    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://people.csail.mit.edu/tals/he/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.csail.mit.edu/tals/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/authors/admin/</loc>
+    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://people.csail.mit.edu/tals/he/authors/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.csail.mit.edu/tals/authors/admin/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/publication_types/2/</loc>
+    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://people.csail.mit.edu/tals/he/publication_types/2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.csail.mit.edu/tals/publication_types/2/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/authors/</loc>
+    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://people.csail.mit.edu/tals/he/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.csail.mit.edu/tals/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/authors/darsh-j-shah/</loc>
+    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://people.csail.mit.edu/tals/he/authors/darsh-j-shah/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.csail.mit.edu/tals/authors/darsh-j-shah/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/publication_types/</loc>
+    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://people.csail.mit.edu/tals/he/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.csail.mit.edu/tals/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/publication/</loc>
+    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://people.csail.mit.edu/tals/he/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.csail.mit.edu/tals/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/authors/regina-barzilay/</loc>
+    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://people.csail.mit.edu/tals/he/authors/regina-barzilay/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.csail.mit.edu/tals/authors/regina-barzilay/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/authors/roei-schuster/</loc>
+    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://people.csail.mit.edu/tals/he/authors/roei-schuster/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.csail.mit.edu/tals/authors/roei-schuster/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/tags/</loc>
+    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://people.csail.mit.edu/tals/he/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.csail.mit.edu/tals/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/publication/are_we_safe/</loc>
+    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://people.csail.mit.edu/tals/he/publication/are_we_safe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.csail.mit.edu/tals/publication/are_we_safe/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/publication_types/1/</loc>
     <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/tags/"
+                href="https://people.csail.mit.edu/tals/he/publication_types/1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/tags/"
+                href="https://people.csail.mit.edu/tals/publication_types/1/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/authors/admin/</loc>
+    <loc>https://people.csail.mit.edu/tals/publication/emb_attack/</loc>
     <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/authors/admin/"
+                href="https://people.csail.mit.edu/tals/he/publication/emb_attack/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/authors/admin/"
+                href="https://people.csail.mit.edu/tals/publication/emb_attack/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/publication_types/1/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/publication_types/1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://people.csail.mit.edu/tals/publication_types/1/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://people.csail.mit.edu/tals/authors/</loc>
+    <loc>https://people.csail.mit.edu/tals/authors/vitaly-shmatikov/</loc>
     <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/authors/"
+                href="https://people.csail.mit.edu/tals/he/authors/vitaly-shmatikov/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/authors/"
+                href="https://people.csail.mit.edu/tals/authors/vitaly-shmatikov/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/publication/emb_attack/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/publication/emb_attack/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://people.csail.mit.edu/tals/publication/emb_attack/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://people.csail.mit.edu/tals/publication_types/</loc>
+    <loc>https://people.csail.mit.edu/tals/authors/yoav-meri/</loc>
     <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/publication_types/"
+                href="https://people.csail.mit.edu/tals/he/authors/yoav-meri/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/publication_types/"
+                href="https://people.csail.mit.edu/tals/authors/yoav-meri/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/publication/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://people.csail.mit.edu/tals/publication/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://people.csail.mit.edu/tals/authors/roei-schuster/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/authors/roei-schuster/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://people.csail.mit.edu/tals/authors/roei-schuster/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://people.csail.mit.edu/tals/tags/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://people.csail.mit.edu/tals/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://people.csail.mit.edu/tals/authors/vitaly-shmatikov/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/authors/vitaly-shmatikov/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://people.csail.mit.edu/tals/authors/vitaly-shmatikov/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://people.csail.mit.edu/tals/authors/yoav-meri/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/authors/yoav-meri/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://people.csail.mit.edu/tals/authors/yoav-meri/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://people.csail.mit.edu/tals/publication/fact_generation/</loc>
+    <loc>https://people.csail.mit.edu/tals/publication/fact_generation/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/publication/fact_generation/"
+                href="https://people.csail.mit.edu/tals/he/publication/fact_generation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/publication/fact_generation/"
+                href="https://people.csail.mit.edu/tals/publication/fact_generation/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/authors/darsh-j-shah/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/authors/darsh-j-shah/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://people.csail.mit.edu/tals/authors/darsh-j-shah/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://people.csail.mit.edu/tals/authors/regina-barzilay/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/authors/regina-barzilay/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://people.csail.mit.edu/tals/authors/regina-barzilay/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://people.csail.mit.edu/tals/publication_types/4/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/publication_types/4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://people.csail.mit.edu/tals/publication_types/4/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://people.csail.mit.edu/tals/publication/are_we_safe/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/publication/are_we_safe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://people.csail.mit.edu/tals/publication/are_we_safe/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://people.csail.mit.edu/tals/authors/daniel-filizzola/</loc>
+    <loc>https://people.csail.mit.edu/tals/authors/daniel-filizzola/</loc>
     <lastmod>2019-08-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/authors/daniel-filizzola/"
+                href="https://people.csail.mit.edu/tals/he/authors/daniel-filizzola/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/authors/daniel-filizzola/"
+                href="https://people.csail.mit.edu/tals/authors/daniel-filizzola/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/authors/enrico-santus/</loc>
+    <loc>https://people.csail.mit.edu/tals/authors/enrico-santus/</loc>
     <lastmod>2019-08-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/authors/enrico-santus/"
+                href="https://people.csail.mit.edu/tals/he/authors/enrico-santus/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/authors/enrico-santus/"
+                href="https://people.csail.mit.edu/tals/authors/enrico-santus/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/publication/fact_symmetric/</loc>
+    <loc>https://people.csail.mit.edu/tals/publication/fact_symmetric/</loc>
     <lastmod>2019-08-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/publication/fact_symmetric/"
+                href="https://people.csail.mit.edu/tals/he/publication/fact_symmetric/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/publication/fact_symmetric/"
+                href="https://people.csail.mit.edu/tals/publication/fact_symmetric/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/authors/yun-jie-serene-yeo/</loc>
+    <loc>https://people.csail.mit.edu/tals/authors/yun-jie-serene-yeo/</loc>
     <lastmod>2019-08-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/authors/yun-jie-serene-yeo/"
+                href="https://people.csail.mit.edu/tals/he/authors/yun-jie-serene-yeo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/authors/yun-jie-serene-yeo/"
+                href="https://people.csail.mit.edu/tals/authors/yun-jie-serene-yeo/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/publication_types/2/</loc>
+    <loc>https://people.csail.mit.edu/tals/publication/mammo_triage/</loc>
+    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://people.csail.mit.edu/tals/he/publication/mammo_triage/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.csail.mit.edu/tals/publication/mammo_triage/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/authors/adam-yala/</loc>
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/publication_types/2/"
+                href="https://people.csail.mit.edu/tals/he/authors/adam-yala/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/publication_types/2/"
+                href="https://people.csail.mit.edu/tals/authors/adam-yala/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/publication/mammo_triage/</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/publication/mammo_triage/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://people.csail.mit.edu/tals/publication/mammo_triage/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://people.csail.mit.edu/tals/authors/adam-yala/</loc>
+    <loc>https://people.csail.mit.edu/tals/authors/constance-lehman/</loc>
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/authors/adam-yala/"
+                href="https://people.csail.mit.edu/tals/he/authors/constance-lehman/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/authors/adam-yala/"
+                href="https://people.csail.mit.edu/tals/authors/constance-lehman/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/authors/constance-lehman/</loc>
+    <loc>https://people.csail.mit.edu/tals/authors/randy-miles/</loc>
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/authors/constance-lehman/"
+                href="https://people.csail.mit.edu/tals/he/authors/randy-miles/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/authors/constance-lehman/"
+                href="https://people.csail.mit.edu/tals/authors/randy-miles/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/authors/randy-miles/</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/authors/randy-miles/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://people.csail.mit.edu/tals/authors/randy-miles/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://people.csail.mit.edu/tals/authors/amir-globerson/</loc>
+    <loc>https://people.csail.mit.edu/tals/authors/amir-globerson/</loc>
     <lastmod>2019-06-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/authors/amir-globerson/"
+                href="https://people.csail.mit.edu/tals/he/authors/amir-globerson/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/authors/amir-globerson/"
+                href="https://people.csail.mit.edu/tals/authors/amir-globerson/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/publication/crosslingual_elmo/</loc>
+    <loc>https://people.csail.mit.edu/tals/publication/crosslingual_elmo/</loc>
     <lastmod>2019-06-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/publication/crosslingual_elmo/"
+                href="https://people.csail.mit.edu/tals/he/publication/crosslingual_elmo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/publication/crosslingual_elmo/"
+                href="https://people.csail.mit.edu/tals/publication/crosslingual_elmo/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/authors/ori-ram/</loc>
+    <loc>https://people.csail.mit.edu/tals/authors/ori-ram/</loc>
     <lastmod>2019-06-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/authors/ori-ram/"
+                href="https://people.csail.mit.edu/tals/he/authors/ori-ram/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/authors/ori-ram/"
+                href="https://people.csail.mit.edu/tals/authors/ori-ram/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/publication/mammo_risk/</loc>
+    <loc>https://people.csail.mit.edu/tals/publication/mammo_risk/</loc>
     <lastmod>2019-05-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/publication/mammo_risk/"
+                href="https://people.csail.mit.edu/tals/he/publication/mammo_risk/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/publication/mammo_risk/"
+                href="https://people.csail.mit.edu/tals/publication/mammo_risk/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/authors/tally-portnoi/</loc>
+    <loc>https://people.csail.mit.edu/tals/authors/tally-portnoi/</loc>
     <lastmod>2019-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/authors/tally-portnoi/"
+                href="https://people.csail.mit.edu/tals/he/authors/tally-portnoi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/authors/tally-portnoi/"
+                href="https://people.csail.mit.edu/tals/authors/tally-portnoi/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/authors/brian-dontchos/</loc>
+    <loc>https://people.csail.mit.edu/tals/authors/brian-dontchos/</loc>
     <lastmod>2019-01-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/authors/brian-dontchos/"
+                href="https://people.csail.mit.edu/tals/he/authors/brian-dontchos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/authors/brian-dontchos/"
+                href="https://people.csail.mit.edu/tals/authors/brian-dontchos/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/publication/mri/</loc>
+    <loc>https://people.csail.mit.edu/tals/publication/mri/</loc>
     <lastmod>2019-01-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/publication/mri/"
+                href="https://people.csail.mit.edu/tals/he/publication/mri/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/publication/mri/"
+                href="https://people.csail.mit.edu/tals/publication/mri/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/authors/leslie-lamb/</loc>
+    <loc>https://people.csail.mit.edu/tals/authors/leslie-lamb/</loc>
     <lastmod>2019-01-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/authors/leslie-lamb/"
+                href="https://people.csail.mit.edu/tals/he/authors/leslie-lamb/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/authors/leslie-lamb/"
+                href="https://people.csail.mit.edu/tals/authors/leslie-lamb/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/authors/kyle-swanson/</loc>
+    <loc>https://people.csail.mit.edu/tals/authors/kyle-swanson/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/authors/kyle-swanson/"
+                href="https://people.csail.mit.edu/tals/he/authors/kyle-swanson/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/authors/kyle-swanson/"
+                href="https://people.csail.mit.edu/tals/authors/kyle-swanson/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/publication/density/</loc>
+    <loc>https://people.csail.mit.edu/tals/publication/density/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/publication/density/"
+                href="https://people.csail.mit.edu/tals/he/publication/density/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/publication/density/"
+                href="https://people.csail.mit.edu/tals/publication/density/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/authors/manisha-bahl/</loc>
+    <loc>https://people.csail.mit.edu/tals/authors/manisha-bahl/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/authors/manisha-bahl/"
+                href="https://people.csail.mit.edu/tals/he/authors/manisha-bahl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/authors/manisha-bahl/"
+                href="https://people.csail.mit.edu/tals/authors/manisha-bahl/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/authors/david-gadot/</loc>
+    <loc>https://people.csail.mit.edu/tals/authors/david-gadot/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/authors/david-gadot/"
+                href="https://people.csail.mit.edu/tals/he/authors/david-gadot/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/authors/david-gadot/"
+                href="https://people.csail.mit.edu/tals/authors/david-gadot/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/authors/lior-wolf/</loc>
+    <loc>https://people.csail.mit.edu/tals/authors/lior-wolf/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/authors/lior-wolf/"
+                href="https://people.csail.mit.edu/tals/he/authors/lior-wolf/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/authors/lior-wolf/"
+                href="https://people.csail.mit.edu/tals/authors/lior-wolf/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/publication/optical/</loc>
+    <loc>https://people.csail.mit.edu/tals/publication/optical/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/publication/optical/"
+                href="https://people.csail.mit.edu/tals/he/publication/optical/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/publication/optical/"
+                href="https://people.csail.mit.edu/tals/publication/optical/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/tags/deep-learning/</loc>
+    <loc>https://people.csail.mit.edu/tals/tags/deep-learning/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/tags/deep-learning/"
+                href="https://people.csail.mit.edu/tals/he/tags/deep-learning/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/tags/deep-learning/"
+                href="https://people.csail.mit.edu/tals/tags/deep-learning/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/tags/embeddings/</loc>
+    <loc>https://people.csail.mit.edu/tals/tags/embeddings/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/tags/embeddings/"
+                href="https://people.csail.mit.edu/tals/he/tags/embeddings/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/tags/embeddings/"
+                href="https://people.csail.mit.edu/tals/tags/embeddings/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/project/fake_news/</loc>
+    <loc>https://people.csail.mit.edu/tals/project/fake_news/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/project/fake_news/"
+                href="https://people.csail.mit.edu/tals/he/project/fake_news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/project/fake_news/"
+                href="https://people.csail.mit.edu/tals/project/fake_news/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/project/optical/</loc>
+    <loc>https://people.csail.mit.edu/tals/project/optical/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/project/optical/"
+                href="https://people.csail.mit.edu/tals/he/project/optical/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/project/optical/"
+                href="https://people.csail.mit.edu/tals/project/optical/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/tags/medical/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/tags/medical/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://people.csail.mit.edu/tals/tags/medical/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://people.csail.mit.edu/tals/project/mammography/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/project/mammography/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://people.csail.mit.edu/tals/project/mammography/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://people.csail.mit.edu/tals/tags/nlp/</loc>
+    <loc>https://people.csail.mit.edu/tals/tags/medical/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/tags/nlp/"
+                href="https://people.csail.mit.edu/tals/he/tags/medical/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/tags/nlp/"
+                href="https://people.csail.mit.edu/tals/tags/medical/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/project/</loc>
+    <loc>https://people.csail.mit.edu/tals/project/mammography/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://people.csail.mit.edu/tals/he/project/mammography/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.csail.mit.edu/tals/project/mammography/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/tags/nlp/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/project/"
+                href="https://people.csail.mit.edu/tals/he/tags/nlp/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/project/"
+                href="https://people.csail.mit.edu/tals/tags/nlp/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/tags/vision/</loc>
+    <loc>https://people.csail.mit.edu/tals/project/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/tags/vision/"
+                href="https://people.csail.mit.edu/tals/he/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/tags/vision/"
+                href="https://people.csail.mit.edu/tals/project/"
                 />
   </url>
   
   <url>
-    <loc>http://people.csail.mit.edu/tals/project/embeddings/</loc>
+    <loc>https://people.csail.mit.edu/tals/tags/vision/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/project/embeddings/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://people.csail.mit.edu/tals/project/embeddings/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://people.csail.mit.edu/tals/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="http://people.csail.mit.edu/tals/he/categories/"
+                href="https://people.csail.mit.edu/tals/he/tags/vision/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://people.csail.mit.edu/tals/categories/"
+                href="https://people.csail.mit.edu/tals/tags/vision/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/project/embeddings/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://people.csail.mit.edu/tals/he/project/embeddings/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.csail.mit.edu/tals/project/embeddings/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://people.csail.mit.edu/tals/he/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.csail.mit.edu/tals/categories/"
                 />
   </url>
   

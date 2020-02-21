@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Roei Schuster on טל שוסטר</title>
-    <link>http://people.csail.mit.edu/tals/he/authors/roei-schuster/</link>
+    <link>https://people.csail.mit.edu/tals/he/authors/roei-schuster/</link>
     <description>Recent content in Roei Schuster on טל שוסטר</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2019 Tal Schuster</copyright>
-    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://people.csail.mit.edu/tals/he/authors/roei-schuster/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://people.csail.mit.edu/tals/he/authors/roei-schuster/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Humpty Dumpty: Controlling Word Meanings via Corpus Poisoning</title>
-      <link>http://people.csail.mit.edu/tals/he/publication/emb_attack/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <title>The Limitations of Stylometry for Detecting Machine-Generated Fake News</title>
+      <link>https://people.csail.mit.edu/tals/he/publication/are_we_safe/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/he/publication/emb_attack/</guid>
-      <description></description>
+      <guid>https://people.csail.mit.edu/tals/he/publication/are_we_safe/</guid>
+      <description>Note: this article was earlier published under the name: Are We Safe Yet? The Limitations of Distributional Features for Fake News Detection</description>
     </item>
     
     <item>
-      <title>Are We Safe Yet? The Limitations of Distributional Features for Fake News Detection</title>
-      <link>http://people.csail.mit.edu/tals/he/publication/are_we_safe/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <title>Humpty Dumpty: Controlling Word Meanings via Corpus Poisoning</title>
+      <link>https://people.csail.mit.edu/tals/he/publication/emb_attack/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/he/publication/are_we_safe/</guid>
+      <guid>https://people.csail.mit.edu/tals/he/publication/emb_attack/</guid>
       <description></description>
     </item>
     

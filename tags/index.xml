@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Tal Schuster</title>
-    <link>http://people.csail.mit.edu/tals/tags/</link>
+    <link>https://people.csail.mit.edu/tals/tags/</link>
     <description>Recent content in Tags on Tal Schuster</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Tal Schuster</copyright>
-    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://people.csail.mit.edu/tals/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://people.csail.mit.edu/tals/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://people.csail.mit.edu/tals/tags/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <link>https://people.csail.mit.edu/tals/tags/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/tags/</guid>
+      <guid>https://people.csail.mit.edu/tals/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>http://people.csail.mit.edu/tals/tags/deep-learning/</link>
+      <link>https://people.csail.mit.edu/tals/tags/deep-learning/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/tags/deep-learning/</guid>
+      <guid>https://people.csail.mit.edu/tals/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Embeddings</title>
-      <link>http://people.csail.mit.edu/tals/tags/embeddings/</link>
+      <link>https://people.csail.mit.edu/tals/tags/embeddings/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/tags/embeddings/</guid>
+      <guid>https://people.csail.mit.edu/tals/tags/embeddings/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Medical</title>
-      <link>http://people.csail.mit.edu/tals/tags/medical/</link>
+      <link>https://people.csail.mit.edu/tals/tags/medical/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/tags/medical/</guid>
+      <guid>https://people.csail.mit.edu/tals/tags/medical/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NLP</title>
-      <link>http://people.csail.mit.edu/tals/tags/nlp/</link>
+      <link>https://people.csail.mit.edu/tals/tags/nlp/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/tags/nlp/</guid>
+      <guid>https://people.csail.mit.edu/tals/tags/nlp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vision</title>
-      <link>http://people.csail.mit.edu/tals/tags/vision/</link>
+      <link>https://people.csail.mit.edu/tals/tags/vision/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/tags/vision/</guid>
+      <guid>https://people.csail.mit.edu/tals/tags/vision/</guid>
       <description></description>
     </item>
     

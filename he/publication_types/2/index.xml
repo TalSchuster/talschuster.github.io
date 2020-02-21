@@ -2,48 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on טל שוסטר</title>
-    <link>http://people.csail.mit.edu/tals/he/publication_types/2/</link>
+    <link>https://people.csail.mit.edu/tals/he/publication_types/2/</link>
     <description>Recent content in 2 on טל שוסטר</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2019 Tal Schuster</copyright>
-    <lastBuildDate>Tue, 06 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://people.csail.mit.edu/tals/he/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://people.csail.mit.edu/tals/he/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>The Limitations of Stylometry for Detecting Machine-Generated Fake News</title>
+      <link>https://people.csail.mit.edu/tals/he/publication/are_we_safe/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://people.csail.mit.edu/tals/he/publication/are_we_safe/</guid>
+      <description>Note: this article was earlier published under the name: Are We Safe Yet? The Limitations of Distributional Features for Fake News Detection</description>
+    </item>
+    
+    <item>
       <title>A Deep Learning Model to Triage Screening Mammograms: A Simulation Study</title>
-      <link>http://people.csail.mit.edu/tals/he/publication/mammo_triage/</link>
+      <link>https://people.csail.mit.edu/tals/he/publication/mammo_triage/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/he/publication/mammo_triage/</guid>
+      <guid>https://people.csail.mit.edu/tals/he/publication/mammo_triage/</guid>
       <description>A DL model to triage a portion of mammograms as cancer free, improving performance and workflow efficiency.</description>
     </item>
     
     <item>
       <title>A Deep Learning Mammography-based Model for Improved Breast Cancer Risk Prediction</title>
-      <link>http://people.csail.mit.edu/tals/he/publication/mammo_risk/</link>
+      <link>https://people.csail.mit.edu/tals/he/publication/mammo_risk/</link>
       <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/he/publication/mammo_risk/</guid>
+      <guid>https://people.csail.mit.edu/tals/he/publication/mammo_risk/</guid>
       <description>Deep learning models that use full-field mammograms yield substantially improved risk discrimination compared with the Tyrer-Cuzick (version 8) model.</description>
     </item>
     
     <item>
       <title>Deep Learning Model to Assess Cancer Risk on the Basis of a Breast MR Image Alone</title>
-      <link>http://people.csail.mit.edu/tals/he/publication/mri/</link>
+      <link>https://people.csail.mit.edu/tals/he/publication/mri/</link>
       <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/he/publication/mri/</guid>
+      <guid>https://people.csail.mit.edu/tals/he/publication/mri/</guid>
       <description>Our DL model can assess the 5-year cancer risk on the basis of a breast MR image alone, and it showed improved individual risk discrimination when compared with a state-of-the-art risk assessment model. These results offer promising preliminary data regarding the potential of image-based risk assessment models to support more personalized care.</description>
     </item>
     
     <item>
       <title>Mammographic breast density assessment using deep learning: clinical implementation</title>
-      <link>http://people.csail.mit.edu/tals/he/publication/density/</link>
+      <link>https://people.csail.mit.edu/tals/he/publication/density/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://people.csail.mit.edu/tals/he/publication/density/</guid>
+      <guid>https://people.csail.mit.edu/tals/he/publication/density/</guid>
       <description>This DL model can be used to assess mammographic breast density at the level of an experienced mammographer.</description>
     </item>
     
