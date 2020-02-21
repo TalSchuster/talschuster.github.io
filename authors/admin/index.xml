@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Tal Schuster</copyright>
-    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://talschuster.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Limitations of Stylometry for Detecting Machine-Generated Fake News</title>
+      <link>https://talschuster.github.io/publication/are_we_safe/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://talschuster.github.io/publication/are_we_safe/</guid>
+      <description>Note: this article was earlier published under the name: Are We Safe Yet? The Limitations of Distributional Features for Fake News Detection</description>
+    </item>
     
     <item>
       <title>Humpty Dumpty: Controlling Word Meanings via Corpus Poisoning</title>
@@ -27,15 +36,6 @@
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://talschuster.github.io/publication/fact_generation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Are We Safe Yet? The Limitations of Distributional Features for Fake News Detection</title>
-      <link>https://talschuster.github.io/publication/are_we_safe/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://talschuster.github.io/publication/are_we_safe/</guid>
       <description></description>
     </item>
     
@@ -105,7 +105,7 @@
     <item>
       <title></title>
       <link>https://talschuster.github.io/authors/admin/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://talschuster.github.io/authors/admin/</guid>
       <description>I&amp;rsquo;m a Ph.D. student at MIT CSAIL and a member of the NLP and Learn To Cure groups. My advisor is Prof. Regina Barzilay.  Currently, I&amp;rsquo;m focusing on automatic fact-checking and on the geometry of contextual word embeddings. I have also worked on creating deep learning screening-based methods to improve cancer detection and risk assessment.  Before coming to MIT, I was an MSc student in Computer Science at Tel Aviv University, advised by Prof.</description>

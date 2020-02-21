@@ -6,7 +6,7 @@
     <description>Recent content in Authors on טל שוסטר</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2019 Tal Schuster</copyright>
-    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://talschuster.github.io/he/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,16 +14,34 @@
     <item>
       <title></title>
       <link>https://talschuster.github.io/he/authors/admin/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://talschuster.github.io/he/authors/admin/</guid>
       <description>אני מועמד לדוקטורט במעבדת הבינה המלאכותית של המכון הטכנולוגי של מסצ׳וסטס</description>
     </item>
     
     <item>
+      <title>Darsh J Shah</title>
+      <link>https://talschuster.github.io/he/authors/darsh-j-shah/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://talschuster.github.io/he/authors/darsh-j-shah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regina Barzilay</title>
+      <link>https://talschuster.github.io/he/authors/regina-barzilay/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://talschuster.github.io/he/authors/regina-barzilay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Roei Schuster</title>
       <link>https://talschuster.github.io/he/authors/roei-schuster/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://talschuster.github.io/he/authors/roei-schuster/</guid>
       <description></description>
@@ -44,24 +62,6 @@
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://talschuster.github.io/he/authors/yoav-meri/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Darsh J Shah</title>
-      <link>https://talschuster.github.io/he/authors/darsh-j-shah/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://talschuster.github.io/he/authors/darsh-j-shah/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regina Barzilay</title>
-      <link>https://talschuster.github.io/he/authors/regina-barzilay/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://talschuster.github.io/he/authors/regina-barzilay/</guid>
       <description></description>
     </item>
     

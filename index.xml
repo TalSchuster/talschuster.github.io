@@ -37,6 +37,16 @@
     </item>
     
     <item>
+      <title>The Limitations of Stylometry for Detecting Machine-Generated Fake News</title>
+      <link>https://talschuster.github.io/publication/are_we_safe/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://talschuster.github.io/publication/are_we_safe/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Note:&lt;/em&gt; this article was earlier published under the name: &lt;em&gt;Are We Safe Yet? The Limitations of Distributional Features for Fake News Detection&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Humpty Dumpty: Controlling Word Meanings via Corpus Poisoning</title>
       <link>https://talschuster.github.io/publication/emb_attack/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
@@ -52,15 +62,6 @@
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://talschuster.github.io/publication/fact_generation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Are We Safe Yet? The Limitations of Distributional Features for Fake News Detection</title>
-      <link>https://talschuster.github.io/publication/are_we_safe/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://talschuster.github.io/publication/are_we_safe/</guid>
       <description></description>
     </item>
     

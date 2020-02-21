@@ -50,7 +50,7 @@
   
   <url>
     <loc>https://talschuster.github.io/he/tags/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -66,7 +66,7 @@
   
   <url>
     <loc>https://talschuster.github.io/he/authors/admin/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -76,6 +76,148 @@
                 rel="alternate"
                 hreflang="he"
                 href="https://talschuster.github.io/he/authors/admin/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/he/publication_types/2/</loc>
+    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://talschuster.github.io/publication_types/2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://talschuster.github.io/he/publication_types/2/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/he/authors/</loc>
+    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://talschuster.github.io/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://talschuster.github.io/he/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/he/authors/darsh-j-shah/</loc>
+    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://talschuster.github.io/authors/darsh-j-shah/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://talschuster.github.io/he/authors/darsh-j-shah/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/he/publication_types/</loc>
+    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://talschuster.github.io/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://talschuster.github.io/he/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/he/publication/</loc>
+    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://talschuster.github.io/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://talschuster.github.io/he/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/he/authors/regina-barzilay/</loc>
+    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://talschuster.github.io/authors/regina-barzilay/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://talschuster.github.io/he/authors/regina-barzilay/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/he/authors/roei-schuster/</loc>
+    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://talschuster.github.io/authors/roei-schuster/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://talschuster.github.io/he/authors/roei-schuster/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/he/tags/</loc>
+    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://talschuster.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://talschuster.github.io/he/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/he/publication/are_we_safe/</loc>
+    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://talschuster.github.io/publication/are_we_safe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://talschuster.github.io/he/publication/are_we_safe/"
                 />
   </url>
   
@@ -96,22 +238,6 @@
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/he/authors/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://talschuster.github.io/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://talschuster.github.io/he/authors/"
-                />
-  </url>
-  
-  <url>
     <loc>https://talschuster.github.io/he/publication/emb_attack/</loc>
     <lastmod>2020-01-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -123,69 +249,6 @@
                 rel="alternate"
                 hreflang="he"
                 href="https://talschuster.github.io/he/publication/emb_attack/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://talschuster.github.io/he/publication_types/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://talschuster.github.io/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://talschuster.github.io/he/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://talschuster.github.io/he/publication/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://talschuster.github.io/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://talschuster.github.io/he/publication/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://talschuster.github.io/he/authors/roei-schuster/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://talschuster.github.io/authors/roei-schuster/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://talschuster.github.io/he/authors/roei-schuster/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://talschuster.github.io/he/tags/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://talschuster.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://talschuster.github.io/he/tags/"
                 />
   </url>
   
@@ -233,69 +296,6 @@
                 rel="alternate"
                 hreflang="he"
                 href="https://talschuster.github.io/he/publication/fact_generation/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://talschuster.github.io/he/authors/darsh-j-shah/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://talschuster.github.io/authors/darsh-j-shah/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://talschuster.github.io/he/authors/darsh-j-shah/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://talschuster.github.io/he/authors/regina-barzilay/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://talschuster.github.io/authors/regina-barzilay/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://talschuster.github.io/he/authors/regina-barzilay/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://talschuster.github.io/he/publication_types/4/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://talschuster.github.io/publication_types/4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://talschuster.github.io/he/publication_types/4/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://talschuster.github.io/he/publication/are_we_safe/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://talschuster.github.io/publication/are_we_safe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://talschuster.github.io/he/publication/are_we_safe/"
                 />
   </url>
   
@@ -359,22 +359,6 @@
                 rel="alternate"
                 hreflang="he"
                 href="https://talschuster.github.io/he/authors/yun-jie-serene-yeo/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://talschuster.github.io/he/publication_types/2/</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://talschuster.github.io/publication_types/2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://talschuster.github.io/he/publication_types/2/"
                 />
   </url>
   
