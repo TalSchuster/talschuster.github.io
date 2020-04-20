@@ -1,30 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on טל שוסטר</title>
+    <title>Tags | טל שוסטר</title>
     <link>https://people.csail.mit.edu/tals/he/tags/</link>
-    <description>Recent content in Tags on טל שוסטר</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; 2019 Tal Schuster</copyright>
-    <lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://people.csail.mit.edu/tals/he/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
+      <atom:link href="https://people.csail.mit.edu/tals/he/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2020 Tal Schuster</copyright><lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Tags</title>
       <link>https://people.csail.mit.edu/tals/he/tags/</link>
-      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://people.csail.mit.edu/tals/he/tags/</guid>
-      <description></description>
-    </item>
+    </image>
     
     <item>
       <title>Deep Learning</title>
       <link>https://people.csail.mit.edu/tals/he/tags/deep-learning/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://people.csail.mit.edu/tals/he/tags/deep-learning/</guid>
       <description></description>
     </item>
@@ -33,7 +24,6 @@
       <title>Embeddings</title>
       <link>https://people.csail.mit.edu/tals/he/tags/embeddings/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://people.csail.mit.edu/tals/he/tags/embeddings/</guid>
       <description></description>
     </item>
@@ -42,7 +32,6 @@
       <title>Medical</title>
       <link>https://people.csail.mit.edu/tals/he/tags/medical/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://people.csail.mit.edu/tals/he/tags/medical/</guid>
       <description></description>
     </item>
@@ -51,7 +40,6 @@
       <title>NLP</title>
       <link>https://people.csail.mit.edu/tals/he/tags/nlp/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://people.csail.mit.edu/tals/he/tags/nlp/</guid>
       <description></description>
     </item>
@@ -60,7 +48,6 @@
       <title>Vision</title>
       <link>https://people.csail.mit.edu/tals/he/tags/vision/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://people.csail.mit.edu/tals/he/tags/vision/</guid>
       <description></description>
     </item>

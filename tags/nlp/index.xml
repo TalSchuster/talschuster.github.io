@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>NLP on Tal Schuster</title>
+    <title>NLP | Tal Schuster</title>
     <link>https://people.csail.mit.edu/tals/tags/nlp/</link>
-    <description>Recent content in NLP on Tal Schuster</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Tal Schuster</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://people.csail.mit.edu/tals/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://people.csail.mit.edu/tals/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <description>NLP</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tal Schuster</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>NLP</title>
+      <link>https://people.csail.mit.edu/tals/tags/nlp/</link>
+    </image>
     
     <item>
       <title>Fake News</title>
       <link>https://people.csail.mit.edu/tals/project/fake_news/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://people.csail.mit.edu/tals/project/fake_news/</guid>
-      <description>Automatic detection of false information in articles.</description>
+      <description>&lt;p&gt;In this project, we aim to improve the automatic detection of false information. We rely on trustworthy sources and evaluate content against them.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Word Embeddings</title>
       <link>https://people.csail.mit.edu/tals/project/embeddings/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://people.csail.mit.edu/tals/project/embeddings/</guid>
-      <description>Dense representations of words for NLP.</description>
+      <description>&lt;p&gt;Analyzing the space of word represenations for multilingual applications and for better performance with less data.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

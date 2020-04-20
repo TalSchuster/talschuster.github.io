@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Enrico Santus on טל שוסטר</title>
+    <title>Enrico Santus | טל שוסטר</title>
     <link>https://people.csail.mit.edu/tals/he/authors/enrico-santus/</link>
-    <description>Recent content in Enrico Santus on טל שוסטר</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; 2019 Tal Schuster</copyright>
-    <lastBuildDate>Wed, 14 Aug 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://people.csail.mit.edu/tals/he/authors/enrico-santus/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://people.csail.mit.edu/tals/he/authors/enrico-santus/index.xml" rel="self" type="application/rss+xml" />
+    <description>Enrico Santus</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2020 Tal Schuster</copyright><lastBuildDate>Wed, 14 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Enrico Santus</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/enrico-santus/</link>
+    </image>
     
     <item>
       <title>Towards Debiasing Fact Verification Models</title>
       <link>https://people.csail.mit.edu/tals/he/publication/fact_symmetric/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://people.csail.mit.edu/tals/he/publication/fact_symmetric/</guid>
       <description></description>
     </item>

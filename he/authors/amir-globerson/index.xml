@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Amir Globerson on טל שוסטר</title>
+    <title>Amir Globerson | טל שוסטר</title>
     <link>https://people.csail.mit.edu/tals/he/authors/amir-globerson/</link>
-    <description>Recent content in Amir Globerson on טל שוסטר</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; 2019 Tal Schuster</copyright>
-    <lastBuildDate>Tue, 04 Jun 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://people.csail.mit.edu/tals/he/authors/amir-globerson/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://people.csail.mit.edu/tals/he/authors/amir-globerson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amir Globerson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2020 Tal Schuster</copyright><lastBuildDate>Tue, 04 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Amir Globerson</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/amir-globerson/</link>
+    </image>
     
     <item>
       <title>Cross-Lingual Alignment of Contextual Word Embeddings, with Applications to Zero-shot Dependency Parsing</title>
       <link>https://people.csail.mit.edu/tals/he/publication/crosslingual_elmo/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://people.csail.mit.edu/tals/he/publication/crosslingual_elmo/</guid>
-      <description></description>
+      <description>&lt;hr&gt;
+</description>
     </item>
     
   </channel>

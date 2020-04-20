@@ -1,30 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on טל שוסטר</title>
+    <title>Authors | טל שוסטר</title>
     <link>https://people.csail.mit.edu/tals/he/authors/</link>
-    <description>Recent content in Authors on טל שוסטר</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; 2019 Tal Schuster</copyright>
-    <lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://people.csail.mit.edu/tals/he/authors/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://people.csail.mit.edu/tals/he/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2020 Tal Schuster</copyright><lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Authors</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/</link>
+    </image>
     
     <item>
       <title></title>
       <link>https://people.csail.mit.edu/tals/he/authors/admin/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://people.csail.mit.edu/tals/he/authors/admin/</guid>
-      <description>אני מועמד לדוקטורט במעבדת הבינה המלאכותית של המכון הטכנולוגי של מסצ׳וסטס</description>
+      <description>&lt;p&gt;אני מועמד לדוקטורט &lt;a href=&#34;http://www.csail.mit.edu/&#34;&gt; במעבדת הבינה המלאכותית של המכון הטכנולוגי של מסצ׳וסטס&lt;/a&gt;
+&lt;br&gt;
+תחת הנחייתה של &lt;a href=&#34;http://people.csail.mit.edu/regina/&#34;&gt;פרופ׳ רגינה ברזילי&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Darsh J Shah</title>
       <link>https://people.csail.mit.edu/tals/he/authors/darsh-j-shah/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://people.csail.mit.edu/tals/he/authors/darsh-j-shah/</guid>
       <description></description>
     </item>
@@ -33,7 +35,6 @@
       <title>Regina Barzilay</title>
       <link>https://people.csail.mit.edu/tals/he/authors/regina-barzilay/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://people.csail.mit.edu/tals/he/authors/regina-barzilay/</guid>
       <description></description>
     </item>
@@ -42,7 +43,6 @@
       <title>Roei Schuster</title>
       <link>https://people.csail.mit.edu/tals/he/authors/roei-schuster/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://people.csail.mit.edu/tals/he/authors/roei-schuster/</guid>
       <description></description>
     </item>
@@ -51,7 +51,6 @@
       <title>Vitaly Shmatikov</title>
       <link>https://people.csail.mit.edu/tals/he/authors/vitaly-shmatikov/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://people.csail.mit.edu/tals/he/authors/vitaly-shmatikov/</guid>
       <description></description>
     </item>
@@ -60,7 +59,6 @@
       <title>Yoav Meri</title>
       <link>https://people.csail.mit.edu/tals/he/authors/yoav-meri/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://people.csail.mit.edu/tals/he/authors/yoav-meri/</guid>
       <description></description>
     </item>
@@ -69,7 +67,6 @@
       <title>Daniel Filizzola</title>
       <link>https://people.csail.mit.edu/tals/he/authors/daniel-filizzola/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://people.csail.mit.edu/tals/he/authors/daniel-filizzola/</guid>
       <description></description>
     </item>
@@ -78,7 +75,6 @@
       <title>Enrico Santus</title>
       <link>https://people.csail.mit.edu/tals/he/authors/enrico-santus/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://people.csail.mit.edu/tals/he/authors/enrico-santus/</guid>
       <description></description>
     </item>
@@ -87,7 +83,6 @@
       <title>Yun Jie Serene Yeo</title>
       <link>https://people.csail.mit.edu/tals/he/authors/yun-jie-serene-yeo/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://people.csail.mit.edu/tals/he/authors/yun-jie-serene-yeo/</guid>
       <description></description>
     </item>
@@ -96,7 +91,6 @@
       <title>Adam Yala</title>
       <link>https://people.csail.mit.edu/tals/he/authors/adam-yala/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://people.csail.mit.edu/tals/he/authors/adam-yala/</guid>
       <description></description>
     </item>
@@ -105,7 +99,6 @@
       <title>Constance Lehman</title>
       <link>https://people.csail.mit.edu/tals/he/authors/constance-lehman/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://people.csail.mit.edu/tals/he/authors/constance-lehman/</guid>
       <description></description>
     </item>
@@ -114,7 +107,6 @@
       <title>Randy Miles</title>
       <link>https://people.csail.mit.edu/tals/he/authors/randy-miles/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://people.csail.mit.edu/tals/he/authors/randy-miles/</guid>
       <description></description>
     </item>
@@ -123,7 +115,6 @@
       <title>Amir Globerson</title>
       <link>https://people.csail.mit.edu/tals/he/authors/amir-globerson/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://people.csail.mit.edu/tals/he/authors/amir-globerson/</guid>
       <description></description>
     </item>
@@ -132,7 +123,6 @@
       <title>Ori Ram</title>
       <link>https://people.csail.mit.edu/tals/he/authors/ori-ram/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://people.csail.mit.edu/tals/he/authors/ori-ram/</guid>
       <description></description>
     </item>
@@ -141,7 +131,6 @@
       <title>Tally Portnoi</title>
       <link>https://people.csail.mit.edu/tals/he/authors/tally-portnoi/</link>
       <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://people.csail.mit.edu/tals/he/authors/tally-portnoi/</guid>
       <description></description>
     </item>
@@ -150,7 +139,6 @@
       <title>Brian Dontchos</title>
       <link>https://people.csail.mit.edu/tals/he/authors/brian-dontchos/</link>
       <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://people.csail.mit.edu/tals/he/authors/brian-dontchos/</guid>
       <description></description>
     </item>
@@ -159,7 +147,6 @@
       <title>Leslie Lamb</title>
       <link>https://people.csail.mit.edu/tals/he/authors/leslie-lamb/</link>
       <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://people.csail.mit.edu/tals/he/authors/leslie-lamb/</guid>
       <description></description>
     </item>
@@ -168,7 +155,6 @@
       <title>Kyle Swanson</title>
       <link>https://people.csail.mit.edu/tals/he/authors/kyle-swanson/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://people.csail.mit.edu/tals/he/authors/kyle-swanson/</guid>
       <description></description>
     </item>
@@ -177,7 +163,6 @@
       <title>Manisha Bahl</title>
       <link>https://people.csail.mit.edu/tals/he/authors/manisha-bahl/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://people.csail.mit.edu/tals/he/authors/manisha-bahl/</guid>
       <description></description>
     </item>
@@ -186,7 +171,6 @@
       <title>David Gadot</title>
       <link>https://people.csail.mit.edu/tals/he/authors/david-gadot/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://people.csail.mit.edu/tals/he/authors/david-gadot/</guid>
       <description></description>
     </item>
@@ -195,7 +179,6 @@
       <title>Lior Wolf</title>
       <link>https://people.csail.mit.edu/tals/he/authors/lior-wolf/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://people.csail.mit.edu/tals/he/authors/lior-wolf/</guid>
       <description></description>
     </item>

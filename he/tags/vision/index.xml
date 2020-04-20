@@ -1,32 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vision on טל שוסטר</title>
+    <title>Vision | טל שוסטר</title>
     <link>https://people.csail.mit.edu/tals/he/tags/vision/</link>
-    <description>Recent content in Vision on טל שוסטר</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; 2019 Tal Schuster</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://people.csail.mit.edu/tals/he/tags/vision/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://people.csail.mit.edu/tals/he/tags/vision/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vision</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2020 Tal Schuster</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Vision</title>
+      <link>https://people.csail.mit.edu/tals/he/tags/vision/</link>
+    </image>
     
     <item>
       <title>Learning Strategies</title>
       <link>https://people.csail.mit.edu/tals/he/project/optical/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://people.csail.mit.edu/tals/he/project/optical/</guid>
-      <description>Sample selection when training deep learning models.</description>
+      <description></description>
     </item>
     
     <item>
       <title>Medical</title>
       <link>https://people.csail.mit.edu/tals/he/project/mammography/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://people.csail.mit.edu/tals/he/project/mammography/</guid>
-      <description>Deep learning models to improve cancer risk assessment.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;http://learningtocure.csail.mit.edu/mammo#project&#34;&gt;Project website&lt;/a&gt;
+&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;Today, the vast majority of breast cancers are diagnosed from mammograms. While radiologists are skilled in identifying suspicious areas once cancer is already visible on the image, they have limited capacity in predicting which patients are heading towards cancer diagnosis before mass is formed. Reliably identifying such patients is the crucial first step in preventing cancer development. Substantial research in medical literature confirms that certain changes in the breast tissue are early precursors of cancer development. However, patterns identified by humans are not sufficiently strong to act upon them.&lt;/p&gt;
+&lt;p&gt;We are aiming to automate these predictions by developing deep learning algorithms that can using longitudinal imaging data with known outcomes. By reading millions of images (orders of magnitude more than humans can read in their lifetime), machines should be able to assess the likelihood of cancer occurrence in a more accurate fashion. We are currently collecting a large corpus that will enable us to answer this question. Meanwhile, we are building algorithms that can help radiologists with their daily tasks of mammogram reading. The deep learning models we developed today can accurately predict breast density and identify with human accuracy a large fraction of safe screening mammograms.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

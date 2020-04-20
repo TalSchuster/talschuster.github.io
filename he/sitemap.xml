@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -35,7 +35,6 @@
   <url>
     <loc>https://people.csail.mit.edu/tals/he/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -45,22 +44,6 @@
                 rel="alternate"
                 hreflang="he"
                 href="https://people.csail.mit.edu/tals/he/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://people.csail.mit.edu/tals/he/tags/</loc>
-    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://people.csail.mit.edu/tals/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://people.csail.mit.edu/tals/he/tags/"
                 />
   </url>
   
@@ -82,7 +65,6 @@
   <url>
     <loc>https://people.csail.mit.edu/tals/he/publication_types/2/</loc>
     <lastmod>2020-02-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -98,7 +80,6 @@
   <url>
     <loc>https://people.csail.mit.edu/tals/he/authors/</loc>
     <lastmod>2020-02-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -114,7 +95,6 @@
   <url>
     <loc>https://people.csail.mit.edu/tals/he/authors/darsh-j-shah/</loc>
     <lastmod>2020-02-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -130,7 +110,6 @@
   <url>
     <loc>https://people.csail.mit.edu/tals/he/publication_types/</loc>
     <lastmod>2020-02-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -161,7 +140,6 @@
   <url>
     <loc>https://people.csail.mit.edu/tals/he/authors/regina-barzilay/</loc>
     <lastmod>2020-02-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -177,7 +155,6 @@
   <url>
     <loc>https://people.csail.mit.edu/tals/he/authors/roei-schuster/</loc>
     <lastmod>2020-02-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -193,7 +170,6 @@
   <url>
     <loc>https://people.csail.mit.edu/tals/he/tags/</loc>
     <lastmod>2020-02-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -224,7 +200,6 @@
   <url>
     <loc>https://people.csail.mit.edu/tals/he/publication_types/1/</loc>
     <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -255,7 +230,6 @@
   <url>
     <loc>https://people.csail.mit.edu/tals/he/authors/vitaly-shmatikov/</loc>
     <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -271,7 +245,6 @@
   <url>
     <loc>https://people.csail.mit.edu/tals/he/authors/yoav-meri/</loc>
     <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -302,7 +275,6 @@
   <url>
     <loc>https://people.csail.mit.edu/tals/he/authors/daniel-filizzola/</loc>
     <lastmod>2019-08-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -318,7 +290,6 @@
   <url>
     <loc>https://people.csail.mit.edu/tals/he/authors/enrico-santus/</loc>
     <lastmod>2019-08-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -349,7 +320,6 @@
   <url>
     <loc>https://people.csail.mit.edu/tals/he/authors/yun-jie-serene-yeo/</loc>
     <lastmod>2019-08-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -380,7 +350,6 @@
   <url>
     <loc>https://people.csail.mit.edu/tals/he/authors/adam-yala/</loc>
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -396,7 +365,6 @@
   <url>
     <loc>https://people.csail.mit.edu/tals/he/authors/constance-lehman/</loc>
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -412,7 +380,6 @@
   <url>
     <loc>https://people.csail.mit.edu/tals/he/authors/randy-miles/</loc>
     <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -428,7 +395,6 @@
   <url>
     <loc>https://people.csail.mit.edu/tals/he/authors/amir-globerson/</loc>
     <lastmod>2019-06-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -459,7 +425,6 @@
   <url>
     <loc>https://people.csail.mit.edu/tals/he/authors/ori-ram/</loc>
     <lastmod>2019-06-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -490,7 +455,6 @@
   <url>
     <loc>https://people.csail.mit.edu/tals/he/authors/tally-portnoi/</loc>
     <lastmod>2019-05-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -506,7 +470,6 @@
   <url>
     <loc>https://people.csail.mit.edu/tals/he/authors/brian-dontchos/</loc>
     <lastmod>2019-01-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -537,7 +500,6 @@
   <url>
     <loc>https://people.csail.mit.edu/tals/he/authors/leslie-lamb/</loc>
     <lastmod>2019-01-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -553,7 +515,6 @@
   <url>
     <loc>https://people.csail.mit.edu/tals/he/authors/kyle-swanson/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -584,7 +545,6 @@
   <url>
     <loc>https://people.csail.mit.edu/tals/he/authors/manisha-bahl/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -600,7 +560,6 @@
   <url>
     <loc>https://people.csail.mit.edu/tals/he/authors/david-gadot/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -616,7 +575,6 @@
   <url>
     <loc>https://people.csail.mit.edu/tals/he/authors/lior-wolf/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -647,7 +605,6 @@
   <url>
     <loc>https://people.csail.mit.edu/tals/he/tags/deep-learning/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -663,7 +620,6 @@
   <url>
     <loc>https://people.csail.mit.edu/tals/he/tags/embeddings/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -709,7 +665,6 @@
   <url>
     <loc>https://people.csail.mit.edu/tals/he/tags/medical/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -740,7 +695,6 @@
   <url>
     <loc>https://people.csail.mit.edu/tals/he/tags/nlp/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -756,7 +710,6 @@
   <url>
     <loc>https://people.csail.mit.edu/tals/he/project/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -772,7 +725,6 @@
   <url>
     <loc>https://people.csail.mit.edu/tals/he/tags/vision/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -802,7 +754,6 @@
   
   <url>
     <loc>https://people.csail.mit.edu/tals/he/categories/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
