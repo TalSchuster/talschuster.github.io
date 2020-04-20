@@ -1,31 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 on Tal Schuster</title>
+    <title>1 | Tal Schuster</title>
     <link>https://talschuster.github.io/publication_types/1/</link>
-    <description>Recent content in 1 on Tal Schuster</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Tal Schuster</copyright>
-    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://talschuster.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://talschuster.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tal Schuster</copyright><lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>1</title>
+      <link>https://talschuster.github.io/publication_types/1/</link>
+    </image>
     
     <item>
       <title>Humpty Dumpty: Controlling Word Meanings via Corpus Poisoning</title>
       <link>https://talschuster.github.io/publication/emb_attack/</link>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://talschuster.github.io/publication/emb_attack/</guid>
-      <description></description>
+      <description>&lt;hr&gt;
+</description>
     </item>
     
     <item>
       <title>Automatic Fact-guided Sentence Modification</title>
       <link>https://talschuster.github.io/publication/fact_generation/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://talschuster.github.io/publication/fact_generation/</guid>
       <description></description>
     </item>
@@ -34,7 +33,6 @@
       <title>Towards Debiasing Fact Verification Models</title>
       <link>https://talschuster.github.io/publication/fact_symmetric/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://talschuster.github.io/publication/fact_symmetric/</guid>
       <description></description>
     </item>
@@ -43,18 +41,18 @@
       <title>Cross-Lingual Alignment of Contextual Word Embeddings, with Applications to Zero-shot Dependency Parsing</title>
       <link>https://talschuster.github.io/publication/crosslingual_elmo/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://talschuster.github.io/publication/crosslingual_elmo/</guid>
-      <description></description>
+      <description>&lt;hr&gt;
+</description>
     </item>
     
     <item>
       <title>Optical Flow Requires Multiple Strategies (but only one network)</title>
       <link>https://talschuster.github.io/publication/optical/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://talschuster.github.io/publication/optical/</guid>
-      <description></description>
+      <description>&lt;hr&gt;
+</description>
     </item>
     
   </channel>

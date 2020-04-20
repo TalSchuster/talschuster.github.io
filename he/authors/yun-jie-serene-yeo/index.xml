@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yun Jie Serene Yeo on טל שוסטר</title>
+    <title>Yun Jie Serene Yeo | טל שוסטר</title>
     <link>https://talschuster.github.io/he/authors/yun-jie-serene-yeo/</link>
-    <description>Recent content in Yun Jie Serene Yeo on טל שוסטר</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <copyright>&amp;copy; 2019 Tal Schuster</copyright>
-    <lastBuildDate>Wed, 14 Aug 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://talschuster.github.io/he/authors/yun-jie-serene-yeo/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://talschuster.github.io/he/authors/yun-jie-serene-yeo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yun Jie Serene Yeo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2020 Tal Schuster</copyright><lastBuildDate>Wed, 14 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Yun Jie Serene Yeo</title>
+      <link>https://talschuster.github.io/he/authors/yun-jie-serene-yeo/</link>
+    </image>
     
     <item>
       <title>Towards Debiasing Fact Verification Models</title>
       <link>https://talschuster.github.io/he/publication/fact_symmetric/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://talschuster.github.io/he/publication/fact_symmetric/</guid>
       <description></description>
     </item>

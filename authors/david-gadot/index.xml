@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>David Gadot on Tal Schuster</title>
+    <title>David Gadot | Tal Schuster</title>
     <link>https://talschuster.github.io/authors/david-gadot/</link>
-    <description>Recent content in David Gadot on Tal Schuster</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Tal Schuster</copyright>
-    <lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://talschuster.github.io/authors/david-gadot/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://talschuster.github.io/authors/david-gadot/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Gadot</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tal Schuster</copyright><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>David Gadot</title>
+      <link>https://talschuster.github.io/authors/david-gadot/</link>
+    </image>
     
     <item>
       <title>Optical Flow Requires Multiple Strategies (but only one network)</title>
       <link>https://talschuster.github.io/publication/optical/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://talschuster.github.io/publication/optical/</guid>
-      <description></description>
+      <description>&lt;hr&gt;
+</description>
     </item>
     
   </channel>
