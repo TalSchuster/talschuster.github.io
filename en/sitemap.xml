@@ -766,4 +766,18 @@
                 />
   </url>
   
+  <url>
+    <loc>https://people.csail.mit.edu/tals/photography/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://people.csail.mit.edu/tals/he/photography/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.csail.mit.edu/tals/photography/"
+                />
+  </url>
+  
 </urlset>
