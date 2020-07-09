@@ -5,12 +5,20 @@
     <link>https://people.csail.mit.edu/tals/publication_types/1/</link>
       <atom:link href="https://people.csail.mit.edu/tals/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tal Schuster</copyright><lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Tal Schuster</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>1</title>
       <link>https://people.csail.mit.edu/tals/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Distilling the Evidence to Augment Fact Verification Models</title>
+      <link>https://people.csail.mit.edu/tals/publication/distil_evidence/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/publication/distil_evidence/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Humpty Dumpty: Controlling Word Meanings via Corpus Poisoning</title>

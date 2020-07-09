@@ -49,7 +49,7 @@
   
   <url>
     <loc>https://people.csail.mit.edu/tals/he/authors/admin/</loc>
-    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -59,6 +59,231 @@
                 rel="alternate"
                 hreflang="he"
                 href="https://people.csail.mit.edu/tals/he/authors/admin/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/he/publication_types/3/</loc>
+    <lastmod>2020-07-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.csail.mit.edu/tals/publication_types/3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://people.csail.mit.edu/tals/he/publication_types/3/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/he/authors/adam-fisch/</loc>
+    <lastmod>2020-07-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.csail.mit.edu/tals/authors/adam-fisch/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://people.csail.mit.edu/tals/he/authors/adam-fisch/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/he/authors/</loc>
+    <lastmod>2020-07-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.csail.mit.edu/tals/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://people.csail.mit.edu/tals/he/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/he/publication_types/</loc>
+    <lastmod>2020-07-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.csail.mit.edu/tals/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://people.csail.mit.edu/tals/he/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/he/publication/</loc>
+    <lastmod>2020-07-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.csail.mit.edu/tals/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://people.csail.mit.edu/tals/he/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/he/authors/regina-barzilay/</loc>
+    <lastmod>2020-07-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.csail.mit.edu/tals/authors/regina-barzilay/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://people.csail.mit.edu/tals/he/authors/regina-barzilay/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/he/publication/relaxed_cascaded_conformal_prediction/</loc>
+    <lastmod>2020-07-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.csail.mit.edu/tals/publication/relaxed_cascaded_conformal_prediction/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://people.csail.mit.edu/tals/he/publication/relaxed_cascaded_conformal_prediction/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/he/tags/</loc>
+    <lastmod>2020-07-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.csail.mit.edu/tals/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://people.csail.mit.edu/tals/he/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/he/authors/tommi-jaakkola/</loc>
+    <lastmod>2020-07-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.csail.mit.edu/tals/authors/tommi-jaakkola/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://people.csail.mit.edu/tals/he/authors/tommi-jaakkola/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/he/publication_types/1/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.csail.mit.edu/tals/publication_types/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://people.csail.mit.edu/tals/he/publication_types/1/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/he/authors/beatrice-portelli/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.csail.mit.edu/tals/authors/beatrice-portelli/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://people.csail.mit.edu/tals/he/authors/beatrice-portelli/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/he/publication/distil_evidence/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.csail.mit.edu/tals/publication/distil_evidence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://people.csail.mit.edu/tals/he/publication/distil_evidence/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/he/authors/enrico-santus/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.csail.mit.edu/tals/authors/enrico-santus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://people.csail.mit.edu/tals/he/authors/enrico-santus/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/he/authors/giuseppe-serra/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.csail.mit.edu/tals/authors/giuseppe-serra/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://people.csail.mit.edu/tals/he/authors/giuseppe-serra/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/he/authors/jason-zhao/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.csail.mit.edu/tals/authors/jason-zhao/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://people.csail.mit.edu/tals/he/authors/jason-zhao/"
                 />
   </url>
   
@@ -78,21 +303,6 @@
   </url>
   
   <url>
-    <loc>https://people.csail.mit.edu/tals/he/authors/</loc>
-    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://people.csail.mit.edu/tals/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://people.csail.mit.edu/tals/he/authors/"
-                />
-  </url>
-  
-  <url>
     <loc>https://people.csail.mit.edu/tals/he/authors/darsh-j-shah/</loc>
     <lastmod>2020-02-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -104,51 +314,6 @@
                 rel="alternate"
                 hreflang="he"
                 href="https://people.csail.mit.edu/tals/he/authors/darsh-j-shah/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://people.csail.mit.edu/tals/he/publication_types/</loc>
-    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://people.csail.mit.edu/tals/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://people.csail.mit.edu/tals/he/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://people.csail.mit.edu/tals/he/publication/</loc>
-    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://people.csail.mit.edu/tals/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://people.csail.mit.edu/tals/he/publication/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://people.csail.mit.edu/tals/he/authors/regina-barzilay/</loc>
-    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://people.csail.mit.edu/tals/authors/regina-barzilay/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://people.csail.mit.edu/tals/he/authors/regina-barzilay/"
                 />
   </url>
   
@@ -168,21 +333,6 @@
   </url>
   
   <url>
-    <loc>https://people.csail.mit.edu/tals/he/tags/</loc>
-    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://people.csail.mit.edu/tals/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://people.csail.mit.edu/tals/he/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>https://people.csail.mit.edu/tals/he/publication/are_we_safe/</loc>
     <lastmod>2020-02-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -194,21 +344,6 @@
                 rel="alternate"
                 hreflang="he"
                 href="https://people.csail.mit.edu/tals/he/publication/are_we_safe/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://people.csail.mit.edu/tals/he/publication_types/1/</loc>
-    <lastmod>2020-01-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://people.csail.mit.edu/tals/publication_types/1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://people.csail.mit.edu/tals/he/publication_types/1/"
                 />
   </url>
   
@@ -284,21 +419,6 @@
                 rel="alternate"
                 hreflang="he"
                 href="https://people.csail.mit.edu/tals/he/authors/daniel-filizzola/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://people.csail.mit.edu/tals/he/authors/enrico-santus/</loc>
-    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://people.csail.mit.edu/tals/authors/enrico-santus/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://people.csail.mit.edu/tals/he/authors/enrico-santus/"
                 />
   </url>
   

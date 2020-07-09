@@ -5,7 +5,7 @@
     <link>https://people.csail.mit.edu/tals/he/authors/</link>
       <atom:link href="https://people.csail.mit.edu/tals/he/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2020 Tal Schuster</copyright><lastBuildDate>Sat, 15 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2020 Tal Schuster</copyright><lastBuildDate>Sun, 05 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://people.csail.mit.edu/tals/he/authors/admin/</link>
-      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/tals/he/authors/admin/</guid>
       <description>&lt;p&gt;אני מועמד לדוקטורט &lt;a href=&#34;http://www.csail.mit.edu/&#34;&gt; במעבדת הבינה המלאכותית של המכון הטכנולוגי של מסצ׳וסטס&lt;/a&gt;
 &lt;br&gt;
@@ -24,18 +24,66 @@
     </item>
     
     <item>
-      <title>Darsh J Shah</title>
-      <link>https://people.csail.mit.edu/tals/he/authors/darsh-j-shah/</link>
-      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/he/authors/darsh-j-shah/</guid>
+      <title>Adam Fisch</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/adam-fisch/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/authors/adam-fisch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Regina Barzilay</title>
       <link>https://people.csail.mit.edu/tals/he/authors/regina-barzilay/</link>
-      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/tals/he/authors/regina-barzilay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tommi Jaakkola</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/tommi-jaakkola/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/authors/tommi-jaakkola/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beatrice Portelli</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/beatrice-portelli/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/authors/beatrice-portelli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enrico Santus</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/enrico-santus/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/authors/enrico-santus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Giuseppe Serra</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/giuseppe-serra/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/authors/giuseppe-serra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jason Zhao</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/jason-zhao/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/authors/jason-zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Darsh J Shah</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/darsh-j-shah/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/authors/darsh-j-shah/</guid>
       <description></description>
     </item>
     
@@ -68,14 +116,6 @@
       <link>https://people.csail.mit.edu/tals/he/authors/daniel-filizzola/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/tals/he/authors/daniel-filizzola/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Enrico Santus</title>
-      <link>https://people.csail.mit.edu/tals/he/authors/enrico-santus/</link>
-      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/he/authors/enrico-santus/</guid>
       <description></description>
     </item>
     
