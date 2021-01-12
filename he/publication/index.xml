@@ -5,7 +5,7 @@
     <link>https://people.csail.mit.edu/tals/he/publication/</link>
       <atom:link href="https://people.csail.mit.edu/tals/he/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2020 Tal Schuster</copyright><lastBuildDate>Sun, 05 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2021 Tal Schuster</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>Relaxed Conformal Prediction Cascades for Efficient Inference Over Many Labels</title>
+      <title>Efficient Conformal Prediction via Cascaded Inference with Expanded Admission</title>
       <link>https://people.csail.mit.edu/tals/he/publication/relaxed_cascaded_conformal_prediction/</link>
-      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/tals/he/publication/relaxed_cascaded_conformal_prediction/</guid>
       <description></description>
     </item>
