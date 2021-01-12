@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="Providing a small set of promising candidates in place of a single prediction is well-suited for many open-ended classification tasks. Conformal Prediction (CP) is a technique for creating classifiers that produce a valid set of predictions that contains the true answer with arbitrarily high probability. In practice, however, standard CP can suffer from both low predictive and computational efficiency during inference---i.e., the predicted set is both unusably large, and costly to obtain. This is particularly pervasive in the considered setting, where the correct answer is not unique and the number of total possible answers is high. In this work, we develop two simple and complementary techniques for improving both types of efficiencies. First, we relax CP validity to arbitrary criterions of success---allowing our framework to make more efficient predictions while remaining &#34;equivalently correct.&#34; Second, we amortize cost by conformalizing prediction cascades, in which we aggressively prune implausible labels early on by using progressively stronger classifiers---while still guaranteeing marginal coverage. We demonstrate the empirical effectiveness of our approach for multiple applications in natural language processing and computational chemistry for drug discovery.">
+  <meta name="description" content="In this paper, we present a novel approach for conformal prediction (CP), in which we aim to identify a set of promising prediction candidates---in place of a single prediction. This set is guaranteed to contain a correct answer with high probability, and is well-suited for many open-ended classification tasks. In the standard CP paradigm, the predicted set can often be unusably large and also costly to obtain. This is particularly pervasive in settings where the correct answer is not unique, and the number of total possible answers is high. We first expand the CP correctness criterion to allow for additional, inferred &#34;admissible&#34; answers, which can substantially reduce the size of the predicted set while still providing valid performance guarantees. Second, we amortize costs by conformalizing prediction cascades, in which we aggressively prune implausible labels early on by using progressively stronger classifiers---again, while still providing valid performance guarantees. We demonstrate the empirical effectiveness of our approach for multiple applications in natural language processing and computational chemistry for drug discovery.">
 
   
   <link rel="alternate" hreflang="en" href="https://talschuster.github.io/publication/relaxed_cascaded_conformal_prediction/">
@@ -273,14 +273,14 @@
   
   <meta property="og:site_name" content="טל שוסטר">
   <meta property="og:url" content="https://talschuster.github.io/he/publication/relaxed_cascaded_conformal_prediction/">
-  <meta property="og:title" content="Relaxed Conformal Prediction Cascades for Efficient Inference Over Many Labels | טל שוסטר">
-  <meta property="og:description" content="Providing a small set of promising candidates in place of a single prediction is well-suited for many open-ended classification tasks. Conformal Prediction (CP) is a technique for creating classifiers that produce a valid set of predictions that contains the true answer with arbitrarily high probability. In practice, however, standard CP can suffer from both low predictive and computational efficiency during inference---i.e., the predicted set is both unusably large, and costly to obtain. This is particularly pervasive in the considered setting, where the correct answer is not unique and the number of total possible answers is high. In this work, we develop two simple and complementary techniques for improving both types of efficiencies. First, we relax CP validity to arbitrary criterions of success---allowing our framework to make more efficient predictions while remaining &#34;equivalently correct.&#34; Second, we amortize cost by conformalizing prediction cascades, in which we aggressively prune implausible labels early on by using progressively stronger classifiers---while still guaranteeing marginal coverage. We demonstrate the empirical effectiveness of our approach for multiple applications in natural language processing and computational chemistry for drug discovery."><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
+  <meta property="og:title" content="Efficient Conformal Prediction via Cascaded Inference with Expanded Admission | טל שוסטר">
+  <meta property="og:description" content="In this paper, we present a novel approach for conformal prediction (CP), in which we aim to identify a set of promising prediction candidates---in place of a single prediction. This set is guaranteed to contain a correct answer with high probability, and is well-suited for many open-ended classification tasks. In the standard CP paradigm, the predicted set can often be unusably large and also costly to obtain. This is particularly pervasive in settings where the correct answer is not unique, and the number of total possible answers is high. We first expand the CP correctness criterion to allow for additional, inferred &#34;admissible&#34; answers, which can substantially reduce the size of the predicted set while still providing valid performance guarantees. Second, we amortize costs by conformalizing prediction cascades, in which we aggressively prune implausible labels early on by using progressively stronger classifiers---again, while still providing valid performance guarantees. We demonstrate the empirical effectiveness of our approach for multiple applications in natural language processing and computational chemistry for drug discovery."><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
   <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2020-07-05T00:00:00&#43;00:00">
+      <meta property="article:published_time" content="2021-01-01T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2020-07-05T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2021-01-01T00:00:00&#43;00:00">
   
 
   
@@ -304,10 +304,10 @@
     "@type": "WebPage",
     "@id": "https://talschuster.github.io/he/publication/relaxed_cascaded_conformal_prediction/"
   },
-  "headline": "Relaxed Conformal Prediction Cascades for Efficient Inference Over Many Labels",
+  "headline": "Efficient Conformal Prediction via Cascaded Inference with Expanded Admission",
   
-  "datePublished": "2020-07-05T00:00:00Z",
-  "dateModified": "2020-07-05T00:00:00Z",
+  "datePublished": "2021-01-01T00:00:00Z",
+  "dateModified": "2021-01-01T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -322,7 +322,7 @@
       "url": "https://talschuster.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "Providing a small set of promising candidates in place of a single prediction is well-suited for many open-ended classification tasks. Conformal Prediction (CP) is a technique for creating classifiers that produce a valid set of predictions that contains the true answer with arbitrarily high probability. In practice, however, standard CP can suffer from both low predictive and computational efficiency during inference---i.e., the predicted set is both unusably large, and costly to obtain. This is particularly pervasive in the considered setting, where the correct answer is not unique and the number of total possible answers is high. In this work, we develop two simple and complementary techniques for improving both types of efficiencies. First, we relax CP validity to arbitrary criterions of success---allowing our framework to make more efficient predictions while remaining \"equivalently correct.\" Second, we amortize cost by conformalizing prediction cascades, in which we aggressively prune implausible labels early on by using progressively stronger classifiers---while still guaranteeing marginal coverage. We demonstrate the empirical effectiveness of our approach for multiple applications in natural language processing and computational chemistry for drug discovery."
+  "description": "In this paper, we present a novel approach for conformal prediction (CP), in which we aim to identify a set of promising prediction candidates---in place of a single prediction. This set is guaranteed to contain a correct answer with high probability, and is well-suited for many open-ended classification tasks. In the standard CP paradigm, the predicted set can often be unusably large and also costly to obtain. This is particularly pervasive in settings where the correct answer is not unique, and the number of total possible answers is high. We first expand the CP correctness criterion to allow for additional, inferred \"admissible\" answers, which can substantially reduce the size of the predicted set while still providing valid performance guarantees. Second, we amortize costs by conformalizing prediction cascades, in which we aggressively prune implausible labels early on by using progressively stronger classifiers---again, while still providing valid performance guarantees. We demonstrate the empirical effectiveness of our approach for multiple applications in natural language processing and computational chemistry for drug discovery."
 }
 </script>
 
@@ -340,7 +340,7 @@
 
 
 
-  <title>Relaxed Conformal Prediction Cascades for Efficient Inference Over Many Labels | טל שוסטר</title>
+  <title>Efficient Conformal Prediction via Cascaded Inference with Expanded Admission | טל שוסטר</title>
 
 </head>
 
@@ -669,7 +669,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Relaxed Conformal Prediction Cascades for Efficient Inference Over Many Labels</h1>
+  <h1>Efficient Conformal Prediction via Cascaded Inference with Expanded Admission</h1>
 
   
 
@@ -698,7 +698,7 @@
     
       
     
-    July 2020
+    January 2021
   </span>
   
 
@@ -791,7 +791,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Providing a small set of promising candidates in place of a single prediction is well-suited for many open-ended classification tasks. Conformal Prediction (CP) is a technique for creating classifiers that produce a valid set of predictions that contains the true answer with arbitrarily high probability. In practice, however, standard CP can suffer from both low predictive and computational efficiency during inference&mdash;i.e., the predicted set is both unusably large, and costly to obtain. This is particularly pervasive in the considered setting, where the correct answer is not unique and the number of total possible answers is high. In this work, we develop two simple and complementary techniques for improving both types of efficiencies. First, we relax CP validity to arbitrary criterions of success&mdash;allowing our framework to make more efficient predictions while remaining &ldquo;equivalently correct.&rdquo; Second, we amortize cost by conformalizing prediction cascades, in which we aggressively prune implausible labels early on by using progressively stronger classifiers&mdash;while still guaranteeing marginal coverage. We demonstrate the empirical effectiveness of our approach for multiple applications in natural language processing and computational chemistry for drug discovery.</p>
+    <p class="pub-abstract">In this paper, we present a novel approach for conformal prediction (CP), in which we aim to identify a set of promising prediction candidates&mdash;in place of a single prediction. This set is guaranteed to contain a correct answer with high probability, and is well-suited for many open-ended classification tasks. In the standard CP paradigm, the predicted set can often be unusably large and also costly to obtain. This is particularly pervasive in settings where the correct answer is not unique, and the number of total possible answers is high. We first expand the CP correctness criterion to allow for additional, inferred &ldquo;admissible&rdquo; answers, which can substantially reduce the size of the predicted set while still providing valid performance guarantees. Second, we amortize costs by conformalizing prediction cascades, in which we aggressively prune implausible labels early on by using progressively stronger classifiers&mdash;again, while still providing valid performance guarantees. We demonstrate the empirical effectiveness of our approach for multiple applications in natural language processing and computational chemistry for drug discovery.</p>
     
 
     
@@ -803,8 +803,8 @@
           <div class="col-12 col-md-9">
             
             
-            <a href="/he/publication/#3">
-              Preprint
+            <a href="/he/publication/#1">
+              Conference paper
             </a>
             
           </div>
@@ -815,6 +815,18 @@
     <div class="d-md-none space-below"></div>
     
 
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">In ICLR</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
     
 
     <div class="space-below"></div>
@@ -844,7 +856,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://talschuster.github.io/he/publication/relaxed_cascaded_conformal_prediction/&amp;text=Relaxed%20Conformal%20Prediction%20Cascades%20for%20Efficient%20Inference%20Over%20Many%20Labels" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://talschuster.github.io/he/publication/relaxed_cascaded_conformal_prediction/&amp;text=Efficient%20Conformal%20Prediction%20via%20Cascaded%20Inference%20with%20Expanded%20Admission" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -857,7 +869,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://talschuster.github.io/he/publication/relaxed_cascaded_conformal_prediction/&amp;t=Relaxed%20Conformal%20Prediction%20Cascades%20for%20Efficient%20Inference%20Over%20Many%20Labels" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://talschuster.github.io/he/publication/relaxed_cascaded_conformal_prediction/&amp;t=Efficient%20Conformal%20Prediction%20via%20Cascaded%20Inference%20with%20Expanded%20Admission" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -870,7 +882,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Relaxed%20Conformal%20Prediction%20Cascades%20for%20Efficient%20Inference%20Over%20Many%20Labels&amp;body=https://talschuster.github.io/he/publication/relaxed_cascaded_conformal_prediction/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Efficient%20Conformal%20Prediction%20via%20Cascaded%20Inference%20with%20Expanded%20Admission&amp;body=https://talschuster.github.io/he/publication/relaxed_cascaded_conformal_prediction/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -883,7 +895,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://talschuster.github.io/he/publication/relaxed_cascaded_conformal_prediction/&amp;title=Relaxed%20Conformal%20Prediction%20Cascades%20for%20Efficient%20Inference%20Over%20Many%20Labels" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://talschuster.github.io/he/publication/relaxed_cascaded_conformal_prediction/&amp;title=Efficient%20Conformal%20Prediction%20via%20Cascaded%20Inference%20with%20Expanded%20Admission" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -896,7 +908,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=Relaxed%20Conformal%20Prediction%20Cascades%20for%20Efficient%20Inference%20Over%20Many%20Labels%20https://talschuster.github.io/he/publication/relaxed_cascaded_conformal_prediction/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Efficient%20Conformal%20Prediction%20via%20Cascaded%20Inference%20with%20Expanded%20Admission%20https://talschuster.github.io/he/publication/relaxed_cascaded_conformal_prediction/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -909,7 +921,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://talschuster.github.io/he/publication/relaxed_cascaded_conformal_prediction/&amp;title=Relaxed%20Conformal%20Prediction%20Cascades%20for%20Efficient%20Inference%20Over%20Many%20Labels" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://talschuster.github.io/he/publication/relaxed_cascaded_conformal_prediction/&amp;title=Efficient%20Conformal%20Prediction%20via%20Cascaded%20Inference%20with%20Expanded%20Admission" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1272,7 +1284,7 @@
   
 
   <p class="powered-by">
-    © 2020 Tal Schuster &middot; 
+    © 2021 Tal Schuster &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
