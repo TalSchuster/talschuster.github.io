@@ -5,7 +5,7 @@
     <link>https://people.csail.mit.edu/tals/he/tags/</link>
       <atom:link href="https://people.csail.mit.edu/tals/he/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2021 Tal Schuster</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2021 Tal Schuster</copyright><lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tags</title>
@@ -15,8 +15,24 @@
     <item>
       <title>Deep Learning</title>
       <link>https://people.csail.mit.edu/tals/he/tags/deep-learning/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/tals/he/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>https://people.csail.mit.edu/tals/he/tags/nlp/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vision</title>
+      <link>https://people.csail.mit.edu/tals/he/tags/vision/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/tags/vision/</guid>
       <description></description>
     </item>
     
@@ -33,22 +49,6 @@
       <link>https://people.csail.mit.edu/tals/he/tags/medical/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/tals/he/tags/medical/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NLP</title>
-      <link>https://people.csail.mit.edu/tals/he/tags/nlp/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/he/tags/nlp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vision</title>
-      <link>https://people.csail.mit.edu/tals/he/tags/vision/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/he/tags/vision/</guid>
       <description></description>
     </item>
     

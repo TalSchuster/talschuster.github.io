@@ -5,12 +5,29 @@
     <link>https://people.csail.mit.edu/tals/project/</link>
       <atom:link href="https://people.csail.mit.edu/tals/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Tal Schuster</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Tal Schuster</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Projects</title>
       <link>https://people.csail.mit.edu/tals/project/</link>
     </image>
+    
+    <item>
+      <title>Conformal Prediction</title>
+      <link>https://people.csail.mit.edu/tals/project/conformal/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/project/conformal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Word Embeddings</title>
+      <link>https://people.csail.mit.edu/tals/project/embeddings/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/project/embeddings/</guid>
+      <description>&lt;p&gt;Analyzing the space of word representations for multilingual applications and for better performance with less data.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Fake News</title>
@@ -39,15 +56,6 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/tals/project/optical/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Word Embeddings</title>
-      <link>https://people.csail.mit.edu/tals/project/embeddings/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/project/embeddings/</guid>
-      <description>&lt;p&gt;Analyzing the space of word representations for multilingual applications and for better performance with less data.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

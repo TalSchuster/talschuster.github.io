@@ -5,12 +5,29 @@
     <link>https://people.csail.mit.edu/tals/authors/adam-fisch/</link>
       <atom:link href="https://people.csail.mit.edu/tals/authors/adam-fisch/index.xml" rel="self" type="application/rss+xml" />
     <description>Adam Fisch</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Tal Schuster</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Tal Schuster</copyright><lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Adam Fisch</title>
       <link>https://people.csail.mit.edu/tals/authors/adam-fisch/</link>
     </image>
+    
+    <item>
+      <title>Get Your Vitamin C! Robust Fact Verification with Contrastive Evidence</title>
+      <link>https://people.csail.mit.edu/tals/publication/vitaminc/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/publication/vitaminc/</guid>
+      <description>&lt;img src=&#34;featured2.png&#34; alt=&#34;Girl in a jacket&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Few-shot Conformal Prediction with Auxiliary Tasks</title>
+      <link>https://people.csail.mit.edu/tals/publication/meta_conformal/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/publication/meta_conformal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Efficient Conformal Prediction via Cascaded Inference with Expanded Admission</title>
