@@ -5,7 +5,7 @@
     <link>https://talschuster.github.io/authors/regina-barzilay/</link>
       <atom:link href="https://talschuster.github.io/authors/regina-barzilay/index.xml" rel="self" type="application/rss+xml" />
     <description>Regina Barzilay</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Tal Schuster</copyright><lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Tal Schuster</copyright><lastBuildDate>Sun, 18 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Regina Barzilay</title>
@@ -13,11 +13,20 @@
     </image>
     
     <item>
+      <title>Consistent Accelerated Inference via Confident Adaptive Transformers</title>
+      <link>https://talschuster.github.io/publication/cats/</link>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/publication/cats/</guid>
+      <description>&lt;img src=&#34;featured.png&#34; alt=&#34;Confident Adaptive Transformer&#34; width=400&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Get Your Vitamin C! Robust Fact Verification with Contrastive Evidence</title>
       <link>https://talschuster.github.io/publication/vitaminc/</link>
       <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://talschuster.github.io/publication/vitaminc/</guid>
-      <description>&lt;img src=&#34;featured2.png&#34; alt=&#34;Girl in a jacket&#34;&gt;
+      <description>&lt;img src=&#34;featured2.png&#34; alt=&#34;Vitamin C dataset&#34;&gt;
 </description>
     </item>
     
