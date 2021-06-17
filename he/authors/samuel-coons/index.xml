@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samuel Coons | טל שוסטר</title>
+    <link>https://people.csail.mit.edu/tals/he/authors/samuel-coons/</link>
+      <atom:link href="https://people.csail.mit.edu/tals/he/authors/samuel-coons/index.xml" rel="self" type="application/rss+xml" />
+    <description>Samuel Coons</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2021 Tal Schuster</copyright><lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Samuel Coons</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/samuel-coons/</link>
+    </image>
+    
+    <item>
+      <title>Exploiting Rules to Enhance Machine Learning in Extracting Information From Multi-Institutional Prostate Pathology Reports</title>
+      <link>https://people.csail.mit.edu/tals/he/publication/medical_rules/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/publication/medical_rules/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

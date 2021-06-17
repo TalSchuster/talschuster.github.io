@@ -5,7 +5,7 @@
     <link>https://people.csail.mit.edu/tals/he/authors/</link>
       <atom:link href="https://people.csail.mit.edu/tals/he/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2021 Tal Schuster</copyright><lastBuildDate>Sun, 18 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2021 Tal Schuster</copyright><lastBuildDate>Thu, 10 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -15,12 +15,36 @@
     <item>
       <title></title>
       <link>https://people.csail.mit.edu/tals/he/authors/admin/</link>
-      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/tals/he/authors/admin/</guid>
       <description>&lt;p&gt;אני מועמד לדוקטורט &lt;a href=&#34;http://www.csail.mit.edu/&#34;&gt; במעבדת הבינה המלאכותית של המכון הטכנולוגי של מסצ׳וסטס&lt;/a&gt;
 &lt;br&gt;
 תחת הנחייתה של &lt;a href=&#34;http://people.csail.mit.edu/regina/&#34;&gt;פרופ׳ רגינה ברזילי&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Adam Tauman Kalai</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/adam-tauman-kalai/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/authors/adam-tauman-kalai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ashwin Kalyan</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/ashwin-kalyan/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/authors/ashwin-kalyan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oleksandr Polozov</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/oleksandr-polozov/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/authors/oleksandr-polozov/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -48,18 +72,90 @@
     </item>
     
     <item>
-      <title>Beatrice Portelli</title>
-      <link>https://people.csail.mit.edu/tals/he/authors/beatrice-portelli/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/he/authors/beatrice-portelli/</guid>
+      <title>Adam Yala</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/adam-yala/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/authors/adam-yala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amir M Tahmasebi</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/amir-m-tahmasebi/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/authors/amir-m-tahmasebi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clara Li</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/clara-li/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/authors/clara-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conor R Lanahan</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/conor-r-lanahan/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/authors/conor-r-lanahan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enrico Santus</title>
       <link>https://people.csail.mit.edu/tals/he/authors/enrico-santus/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/tals/he/authors/enrico-santus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevin Hughes</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/kevin-hughes/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/authors/kevin-hughes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lance Mynderse</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/lance-mynderse/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/authors/lance-mynderse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter Prinsen</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/peter-prinsen/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/authors/peter-prinsen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Samuel Coons</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/samuel-coons/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/authors/samuel-coons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scott F Thompson</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/scott-f-thompson/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/authors/scott-f-thompson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beatrice Portelli</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/beatrice-portelli/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/authors/beatrice-portelli/</guid>
       <description></description>
     </item>
     
@@ -124,14 +220,6 @@
       <link>https://people.csail.mit.edu/tals/he/authors/yun-jie-serene-yeo/</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/tals/he/authors/yun-jie-serene-yeo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adam Yala</title>
-      <link>https://people.csail.mit.edu/tals/he/authors/adam-yala/</link>
-      <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/he/authors/adam-yala/</guid>
       <description></description>
     </item>
     

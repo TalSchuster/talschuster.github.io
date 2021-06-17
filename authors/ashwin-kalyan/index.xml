@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ashwin Kalyan | Tal Schuster</title>
+    <link>https://people.csail.mit.edu/tals/authors/ashwin-kalyan/</link>
+      <atom:link href="https://people.csail.mit.edu/tals/authors/ashwin-kalyan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ashwin Kalyan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Tal Schuster</copyright><lastBuildDate>Thu, 10 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Ashwin Kalyan</title>
+      <link>https://people.csail.mit.edu/tals/authors/ashwin-kalyan/</link>
+    </image>
+    
+    <item>
+      <title>Programming Puzzles</title>
+      <link>https://people.csail.mit.edu/tals/publication/puzzles/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/publication/puzzles/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

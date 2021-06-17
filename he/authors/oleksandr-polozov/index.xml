@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oleksandr Polozov | טל שוסטר</title>
+    <link>https://people.csail.mit.edu/tals/he/authors/oleksandr-polozov/</link>
+      <atom:link href="https://people.csail.mit.edu/tals/he/authors/oleksandr-polozov/index.xml" rel="self" type="application/rss+xml" />
+    <description>Oleksandr Polozov</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2021 Tal Schuster</copyright><lastBuildDate>Thu, 10 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Oleksandr Polozov</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/oleksandr-polozov/</link>
+    </image>
+    
+    <item>
+      <title>Programming Puzzles</title>
+      <link>https://people.csail.mit.edu/tals/he/publication/puzzles/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/publication/puzzles/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
