@@ -35,6 +35,14 @@
     </item>
     
     <item>
+      <title>Programming Puzzles</title>
+      <link>https://talschuster.github.io/publication/puzzles/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/publication/puzzles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Consistent Accelerated Inference via Confident Adaptive Transformers</title>
       <link>https://talschuster.github.io/publication/cats/</link>
       <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
@@ -69,6 +77,14 @@
     </item>
     
     <item>
+      <title>Exploiting Rules to Enhance Machine Learning in Extracting Information From Multi-Institutional Prostate Pathology Reports</title>
+      <link>https://talschuster.github.io/publication/medical_rules/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/publication/medical_rules/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Distilling the Evidence to Augment Fact Verification Models</title>
       <link>https://talschuster.github.io/publication/distil_evidence/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
@@ -95,18 +111,18 @@
     </item>
     
     <item>
-      <title>Conformal Prediction</title>
-      <link>https://talschuster.github.io/project/conformal/</link>
+      <title>Automatic Fact-guided Sentence Modification</title>
+      <link>https://talschuster.github.io/publication/fact_generation/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://talschuster.github.io/project/conformal/</guid>
+      <guid>https://talschuster.github.io/publication/fact_generation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Automatic Fact-guided Sentence Modification</title>
-      <link>https://talschuster.github.io/publication/fact_generation/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://talschuster.github.io/publication/fact_generation/</guid>
+      <title>Conformal Prediction</title>
+      <link>https://talschuster.github.io/project/conformal/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/project/conformal/</guid>
       <description></description>
     </item>
     

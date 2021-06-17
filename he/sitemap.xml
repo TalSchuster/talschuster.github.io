@@ -49,7 +49,7 @@
   
   <url>
     <loc>https://talschuster.github.io/he/authors/admin/</loc>
-    <lastmod>2021-04-18T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -64,7 +64,7 @@
   
   <url>
     <loc>https://talschuster.github.io/he/publication_types/3/</loc>
-    <lastmod>2021-04-18T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -74,6 +74,126 @@
                 rel="alternate"
                 hreflang="he"
                 href="https://talschuster.github.io/he/publication_types/3/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/he/authors/adam-tauman-kalai/</loc>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://talschuster.github.io/authors/adam-tauman-kalai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://talschuster.github.io/he/authors/adam-tauman-kalai/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/he/authors/ashwin-kalyan/</loc>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://talschuster.github.io/authors/ashwin-kalyan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://talschuster.github.io/he/authors/ashwin-kalyan/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/he/authors/</loc>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://talschuster.github.io/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://talschuster.github.io/he/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/he/authors/oleksandr-polozov/</loc>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://talschuster.github.io/authors/oleksandr-polozov/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://talschuster.github.io/he/authors/oleksandr-polozov/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/he/publication/puzzles/</loc>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://talschuster.github.io/publication/puzzles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://talschuster.github.io/he/publication/puzzles/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/he/publication_types/</loc>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://talschuster.github.io/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://talschuster.github.io/he/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/he/publication/</loc>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://talschuster.github.io/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://talschuster.github.io/he/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/he/tags/</loc>
+    <lastmod>2021-06-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://talschuster.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://talschuster.github.io/he/tags/"
                 />
   </url>
   
@@ -93,21 +213,6 @@
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/he/authors/</loc>
-    <lastmod>2021-04-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://talschuster.github.io/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://talschuster.github.io/he/authors/"
-                />
-  </url>
-  
-  <url>
     <loc>https://talschuster.github.io/he/publication/cats/</loc>
     <lastmod>2021-04-18T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -123,36 +228,6 @@
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/he/publication_types/</loc>
-    <lastmod>2021-04-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://talschuster.github.io/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://talschuster.github.io/he/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://talschuster.github.io/he/publication/</loc>
-    <lastmod>2021-04-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://talschuster.github.io/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://talschuster.github.io/he/publication/"
-                />
-  </url>
-  
-  <url>
     <loc>https://talschuster.github.io/he/authors/regina-barzilay/</loc>
     <lastmod>2021-04-18T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -164,21 +239,6 @@
                 rel="alternate"
                 hreflang="he"
                 href="https://talschuster.github.io/he/authors/regina-barzilay/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://talschuster.github.io/he/tags/</loc>
-    <lastmod>2021-04-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://talschuster.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://talschuster.github.io/he/tags/"
                 />
   </url>
   
@@ -258,6 +318,186 @@
   </url>
   
   <url>
+    <loc>https://talschuster.github.io/he/publication_types/2/</loc>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://talschuster.github.io/publication_types/2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://talschuster.github.io/he/publication_types/2/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/he/authors/adam-yala/</loc>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://talschuster.github.io/authors/adam-yala/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://talschuster.github.io/he/authors/adam-yala/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/he/authors/amir-m-tahmasebi/</loc>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://talschuster.github.io/authors/amir-m-tahmasebi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://talschuster.github.io/he/authors/amir-m-tahmasebi/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/he/authors/clara-li/</loc>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://talschuster.github.io/authors/clara-li/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://talschuster.github.io/he/authors/clara-li/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/he/authors/conor-r-lanahan/</loc>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://talschuster.github.io/authors/conor-r-lanahan/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://talschuster.github.io/he/authors/conor-r-lanahan/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/he/authors/enrico-santus/</loc>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://talschuster.github.io/authors/enrico-santus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://talschuster.github.io/he/authors/enrico-santus/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/he/publication/medical_rules/</loc>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://talschuster.github.io/publication/medical_rules/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://talschuster.github.io/he/publication/medical_rules/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/he/authors/kevin-hughes/</loc>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://talschuster.github.io/authors/kevin-hughes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://talschuster.github.io/he/authors/kevin-hughes/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/he/authors/lance-mynderse/</loc>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://talschuster.github.io/authors/lance-mynderse/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://talschuster.github.io/he/authors/lance-mynderse/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/he/authors/peter-prinsen/</loc>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://talschuster.github.io/authors/peter-prinsen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://talschuster.github.io/he/authors/peter-prinsen/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/he/authors/samuel-coons/</loc>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://talschuster.github.io/authors/samuel-coons/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://talschuster.github.io/he/authors/samuel-coons/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://talschuster.github.io/he/authors/scott-f-thompson/</loc>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://talschuster.github.io/authors/scott-f-thompson/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://talschuster.github.io/he/authors/scott-f-thompson/"
+                />
+  </url>
+  
+  <url>
     <loc>https://talschuster.github.io/he/authors/beatrice-portelli/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -288,21 +528,6 @@
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/he/authors/enrico-santus/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://talschuster.github.io/authors/enrico-santus/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://talschuster.github.io/he/authors/enrico-santus/"
-                />
-  </url>
-  
-  <url>
     <loc>https://talschuster.github.io/he/authors/giuseppe-serra/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -329,21 +554,6 @@
                 rel="alternate"
                 hreflang="he"
                 href="https://talschuster.github.io/he/authors/jason-zhao/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://talschuster.github.io/he/publication_types/2/</loc>
-    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://talschuster.github.io/publication_types/2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://talschuster.github.io/he/publication_types/2/"
                 />
   </url>
   
@@ -438,6 +648,21 @@
   </url>
   
   <url>
+    <loc>https://talschuster.github.io/he/publication/fact_generation/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://talschuster.github.io/publication/fact_generation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://talschuster.github.io/he/publication/fact_generation/"
+                />
+  </url>
+  
+  <url>
     <loc>https://talschuster.github.io/he/project/conformal/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -513,21 +738,6 @@
   </url>
   
   <url>
-    <loc>https://talschuster.github.io/he/publication/fact_generation/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://talschuster.github.io/publication/fact_generation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://talschuster.github.io/he/publication/fact_generation/"
-                />
-  </url>
-  
-  <url>
     <loc>https://talschuster.github.io/he/authors/daniel-filizzola/</loc>
     <lastmod>2019-08-14T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -584,21 +794,6 @@
                 rel="alternate"
                 hreflang="he"
                 href="https://talschuster.github.io/he/publication/mammo_triage/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://talschuster.github.io/he/authors/adam-yala/</loc>
-    <lastmod>2019-08-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://talschuster.github.io/authors/adam-yala/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://talschuster.github.io/he/authors/adam-yala/"
                 />
   </url>
   
