@@ -5,7 +5,7 @@
     <link>https://talschuster.github.io/he/authors/ori-ram/</link>
       <atom:link href="https://talschuster.github.io/he/authors/ori-ram/index.xml" rel="self" type="application/rss+xml" />
     <description>Ori Ram</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2021 Tal Schuster</copyright><lastBuildDate>Tue, 04 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2022 Tal Schuster</copyright><lastBuildDate>Tue, 04 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Ori Ram</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>Cross-Lingual Alignment of Contextual Word Embeddings, with Applications to Zero-shot Dependency Parsing</title>
-      <link>https://talschuster.github.io/he/publication/crosslingual_elmo/</link>
+      <link>https://talschuster.github.io/he/publication/crosslingual_embed/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://talschuster.github.io/he/publication/crosslingual_elmo/</guid>
+      <guid>https://talschuster.github.io/he/publication/crosslingual_embed/</guid>
       <description>&lt;hr&gt;
 </description>
     </item>

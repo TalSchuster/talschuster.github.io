@@ -1,9 +1,16 @@
-@article{schuster2021consistent,
-      title={Consistent Accelerated Inference via Confident Adaptive Transformers}, 
-      author={Tal Schuster and Adam Fisch and Tommi Jaakkola and Regina Barzilay},
-      year={2021},
-      eprint={2104.08803},
-      archivePrefix={arXiv},
-      url={https://arxiv.org/abs/2104.08803},
-      primaryClass={cs.CL}
+@inproceedings{schuster-etal-2021-consistent,
+    title = "Consistent Accelerated Inference via Confident Adaptive Transformers",
+    author = "Schuster, Tal  and
+      Fisch, Adam  and
+      Jaakkola, Tommi  and
+      Barzilay, Regina",
+    booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2021",
+    address = "Online and Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.emnlp-main.406",
+    doi = "10.18653/v1/2021.emnlp-main.406",
+    pages = "4962--4979",
+    abstract = "We develop a novel approach for confidently accelerating inference in the large and expensive multilayer Transformers that are now ubiquitous in natural language processing (NLP). Amortized or approximate computational methods increase efficiency, but can come with unpredictable performance costs. In this work, we present CATs {--} Confident Adaptive Transformers {--} in which we simultaneously increase computational efficiency, while guaranteeing a specifiable degree of consistency with the original model with high confidence. Our method trains additional prediction heads on top of intermediate layers, and dynamically decides when to stop allocating computational effort to each input using a meta consistency classifier. To calibrate our early prediction stopping rule, we formulate a unique extension of conformal prediction. We demonstrate the effectiveness of this approach on four classification and regression tasks.",
 }

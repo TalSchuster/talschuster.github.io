@@ -5,7 +5,7 @@
     <link>https://talschuster.github.io/authors/adam-tauman-kalai/</link>
       <atom:link href="https://talschuster.github.io/authors/adam-tauman-kalai/index.xml" rel="self" type="application/rss+xml" />
     <description>Adam Tauman Kalai</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Tal Schuster</copyright><lastBuildDate>Thu, 10 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Tal Schuster</copyright><lastBuildDate>Thu, 10 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Adam Tauman Kalai</title>
@@ -17,7 +17,8 @@
       <link>https://talschuster.github.io/publication/puzzles/</link>
       <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://talschuster.github.io/publication/puzzles/</guid>
-      <description></description>
+      <description>&lt;p&gt;Thanks Yannic Kilcher for covering this paper on &lt;a href=&#34;https://www.youtube.com/watch?v=6_q9DbX35kk&amp;t=800s&#34;&gt;ML news &lt;/a&gt; :)&lt;/p&gt;
+</description>
     </item>
     
   </channel>
