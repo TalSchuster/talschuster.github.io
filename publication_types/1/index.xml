@@ -5,12 +5,30 @@
     <link>https://people.csail.mit.edu/tals/publication_types/1/</link>
       <atom:link href="https://people.csail.mit.edu/tals/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Tal Schuster</copyright><lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Tal Schuster</copyright><lastBuildDate>Thu, 10 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>1</title>
       <link>https://people.csail.mit.edu/tals/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Programming Puzzles</title>
+      <link>https://people.csail.mit.edu/tals/publication/puzzles/</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/publication/puzzles/</guid>
+      <description>&lt;p&gt;Thanks Yannic Kilcher for covering this paper on &lt;a href=&#34;https://www.youtube.com/watch?v=6_q9DbX35kk&amp;t=800s&#34;&gt;ML news &lt;/a&gt; :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Consistent Accelerated Inference via Confident Adaptive Transformers</title>
+      <link>https://people.csail.mit.edu/tals/publication/cats/</link>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/publication/cats/</guid>
+      <description>&lt;img src=&#34;featured.png&#34; alt=&#34;Confident Adaptive Transformer&#34; width=400&gt;
+</description>
+    </item>
     
     <item>
       <title>Get Your Vitamin C! Robust Fact Verification with Contrastive Evidence</title>
@@ -19,6 +37,14 @@
       <guid>https://people.csail.mit.edu/tals/publication/vitaminc/</guid>
       <description>&lt;img src=&#34;featured2.png&#34; alt=&#34;Vitamin C dataset&#34;&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Few-shot Conformal Prediction with Auxiliary Tasks</title>
+      <link>https://people.csail.mit.edu/tals/publication/meta_conformal/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/publication/meta_conformal/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -64,9 +90,9 @@
     
     <item>
       <title>Cross-Lingual Alignment of Contextual Word Embeddings, with Applications to Zero-shot Dependency Parsing</title>
-      <link>https://people.csail.mit.edu/tals/publication/crosslingual_elmo/</link>
+      <link>https://people.csail.mit.edu/tals/publication/crosslingual_embed/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/publication/crosslingual_elmo/</guid>
+      <guid>https://people.csail.mit.edu/tals/publication/crosslingual_embed/</guid>
       <description>&lt;hr&gt;
 </description>
     </item>

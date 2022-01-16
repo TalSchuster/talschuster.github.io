@@ -5,7 +5,7 @@
     <link>https://people.csail.mit.edu/tals/he/authors/</link>
       <atom:link href="https://people.csail.mit.edu/tals/he/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2021 Tal Schuster</copyright><lastBuildDate>Thu, 10 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2022 Tal Schuster</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -15,12 +15,124 @@
     <item>
       <title></title>
       <link>https://people.csail.mit.edu/tals/he/authors/admin/</link>
-      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/tals/he/authors/admin/</guid>
-      <description>&lt;p&gt;אני מועמד לדוקטורט &lt;a href=&#34;http://www.csail.mit.edu/&#34;&gt; במעבדת הבינה המלאכותית של המכון הטכנולוגי של מסצ׳וסטס&lt;/a&gt;
-&lt;br&gt;
-תחת הנחייתה של &lt;a href=&#34;http://people.csail.mit.edu/regina/&#34;&gt;פרופ׳ רגינה ברזילי&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;
+אני חוקר למידת מכונה בחטיבת המחקר של גוגל.
+סיימתי את הדוקטורט &lt;a href=&#34;http://www.csail.mit.edu/&#34;&gt; במעבדת הבינה המלאכותית של המכון הטכנולוגי של מסצ׳וסטס&lt;/a&gt;
+תחת הנחייתה של &lt;a href=&#34;http://people.csail.mit.edu/regina/&#34;&gt;פרופ׳ רגינה ברזילי&lt;/a&gt;.
+&lt;/p&gt;
+&lt;p&gt;
+  המחקר שלי סוקר מספר פעמים בחדשות בישראל: &lt;a href=&#34;https://www.geektime.co.il/ai-to-predict-breast-cancer/&#34;&gt; גיקטיים1&lt;/a&gt;, &lt;a href=&#34;https://www.geektime.co.il/mit-researchers-create-ai-that-changes-old-and-false-info-on-wikipedia/&#34;&gt; גיקטיים2&lt;/a&gt;, &lt;a href=&#34;https://www.geektime.co.il/discrimination-in-ai-ml/&#34;&gt; גיקטיים3&lt;/a&gt;, &lt;a href=&#34;https://www.globes.co.il/news/article.aspx?did=1001299367&#34;&gt; גלובס&lt;/a&gt;, &lt;a href=&#34;https://www.mako.co.il/news-channel2/Six-Newscast-q2_2019/Article-f8612d0402a9b61026.htm&#34;&gt; חדשות 12&lt;/a&gt;, ופעמים רבות &lt;a href=&#34;#news&#34;&gt;בשאר העולם&lt;/a&gt;.
+&lt;/p&gt;
+&lt;p&gt;
+  פרטים נוספים באתר באנגלית.
+&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Dara Bahri</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/dara-bahri/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/authors/dara-bahri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Donald Metzler</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/donald-metzler/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/authors/donald-metzler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Honglei Zhuang</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/honglei-zhuang/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/authors/honglei-zhuang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Huaixiu Steven Zheng</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/huaixiu-steven-zheng/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/authors/huaixiu-steven-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jai Gupta</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/jai-gupta/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/authors/jai-gupta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jianmo Ni</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/jianmo-ni/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/authors/jianmo-ni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jinfeng Rao</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/jinfeng-rao/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/authors/jinfeng-rao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kai Hui</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/kai-hui/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/authors/kai-hui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sanket Vaibhav Mehta</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/sanket-vaibhav-mehta/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/authors/sanket-vaibhav-mehta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebastian Ruder</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/sebastian-ruder/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/authors/sebastian-ruder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vamsi Aribandi</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/vamsi-aribandi/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/authors/vamsi-aribandi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vinh Q Tran</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/vinh-q-tran/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/authors/vinh-q-tran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yi Tay</title>
+      <link>https://people.csail.mit.edu/tals/he/authors/yi-tay/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/authors/yi-tay/</guid>
+      <description></description>
     </item>
     
     <item>

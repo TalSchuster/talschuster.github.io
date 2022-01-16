@@ -5,7 +5,7 @@
     <link>https://people.csail.mit.edu/tals/tags/deep-learning/</link>
       <atom:link href="https://people.csail.mit.edu/tals/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Tal Schuster</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Tal Schuster</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Deep Learning</title>
@@ -30,10 +30,10 @@
     </item>
     
     <item>
-      <title>Fake News</title>
-      <link>https://people.csail.mit.edu/tals/project/fake_news/</link>
+      <title>Fact Verification</title>
+      <link>https://people.csail.mit.edu/tals/project/fact_verification/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/project/fake_news/</guid>
+      <guid>https://people.csail.mit.edu/tals/project/fact_verification/</guid>
       <description>&lt;p&gt;In this project, we aim to improve the automatic detection of false information. We rely on trustworthy sources and evaluate content claims them.&lt;/p&gt;
 </description>
     </item>

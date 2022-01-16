@@ -5,7 +5,7 @@
     <link>https://people.csail.mit.edu/tals/he/</link>
       <atom:link href="https://people.csail.mit.edu/tals/he/index.xml" rel="self" type="application/rss+xml" />
     <description>טל שוסטר</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2021 Tal Schuster</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>© 2022 Tal Schuster</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>טל שוסטר</title>
@@ -32,6 +32,14 @@
 &lt;/ul&gt;
 &lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>ExT5: Towards Extreme Multi-Task Scaling for Transfer Learning</title>
+      <link>https://people.csail.mit.edu/tals/he/publication/ext5/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/he/publication/ext5/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -144,9 +152,9 @@
     
     <item>
       <title>Cross-Lingual Alignment of Contextual Word Embeddings, with Applications to Zero-shot Dependency Parsing</title>
-      <link>https://people.csail.mit.edu/tals/he/publication/crosslingual_elmo/</link>
+      <link>https://people.csail.mit.edu/tals/he/publication/crosslingual_embed/</link>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/he/publication/crosslingual_elmo/</guid>
+      <guid>https://people.csail.mit.edu/tals/he/publication/crosslingual_embed/</guid>
       <description>&lt;hr&gt;
 </description>
     </item>
@@ -185,11 +193,11 @@
     </item>
     
     <item>
-      <title>Fake News</title>
-      <link>https://people.csail.mit.edu/tals/he/project/fake_news/</link>
+      <title>Fact Verification</title>
+      <link>https://people.csail.mit.edu/tals/he/project/fact_verification/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/he/project/fake_news/</guid>
-      <description>&lt;p&gt;In this project, we aim to improve the automatic detection of false information. We rely on trustworthy sources and evaluate content against them.&lt;/p&gt;
+      <guid>https://people.csail.mit.edu/tals/he/project/fact_verification/</guid>
+      <description>&lt;p&gt;In this project, we aim to improve the automatic detection of false information. We rely on trustworthy sources and evaluate content claims them.&lt;/p&gt;
 </description>
     </item>
     
