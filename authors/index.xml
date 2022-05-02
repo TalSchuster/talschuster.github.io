@@ -5,7 +5,7 @@
     <link>https://talschuster.github.io/authors/</link>
       <atom:link href="https://talschuster.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Tal Schuster</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Tal Schuster</copyright><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -15,10 +15,10 @@
     <item>
       <title></title>
       <link>https://talschuster.github.io/authors/admin/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       <guid>https://talschuster.github.io/authors/admin/</guid>
       <description>&lt;p&gt;
-I am a Senior Research Scientist at Google Research where I work on developing methods for improving the robustness, reliability, and efficiency of Machine Learning models. Specifically, I develop reliable &lt;a href=&#34;project/conformal/&#34;&gt;uncertainty estimates&lt;/a&gt; for practical applications. For example, to control and improve &lt;a href=&#34;publication/cats/&#34;&gt;adaptive computation&lt;/a&gt; capabilities, or to derive small and accurate &lt;a href=&#34;publication/relaxed_cascaded_conformal_prediction/&#34;&gt;prediction sets&lt;/a&gt;. Currently, I am mainly working on &lt;a href=&#34;tags/nlp&#34;&gt;Natural Language Processing&lt;/a&gt; applications, focusing on improving the precision of information-related tasks. For example, improving the &lt;a href=&#34;project/fact_verification/&#34;&gt;robustness of Fact Verification&lt;/a&gt; and Language Inference systems, and leveraging them for solving related classification and generation tasks.
+I am a Senior Research Scientist at &lt;a href=&#34;https://research.google/people/TalSchuster/&#34;&gt;Google Research&lt;/a&gt; where I work on developing methods for improving the robustness, reliability, and efficiency of Machine Learning models. Specifically, I develop reliable &lt;a href=&#34;project/conformal/&#34;&gt;uncertainty estimates&lt;/a&gt; for practical applications. For example, to control and improve &lt;a href=&#34;publication/cats/&#34;&gt;adaptive computation&lt;/a&gt; capabilities, or to derive small and accurate &lt;a href=&#34;publication/relaxed_cascaded_conformal_prediction/&#34;&gt;prediction sets&lt;/a&gt;. Currently, I am mainly working on &lt;a href=&#34;tags/nlp&#34;&gt;Natural Language Processing&lt;/a&gt; applications, focusing on improving the precision of information-related tasks. For example, improving the &lt;a href=&#34;project/fact_verification/&#34;&gt;robustness of Fact Verification&lt;/a&gt; and Language Inference systems, and leveraging them for solving related classification and generation tasks.
 &lt;/p&gt;
 &lt;p&gt;
 I have also worked on Deep Learning for &lt;a href=&#34;tags/vision&#34;&gt;Computer Vision&lt;/a&gt;, &lt;a href=&#34;project/mammography/&#34;&gt;Medical applications&lt;/a&gt;, Computational Chemistry, as well as other topics in NLP including static and contextual &lt;a href=&#34;project/embeddings/&#34;&gt;Word Embeddings&lt;/a&gt;, Large Language Models, Transfer Learning, &lt;a href=&#34;publication/crosslingual_embed/&#34;&gt;Cross-Lingual&lt;/a&gt;, Question Answering, &lt;a href=&#34;publication/puzzles/&#34;&gt;program synthesis&lt;/a&gt;, and more. Many of my projects have been featured in &lt;a href=&#34;#news&#34;&gt;global media&lt;/a&gt;.
@@ -30,18 +30,178 @@ Before coming to MIT, I completed my MSc at Tel-Aviv University, advised by &lt;
     </item>
     
     <item>
-      <title>Dara Bahri</title>
-      <link>https://talschuster.github.io/authors/dara-bahri/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://talschuster.github.io/authors/dara-bahri/</guid>
+      <title>Alex Fabrikant</title>
+      <link>https://talschuster.github.io/authors/alex-fabrikant/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/authors/alex-fabrikant/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Donald Metzler</title>
       <link>https://talschuster.github.io/authors/donald-metzler/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       <guid>https://talschuster.github.io/authors/donald-metzler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Senaka Buthpitiya</title>
+      <link>https://talschuster.github.io/authors/senaka-buthpitiya/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/authors/senaka-buthpitiya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sihao Chen</title>
+      <link>https://talschuster.github.io/authors/sihao-chen/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/authors/sihao-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adam Fisch</title>
+      <link>https://talschuster.github.io/authors/adam-fisch/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/authors/adam-fisch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dara Bahri</title>
+      <link>https://talschuster.github.io/authors/dara-bahri/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/authors/dara-bahri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harsh Mehta</title>
+      <link>https://talschuster.github.io/authors/harsh-mehta/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/authors/harsh-mehta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jai Gupta</title>
+      <link>https://talschuster.github.io/authors/jai-gupta/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/authors/jai-gupta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jianmo Ni</title>
+      <link>https://talschuster.github.io/authors/jianmo-ni/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/authors/jianmo-ni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kai Hui</title>
+      <link>https://talschuster.github.io/authors/kai-hui/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/authors/kai-hui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mostafa Dehghani</title>
+      <link>https://talschuster.github.io/authors/mostafa-dehghani/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/authors/mostafa-dehghani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regina Barzilay</title>
+      <link>https://talschuster.github.io/authors/regina-barzilay/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/authors/regina-barzilay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tommi Jaakkola</title>
+      <link>https://talschuster.github.io/authors/tommi-jaakkola/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/authors/tommi-jaakkola/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vinh Q Tran</title>
+      <link>https://talschuster.github.io/authors/vinh-q-tran/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/authors/vinh-q-tran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>William W Cohen</title>
+      <link>https://talschuster.github.io/authors/william-w-cohen/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/authors/william-w-cohen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yi Tay</title>
+      <link>https://talschuster.github.io/authors/yi-tay/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/authors/yi-tay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhe Zhao</title>
+      <link>https://talschuster.github.io/authors/zhe-zhao/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/authors/zhe-zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhen Qin</title>
+      <link>https://talschuster.github.io/authors/zhen-qin/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/authors/zhen-qin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benjamin Boerschinger</title>
+      <link>https://talschuster.github.io/authors/benjamin-boerschinger/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/authors/benjamin-boerschinger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christian Buck</title>
+      <link>https://talschuster.github.io/authors/christian-buck/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/authors/christian-buck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jannis Bulian</title>
+      <link>https://talschuster.github.io/authors/jannis-bulian/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/authors/jannis-bulian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wojciech Gajewski</title>
+      <link>https://talschuster.github.io/authors/wojciech-gajewski/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/authors/wojciech-gajewski/</guid>
       <description></description>
     </item>
     
@@ -62,22 +222,6 @@ Before coming to MIT, I completed my MSc at Tel-Aviv University, advised by &lt;
     </item>
     
     <item>
-      <title>Jai Gupta</title>
-      <link>https://talschuster.github.io/authors/jai-gupta/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://talschuster.github.io/authors/jai-gupta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jianmo Ni</title>
-      <link>https://talschuster.github.io/authors/jianmo-ni/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://talschuster.github.io/authors/jianmo-ni/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Jinfeng Rao</title>
       <link>https://talschuster.github.io/authors/jinfeng-rao/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
@@ -86,10 +230,10 @@ Before coming to MIT, I completed my MSc at Tel-Aviv University, advised by &lt;
     </item>
     
     <item>
-      <title>Kai Hui</title>
-      <link>https://talschuster.github.io/authors/kai-hui/</link>
+      <title>Robin Jia</title>
+      <link>https://talschuster.github.io/authors/robin-jia/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://talschuster.github.io/authors/kai-hui/</guid>
+      <guid>https://talschuster.github.io/authors/robin-jia/</guid>
       <description></description>
     </item>
     
@@ -118,22 +262,6 @@ Before coming to MIT, I completed my MSc at Tel-Aviv University, advised by &lt;
     </item>
     
     <item>
-      <title>Vinh Q Tran</title>
-      <link>https://talschuster.github.io/authors/vinh-q-tran/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://talschuster.github.io/authors/vinh-q-tran/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yi Tay</title>
-      <link>https://talschuster.github.io/authors/yi-tay/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://talschuster.github.io/authors/yi-tay/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Adam Tauman Kalai</title>
       <link>https://talschuster.github.io/authors/adam-tauman-kalai/</link>
       <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
@@ -154,30 +282,6 @@ Before coming to MIT, I completed my MSc at Tel-Aviv University, advised by &lt;
       <link>https://talschuster.github.io/authors/oleksandr-polozov/</link>
       <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://talschuster.github.io/authors/oleksandr-polozov/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adam Fisch</title>
-      <link>https://talschuster.github.io/authors/adam-fisch/</link>
-      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://talschuster.github.io/authors/adam-fisch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regina Barzilay</title>
-      <link>https://talschuster.github.io/authors/regina-barzilay/</link>
-      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://talschuster.github.io/authors/regina-barzilay/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tommi Jaakkola</title>
-      <link>https://talschuster.github.io/authors/tommi-jaakkola/</link>
-      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://talschuster.github.io/authors/tommi-jaakkola/</guid>
       <description></description>
     </item>
     

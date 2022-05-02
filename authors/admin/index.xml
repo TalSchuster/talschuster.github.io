@@ -5,7 +5,7 @@
     <link>https://talschuster.github.io/authors/admin/</link>
       <atom:link href="https://talschuster.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Tal Schuster</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Tal Schuster</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Tal Schuster</copyright><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tal Schuster</title>
@@ -13,10 +13,58 @@
     </image>
     
     <item>
+      <title>Stretching Sentence-pair NLI Models to Reason over Long Documents and Clusters</title>
+      <link>https://talschuster.github.io/publication/stretching_nli/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/publication/stretching_nli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conformal Prediction Sets with Limited False Positives</title>
+      <link>https://talschuster.github.io/publication/conformal_fp/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/publication/conformal_fp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transformer Memory as a Differentiable Search Index</title>
+      <link>https://talschuster.github.io/publication/dsi/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/publication/dsi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tomayto, Tomahto. Beyond Token-level Answer Equivalence for Question Answering Evaluation</title>
+      <link>https://talschuster.github.io/publication/tomayto_tomahto/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/publication/tomayto_tomahto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ExT5: Towards Extreme Multi-Task Scaling for Transfer Learning</title>
       <link>https://talschuster.github.io/publication/ext5/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://talschuster.github.io/publication/ext5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty Estimation for Natural Language Processing (Tutorial)</title>
+      <link>https://talschuster.github.io/publication/uncertainty_tutorial_coling22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/publication/uncertainty_tutorial_coling22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust and Efficient Deep Learning for Misinformation Prevention</title>
+      <link>https://talschuster.github.io/publication/phd_thesis/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/publication/phd_thesis/</guid>
       <description></description>
     </item>
     

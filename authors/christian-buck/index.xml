@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christian Buck | Tal Schuster</title>
+    <link>https://talschuster.github.io/authors/christian-buck/</link>
+      <atom:link href="https://talschuster.github.io/authors/christian-buck/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christian Buck</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Tal Schuster</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Christian Buck</title>
+      <link>https://talschuster.github.io/authors/christian-buck/</link>
+    </image>
+    
+    <item>
+      <title>Tomayto, Tomahto. Beyond Token-level Answer Equivalence for Question Answering Evaluation</title>
+      <link>https://talschuster.github.io/publication/tomayto_tomahto/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/publication/tomayto_tomahto/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
