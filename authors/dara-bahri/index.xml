@@ -5,12 +5,20 @@
     <link>https://people.csail.mit.edu/tals/authors/dara-bahri/</link>
       <atom:link href="https://people.csail.mit.edu/tals/authors/dara-bahri/index.xml" rel="self" type="application/rss+xml" />
     <description>Dara Bahri</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Tal Schuster</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Tal Schuster</copyright><lastBuildDate>Tue, 15 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Dara Bahri</title>
       <link>https://people.csail.mit.edu/tals/authors/dara-bahri/</link>
     </image>
+    
+    <item>
+      <title>Transformer Memory as a Differentiable Search Index</title>
+      <link>https://people.csail.mit.edu/tals/publication/dsi/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/publication/dsi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ExT5: Towards Extreme Multi-Task Scaling for Transfer Learning</title>
