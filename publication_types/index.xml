@@ -5,7 +5,7 @@
     <link>https://people.csail.mit.edu/tals/publication_types/</link>
       <atom:link href="https://people.csail.mit.edu/tals/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Tal Schuster</copyright><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Tal Schuster</copyright><lastBuildDate>Sun, 15 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publication_types</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>3</title>
-      <link>https://people.csail.mit.edu/tals/publication_types/3/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/publication_types/3/</guid>
+      <title>1</title>
+      <link>https://people.csail.mit.edu/tals/publication_types/1/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/publication_types/1/</guid>
       <description></description>
     </item>
     
@@ -25,14 +25,6 @@
       <link>https://people.csail.mit.edu/tals/publication_types/0/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/tals/publication_types/0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>1</title>
-      <link>https://people.csail.mit.edu/tals/publication_types/1/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/publication_types/1/</guid>
       <description></description>
     </item>
     

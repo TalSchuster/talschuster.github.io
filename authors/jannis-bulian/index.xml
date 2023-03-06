@@ -5,7 +5,7 @@
     <link>https://people.csail.mit.edu/tals/authors/jannis-bulian/</link>
       <atom:link href="https://people.csail.mit.edu/tals/authors/jannis-bulian/index.xml" rel="self" type="application/rss+xml" />
     <description>Jannis Bulian</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Tal Schuster</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Tal Schuster</copyright><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Jannis Bulian</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Tomayto, Tomahto. Beyond Token-level Answer Equivalence for Question Answering Evaluation</title>
       <link>https://people.csail.mit.edu/tals/publication/tomayto_tomahto/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/tals/publication/tomayto_tomahto/</guid>
       <description></description>
     </item>

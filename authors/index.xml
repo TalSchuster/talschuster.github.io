@@ -5,7 +5,7 @@
     <link>https://people.csail.mit.edu/tals/authors/</link>
       <atom:link href="https://people.csail.mit.edu/tals/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Tal Schuster</copyright><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Tal Schuster</copyright><lastBuildDate>Sun, 15 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://people.csail.mit.edu/tals/authors/admin/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/tals/authors/admin/</guid>
       <description>&lt;p&gt;
 I am a Senior Research Scientist at &lt;a href=&#34;https://research.google/people/TalSchuster/&#34;&gt;Google Research&lt;/a&gt; where I work on developing methods for improving the robustness, reliability, and efficiency of Machine Learning models. Specifically, I develop reliable &lt;a href=&#34;project/conformal/&#34;&gt;uncertainty estimates&lt;/a&gt; for practical applications. For example, to control and improve &lt;a href=&#34;publication/cats/&#34;&gt;adaptive computation&lt;/a&gt; capabilities, or to derive small and accurate &lt;a href=&#34;publication/relaxed_cascaded_conformal_prediction/&#34;&gt;prediction sets&lt;/a&gt;. Currently, I am mainly working on &lt;a href=&#34;tags/nlp&#34;&gt;Natural Language Processing&lt;/a&gt; applications, focusing on improving the precision of information-related tasks. For example, improving the &lt;a href=&#34;project/fact_verification/&#34;&gt;robustness of Fact Verification&lt;/a&gt; and Language Inference systems, and leveraging them for solving related classification and generation tasks.
@@ -30,73 +30,145 @@ Before coming to MIT, I completed my MSc at Tel-Aviv University, advised by &lt;
     </item>
     
     <item>
-      <title>Alex Fabrikant</title>
-      <link>https://people.csail.mit.edu/tals/authors/alex-fabrikant/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/authors/alex-fabrikant/</guid>
+      <title>Dara Bahri</title>
+      <link>https://people.csail.mit.edu/tals/authors/dara-bahri/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/dara-bahri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Denny Zhou</title>
+      <link>https://people.csail.mit.edu/tals/authors/denny-zhou/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/denny-zhou/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Donald Metzler</title>
       <link>https://people.csail.mit.edu/tals/authors/donald-metzler/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/tals/authors/donald-metzler/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Senaka Buthpitiya</title>
-      <link>https://people.csail.mit.edu/tals/authors/senaka-buthpitiya/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/authors/senaka-buthpitiya/</guid>
+      <title>Huaixiu Steven Zheng</title>
+      <link>https://people.csail.mit.edu/tals/authors/huaixiu-steven-zheng/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/huaixiu-steven-zheng/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sihao Chen</title>
-      <link>https://people.csail.mit.edu/tals/authors/sihao-chen/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/authors/sihao-chen/</guid>
+      <title>Hyung Won Chung</title>
+      <link>https://people.csail.mit.edu/tals/authors/hyung-won-chung/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/hyung-won-chung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jason Wei</title>
+      <link>https://people.csail.mit.edu/tals/authors/jason-wei/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/jason-wei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mostafa Dehghani</title>
+      <link>https://people.csail.mit.edu/tals/authors/mostafa-dehghani/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/mostafa-dehghani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neil Houlsby</title>
+      <link>https://people.csail.mit.edu/tals/authors/neil-houlsby/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/neil-houlsby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siamak Shakeri</title>
+      <link>https://people.csail.mit.edu/tals/authors/siamak-shakeri/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/siamak-shakeri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vinh Q Tran</title>
+      <link>https://people.csail.mit.edu/tals/authors/vinh-q-tran/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/vinh-q-tran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xavier Garcia</title>
+      <link>https://people.csail.mit.edu/tals/authors/xavier-garcia/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/xavier-garcia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xuezhi Wang</title>
+      <link>https://people.csail.mit.edu/tals/authors/xuezhi-wang/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/xuezhi-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yi Tay</title>
+      <link>https://people.csail.mit.edu/tals/authors/yi-tay/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/yi-tay/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adam Fisch</title>
       <link>https://people.csail.mit.edu/tals/authors/adam-fisch/</link>
-      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/tals/authors/adam-fisch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dara Bahri</title>
-      <link>https://people.csail.mit.edu/tals/authors/dara-bahri/</link>
-      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/authors/dara-bahri/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Harsh Mehta</title>
-      <link>https://people.csail.mit.edu/tals/authors/harsh-mehta/</link>
-      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/authors/harsh-mehta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jai Gupta</title>
       <link>https://people.csail.mit.edu/tals/authors/jai-gupta/</link>
-      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/tals/authors/jai-gupta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vinh Q. Tran</title>
+      <link>https://people.csail.mit.edu/tals/authors/vinh-q.-tran/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/vinh-q.-tran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harsh Mehta</title>
+      <link>https://people.csail.mit.edu/tals/authors/harsh-mehta/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/harsh-mehta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jianmo Ni</title>
       <link>https://people.csail.mit.edu/tals/authors/jianmo-ni/</link>
-      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/tals/authors/jianmo-ni/</guid>
       <description></description>
     </item>
@@ -104,16 +176,88 @@ Before coming to MIT, I completed my MSc at Tel-Aviv University, advised by &lt;
     <item>
       <title>Kai Hui</title>
       <link>https://people.csail.mit.edu/tals/authors/kai-hui/</link>
-      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/tals/authors/kai-hui/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Mostafa Dehghani</title>
-      <link>https://people.csail.mit.edu/tals/authors/mostafa-dehghani/</link>
-      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/authors/mostafa-dehghani/</guid>
+      <title>William W Cohen</title>
+      <link>https://people.csail.mit.edu/tals/authors/william-w-cohen/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/william-w-cohen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhe Zhao</title>
+      <link>https://people.csail.mit.edu/tals/authors/zhe-zhao/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/zhe-zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhen Qin</title>
+      <link>https://people.csail.mit.edu/tals/authors/zhen-qin/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/zhen-qin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alex Fabrikant</title>
+      <link>https://people.csail.mit.edu/tals/authors/alex-fabrikant/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/alex-fabrikant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Senaka Buthpitiya</title>
+      <link>https://people.csail.mit.edu/tals/authors/senaka-buthpitiya/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/senaka-buthpitiya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sihao Chen</title>
+      <link>https://people.csail.mit.edu/tals/authors/sihao-chen/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/sihao-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benjamin Boerschinger</title>
+      <link>https://people.csail.mit.edu/tals/authors/benjamin-boerschinger/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/benjamin-boerschinger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christian Buck</title>
+      <link>https://people.csail.mit.edu/tals/authors/christian-buck/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/christian-buck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jannis Bulian</title>
+      <link>https://people.csail.mit.edu/tals/authors/jannis-bulian/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/jannis-bulian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wojciech Gajewski</title>
+      <link>https://people.csail.mit.edu/tals/authors/wojciech-gajewski/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/wojciech-gajewski/</guid>
       <description></description>
     </item>
     
@@ -134,90 +278,10 @@ Before coming to MIT, I completed my MSc at Tel-Aviv University, advised by &lt;
     </item>
     
     <item>
-      <title>Vinh Q Tran</title>
-      <link>https://people.csail.mit.edu/tals/authors/vinh-q-tran/</link>
-      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/authors/vinh-q-tran/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>William W Cohen</title>
-      <link>https://people.csail.mit.edu/tals/authors/william-w-cohen/</link>
-      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/authors/william-w-cohen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yi Tay</title>
-      <link>https://people.csail.mit.edu/tals/authors/yi-tay/</link>
-      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/authors/yi-tay/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zhe Zhao</title>
-      <link>https://people.csail.mit.edu/tals/authors/zhe-zhao/</link>
-      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/authors/zhe-zhao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zhen Qin</title>
-      <link>https://people.csail.mit.edu/tals/authors/zhen-qin/</link>
-      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/authors/zhen-qin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Benjamin Boerschinger</title>
-      <link>https://people.csail.mit.edu/tals/authors/benjamin-boerschinger/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/authors/benjamin-boerschinger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Christian Buck</title>
-      <link>https://people.csail.mit.edu/tals/authors/christian-buck/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/authors/christian-buck/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jannis Bulian</title>
-      <link>https://people.csail.mit.edu/tals/authors/jannis-bulian/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/authors/jannis-bulian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wojciech Gajewski</title>
-      <link>https://people.csail.mit.edu/tals/authors/wojciech-gajewski/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/authors/wojciech-gajewski/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Honglei Zhuang</title>
       <link>https://people.csail.mit.edu/tals/authors/honglei-zhuang/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/tals/authors/honglei-zhuang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Huaixiu Steven Zheng</title>
-      <link>https://people.csail.mit.edu/tals/authors/huaixiu-steven-zheng/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/authors/huaixiu-steven-zheng/</guid>
       <description></description>
     </item>
     

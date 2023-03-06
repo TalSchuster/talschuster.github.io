@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hyung Won Chung | Tal Schuster</title>
+    <link>https://people.csail.mit.edu/tals/authors/hyung-won-chung/</link>
+      <atom:link href="https://people.csail.mit.edu/tals/authors/hyung-won-chung/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hyung Won Chung</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Tal Schuster</copyright><lastBuildDate>Sun, 15 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Hyung Won Chung</title>
+      <link>https://people.csail.mit.edu/tals/authors/hyung-won-chung/</link>
+    </image>
+    
+    <item>
+      <title>UL2: Unifying Language Learning Paradigms</title>
+      <link>https://people.csail.mit.edu/tals/publication/ul2/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/publication/ul2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

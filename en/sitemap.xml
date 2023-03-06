@@ -49,7 +49,7 @@
   
   <url>
     <loc>https://people.csail.mit.edu/tals/authors/admin/</loc>
-    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
@@ -63,28 +63,23 @@
   </url>
   
   <url>
-    <loc>https://people.csail.mit.edu/tals/publication_types/3/</loc>
-    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+    <loc>https://people.csail.mit.edu/tals/publication_types/1/</loc>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
-                href="https://people.csail.mit.edu/tals/he/publication_types/3/"
+                href="https://people.csail.mit.edu/tals/he/publication_types/1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://people.csail.mit.edu/tals/publication_types/3/"
+                href="https://people.csail.mit.edu/tals/publication_types/1/"
                 />
   </url>
   
   <url>
-    <loc>https://people.csail.mit.edu/tals/authors/alex-fabrikant/</loc>
-    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://people.csail.mit.edu/tals/authors/</loc>
-    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
@@ -98,8 +93,28 @@
   </url>
   
   <url>
+    <loc>https://people.csail.mit.edu/tals/authors/dara-bahri/</loc>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://people.csail.mit.edu/tals/he/authors/dara-bahri/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.csail.mit.edu/tals/authors/dara-bahri/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/authors/denny-zhou/</loc>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://people.csail.mit.edu/tals/authors/donald-metzler/</loc>
-    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
@@ -113,8 +128,43 @@
   </url>
   
   <url>
+    <loc>https://people.csail.mit.edu/tals/authors/huaixiu-steven-zheng/</loc>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://people.csail.mit.edu/tals/he/authors/huaixiu-steven-zheng/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.csail.mit.edu/tals/authors/huaixiu-steven-zheng/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/authors/hyung-won-chung/</loc>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/authors/jason-wei/</loc>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/authors/mostafa-dehghani/</loc>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/authors/neil-houlsby/</loc>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://people.csail.mit.edu/tals/publication_types/</loc>
-    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
@@ -129,7 +179,7 @@
   
   <url>
     <loc>https://people.csail.mit.edu/tals/publication/</loc>
-    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
@@ -143,23 +193,13 @@
   </url>
   
   <url>
-    <loc>https://people.csail.mit.edu/tals/authors/senaka-buthpitiya/</loc>
-    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://people.csail.mit.edu/tals/authors/sihao-chen/</loc>
-    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://people.csail.mit.edu/tals/publication/stretching_nli/</loc>
-    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+    <loc>https://people.csail.mit.edu/tals/authors/siamak-shakeri/</loc>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://people.csail.mit.edu/tals/tags/</loc>
-    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
@@ -173,8 +213,53 @@
   </url>
   
   <url>
+    <loc>https://people.csail.mit.edu/tals/publication/ul2/</loc>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/authors/vinh-q-tran/</loc>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://people.csail.mit.edu/tals/he/authors/vinh-q-tran/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.csail.mit.edu/tals/authors/vinh-q-tran/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/authors/xavier-garcia/</loc>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/authors/xuezhi-wang/</loc>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/authors/yi-tay/</loc>
+    <lastmod>2023-01-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="he"
+                href="https://people.csail.mit.edu/tals/he/authors/yi-tay/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://people.csail.mit.edu/tals/authors/yi-tay/"
+                />
+  </url>
+  
+  <url>
     <loc>https://people.csail.mit.edu/tals/authors/adam-fisch/</loc>
-    <lastmod>2022-02-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
@@ -188,33 +273,13 @@
   </url>
   
   <url>
-    <loc>https://people.csail.mit.edu/tals/publication/conformal_fp/</loc>
-    <lastmod>2022-02-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://people.csail.mit.edu/tals/authors/dara-bahri/</loc>
-    <lastmod>2022-02-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://people.csail.mit.edu/tals/he/authors/dara-bahri/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://people.csail.mit.edu/tals/authors/dara-bahri/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://people.csail.mit.edu/tals/authors/harsh-mehta/</loc>
-    <lastmod>2022-02-15T00:00:00+00:00</lastmod>
+    <loc>https://people.csail.mit.edu/tals/publication/calm/</loc>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://people.csail.mit.edu/tals/authors/jai-gupta/</loc>
-    <lastmod>2022-02-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
@@ -228,8 +293,18 @@
   </url>
   
   <url>
+    <loc>https://people.csail.mit.edu/tals/authors/vinh-q.-tran/</loc>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/authors/harsh-mehta/</loc>
+    <lastmod>2022-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://people.csail.mit.edu/tals/authors/jianmo-ni/</loc>
-    <lastmod>2022-02-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
@@ -244,7 +319,7 @@
   
   <url>
     <loc>https://people.csail.mit.edu/tals/authors/kai-hui/</loc>
-    <lastmod>2022-02-15T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="he"
@@ -258,7 +333,72 @@
   </url>
   
   <url>
-    <loc>https://people.csail.mit.edu/tals/authors/mostafa-dehghani/</loc>
+    <loc>https://people.csail.mit.edu/tals/publication/dsi/</loc>
+    <lastmod>2022-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/authors/william-w-cohen/</loc>
+    <lastmod>2022-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/authors/zhe-zhao/</loc>
+    <lastmod>2022-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/authors/zhen-qin/</loc>
+    <lastmod>2022-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/authors/alex-fabrikant/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/authors/senaka-buthpitiya/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/authors/sihao-chen/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/publication/stretching_nli/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/authors/benjamin-boerschinger/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/authors/christian-buck/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/authors/jannis-bulian/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/publication/tomayto_tomahto/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/authors/wojciech-gajewski/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://people.csail.mit.edu/tals/publication/conformal_fp/</loc>
     <lastmod>2022-02-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -293,98 +433,8 @@
   </url>
   
   <url>
-    <loc>https://people.csail.mit.edu/tals/publication/dsi/</loc>
-    <lastmod>2022-02-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://people.csail.mit.edu/tals/authors/vinh-q-tran/</loc>
-    <lastmod>2022-02-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://people.csail.mit.edu/tals/he/authors/vinh-q-tran/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://people.csail.mit.edu/tals/authors/vinh-q-tran/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://people.csail.mit.edu/tals/authors/william-w-cohen/</loc>
-    <lastmod>2022-02-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://people.csail.mit.edu/tals/authors/yi-tay/</loc>
-    <lastmod>2022-02-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://people.csail.mit.edu/tals/he/authors/yi-tay/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://people.csail.mit.edu/tals/authors/yi-tay/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://people.csail.mit.edu/tals/authors/zhe-zhao/</loc>
-    <lastmod>2022-02-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://people.csail.mit.edu/tals/authors/zhen-qin/</loc>
-    <lastmod>2022-02-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://people.csail.mit.edu/tals/authors/benjamin-boerschinger/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://people.csail.mit.edu/tals/authors/christian-buck/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://people.csail.mit.edu/tals/authors/jannis-bulian/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://people.csail.mit.edu/tals/publication/tomayto_tomahto/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://people.csail.mit.edu/tals/authors/wojciech-gajewski/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://people.csail.mit.edu/tals/publication_types/0/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://people.csail.mit.edu/tals/publication_types/1/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://people.csail.mit.edu/tals/he/publication_types/1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://people.csail.mit.edu/tals/publication_types/1/"
-                />
   </url>
   
   <url>
@@ -414,21 +464,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://people.csail.mit.edu/tals/authors/honglei-zhuang/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://people.csail.mit.edu/tals/authors/huaixiu-steven-zheng/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="he"
-                href="https://people.csail.mit.edu/tals/he/authors/huaixiu-steven-zheng/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://people.csail.mit.edu/tals/authors/huaixiu-steven-zheng/"
                 />
   </url>
   
