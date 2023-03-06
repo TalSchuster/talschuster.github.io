@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Siamak Shakeri | Tal Schuster</title>
+    <link>https://talschuster.github.io/authors/siamak-shakeri/</link>
+      <atom:link href="https://talschuster.github.io/authors/siamak-shakeri/index.xml" rel="self" type="application/rss+xml" />
+    <description>Siamak Shakeri</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Tal Schuster</copyright><lastBuildDate>Sun, 15 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Siamak Shakeri</title>
+      <link>https://talschuster.github.io/authors/siamak-shakeri/</link>
+    </image>
+    
+    <item>
+      <title>UL2: Unifying Language Learning Paradigms</title>
+      <link>https://talschuster.github.io/publication/ul2/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/publication/ul2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

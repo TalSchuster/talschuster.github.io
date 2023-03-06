@@ -5,12 +5,26 @@
     <link>https://talschuster.github.io/authors/adam-fisch/</link>
       <atom:link href="https://talschuster.github.io/authors/adam-fisch/index.xml" rel="self" type="application/rss+xml" />
     <description>Adam Fisch</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Tal Schuster</copyright><lastBuildDate>Tue, 15 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Tal Schuster</copyright><lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Adam Fisch</title>
       <link>https://talschuster.github.io/authors/adam-fisch/</link>
     </image>
+    
+    <item>
+      <title>Confident Adaptive Language Modeling</title>
+      <link>https://talschuster.github.io/publication/calm/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/publication/calm/</guid>
+      <description>&lt;p&gt;News coverage:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://syncedreview.com/2022/07/19/google-mits-confident-adaptive-language-modeling-uses-dynamic-compute-allocation-to-achieve-3x-speedups/&#34;&gt;Synced  &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.marktechpost.com/2022/12/20/google-ai-introduces-confident-adaptive-language-modeling-calm-for-3x-faster-text-generation-with-language-models-lms/&#34;&gt; MarkTechPost &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.searchenginejournal.com/google-calm-a-new-language-model-technology/474793/&#34;&gt; Search Engine Journal &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Conformal Prediction Sets with Limited False Positives</title>

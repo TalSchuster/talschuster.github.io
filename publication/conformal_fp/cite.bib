@@ -1,7 +1,15 @@
-@article{Fisch2022ConformalPS,
-  title={Conformal Prediction Sets with Limited False Positives},
-  author={Adam Fisch and Tal Schuster and T. Jaakkola and Regina Barzilay},
-  journal={ArXiv},
-  year={2022},
-  volume={abs/2202.07650}
+@InProceedings{pmlr-v162-fisch22a,
+  title = 	 {Conformal Prediction Sets with Limited False Positives},
+  author =       {Fisch, Adam and Schuster, Tal and Jaakkola, Tommi and Barzilay, Dr.Regina},
+  booktitle = 	 {Proceedings of the 39th International Conference on Machine Learning},
+  pages = 	 {6514--6532},
+  year = 	 {2022},
+  editor = 	 {Chaudhuri, Kamalika and Jegelka, Stefanie and Song, Le and Szepesvari, Csaba and Niu, Gang and Sabato, Sivan},
+  volume = 	 {162},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {17--23 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v162/fisch22a/fisch22a.pdf},
+  url = 	 {https://proceedings.mlr.press/v162/fisch22a.html},
+  abstract = 	 {We develop a new approach to multi-label conformal prediction in which we aim to output a precise set of promising prediction candidates with a bounded number of incorrect answers. Standard conformal prediction provides the ability to adapt to model uncertainty by constructing a calibrated candidate set in place of a single prediction, with guarantees that the set contains the correct answer with high probability. In order to obey this coverage property, however, conformal sets can become inundated with noisy candidates—which can render them unhelpful in practice. This is particularly relevant to practical applications where there is a limited budget, and the cost (monetary or otherwise) associated with false positives is non-negligible. We propose to trade coverage for a notion of precision by enforcing that the presence of incorrect candidates in the predicted conformal sets (i.e., the total number of false positives) is bounded according to a user-specified tolerance. Subject to this constraint, our algorithm then optimizes for a generalized notion of set coverage (i.e., the true positive rate) that allows for any number of true answers for a given query (including zero). We demonstrate the effectiveness of this approach across a number of classification tasks in natural language processing, computer vision, and computational chemistry.}
 }
