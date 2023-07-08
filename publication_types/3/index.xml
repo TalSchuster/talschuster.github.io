@@ -5,7 +5,7 @@
     <link>https://people.csail.mit.edu/tals/publication_types/3/</link>
       <atom:link href="https://people.csail.mit.edu/tals/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Tal Schuster</copyright><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Tal Schuster</copyright><lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>3</title>
@@ -13,34 +13,18 @@
     </image>
     
     <item>
-      <title>Stretching Sentence-pair NLI Models to Reason over Long Documents and Clusters</title>
-      <link>https://people.csail.mit.edu/tals/publication/stretching_nli/</link>
-      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/publication/stretching_nli/</guid>
+      <title>Conformal Language Modeling</title>
+      <link>https://people.csail.mit.edu/tals/publication/conformal_lm/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/publication/conformal_lm/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Conformal Prediction Sets with Limited False Positives</title>
-      <link>https://people.csail.mit.edu/tals/publication/conformal_fp/</link>
-      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/publication/conformal_fp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Transformer Memory as a Differentiable Search Index</title>
-      <link>https://people.csail.mit.edu/tals/publication/dsi/</link>
-      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/publication/dsi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tomayto, Tomahto. Beyond Token-level Answer Equivalence for Question Answering Evaluation</title>
-      <link>https://people.csail.mit.edu/tals/publication/tomayto_tomahto/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/publication/tomayto_tomahto/</guid>
+      <title>Conformal Risk Control</title>
+      <link>https://people.csail.mit.edu/tals/publication/conformal_risk/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/publication/conformal_risk/</guid>
       <description></description>
     </item>
     

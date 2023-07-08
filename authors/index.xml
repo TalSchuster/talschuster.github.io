@@ -5,7 +5,7 @@
     <link>https://people.csail.mit.edu/tals/authors/</link>
       <atom:link href="https://people.csail.mit.edu/tals/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Tal Schuster</copyright><lastBuildDate>Sun, 15 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Tal Schuster</copyright><lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://people.csail.mit.edu/tals/authors/admin/</link>
-      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/tals/authors/admin/</guid>
       <description>&lt;p&gt;
 I am a Senior Research Scientist at &lt;a href=&#34;https://research.google/people/TalSchuster/&#34;&gt;Google Research&lt;/a&gt; where I work on developing methods for improving the robustness, reliability, and efficiency of Machine Learning models. Specifically, I develop reliable &lt;a href=&#34;project/conformal/&#34;&gt;uncertainty estimates&lt;/a&gt; for practical applications. For example, to control and improve &lt;a href=&#34;publication/cats/&#34;&gt;adaptive computation&lt;/a&gt; capabilities, or to derive small and accurate &lt;a href=&#34;publication/relaxed_cascaded_conformal_prediction/&#34;&gt;prediction sets&lt;/a&gt;. Currently, I am mainly working on &lt;a href=&#34;tags/nlp&#34;&gt;Natural Language Processing&lt;/a&gt; applications, focusing on improving the precision of information-related tasks. For example, improving the &lt;a href=&#34;project/fact_verification/&#34;&gt;robustness of Fact Verification&lt;/a&gt; and Language Inference systems, and leveraging them for solving related classification and generation tasks.
@@ -27,6 +27,142 @@ I&#39;ve completed my Ph.D. at &lt;a href=&#34;http://www.csail.mit.edu/&#34;&gt
 Before coming to MIT, I completed my MSc at Tel-Aviv University, advised by &lt;a href=&#34;http://www.cs.tau.ac.il/~wolf/&#34;&gt;Prof. Lior Wolf&lt;/a&gt;.
 &lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Adam Fisch</title>
+      <link>https://people.csail.mit.edu/tals/authors/adam-fisch/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/adam-fisch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adam Yala</title>
+      <link>https://people.csail.mit.edu/tals/authors/adam-yala/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/adam-yala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jae Ho Sohn</title>
+      <link>https://people.csail.mit.edu/tals/authors/jae-ho-sohn/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/jae-ho-sohn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regina Barzilay</title>
+      <link>https://people.csail.mit.edu/tals/authors/regina-barzilay/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/regina-barzilay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tommi S. Jaakkola</title>
+      <link>https://people.csail.mit.edu/tals/authors/tommi-s.-jaakkola/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/tommi-s.-jaakkola/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Victor Quach</title>
+      <link>https://people.csail.mit.edu/tals/authors/victor-quach/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/victor-quach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alex Fabrikant</title>
+      <link>https://people.csail.mit.edu/tals/authors/alex-fabrikant/</link>
+      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/alex-fabrikant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Annie Louis</title>
+      <link>https://people.csail.mit.edu/tals/authors/annie-louis/</link>
+      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/annie-louis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Donald Metzler</title>
+      <link>https://people.csail.mit.edu/tals/authors/donald-metzler/</link>
+      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/donald-metzler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeremiah Milbauer</title>
+      <link>https://people.csail.mit.edu/tals/authors/jeremiah-milbauer/</link>
+      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/jeremiah-milbauer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mohammad Javad Hosseini</title>
+      <link>https://people.csail.mit.edu/tals/authors/mohammad-javad-hosseini/</link>
+      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/mohammad-javad-hosseini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dan Roth</title>
+      <link>https://people.csail.mit.edu/tals/authors/dan-roth/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/dan-roth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Senaka Buthpitiya</title>
+      <link>https://people.csail.mit.edu/tals/authors/senaka-buthpitiya/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/senaka-buthpitiya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sihao Chen</title>
+      <link>https://people.csail.mit.edu/tals/authors/sihao-chen/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/sihao-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anastasios N. Angelopoulos</title>
+      <link>https://people.csail.mit.edu/tals/authors/anastasios-n.-angelopoulos/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/anastasios-n.-angelopoulos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lihua Lei</title>
+      <link>https://people.csail.mit.edu/tals/authors/lihua-lei/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/lihua-lei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephen Bates</title>
+      <link>https://people.csail.mit.edu/tals/authors/stephen-bates/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/authors/stephen-bates/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -42,14 +178,6 @@ Before coming to MIT, I completed my MSc at Tel-Aviv University, advised by &lt;
       <link>https://people.csail.mit.edu/tals/authors/denny-zhou/</link>
       <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/tals/authors/denny-zhou/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Donald Metzler</title>
-      <link>https://people.csail.mit.edu/tals/authors/donald-metzler/</link>
-      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/authors/donald-metzler/</guid>
       <description></description>
     </item>
     
@@ -134,14 +262,6 @@ Before coming to MIT, I completed my MSc at Tel-Aviv University, advised by &lt;
     </item>
     
     <item>
-      <title>Adam Fisch</title>
-      <link>https://people.csail.mit.edu/tals/authors/adam-fisch/</link>
-      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/authors/adam-fisch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Jai Gupta</title>
       <link>https://people.csail.mit.edu/tals/authors/jai-gupta/</link>
       <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
@@ -206,30 +326,6 @@ Before coming to MIT, I completed my MSc at Tel-Aviv University, advised by &lt;
     </item>
     
     <item>
-      <title>Alex Fabrikant</title>
-      <link>https://people.csail.mit.edu/tals/authors/alex-fabrikant/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/authors/alex-fabrikant/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Senaka Buthpitiya</title>
-      <link>https://people.csail.mit.edu/tals/authors/senaka-buthpitiya/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/authors/senaka-buthpitiya/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sihao Chen</title>
-      <link>https://people.csail.mit.edu/tals/authors/sihao-chen/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/authors/sihao-chen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Benjamin Boerschinger</title>
       <link>https://people.csail.mit.edu/tals/authors/benjamin-boerschinger/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
@@ -258,14 +354,6 @@ Before coming to MIT, I completed my MSc at Tel-Aviv University, advised by &lt;
       <link>https://people.csail.mit.edu/tals/authors/wojciech-gajewski/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/tals/authors/wojciech-gajewski/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regina Barzilay</title>
-      <link>https://people.csail.mit.edu/tals/authors/regina-barzilay/</link>
-      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/authors/regina-barzilay/</guid>
       <description></description>
     </item>
     
@@ -346,14 +434,6 @@ Before coming to MIT, I completed my MSc at Tel-Aviv University, advised by &lt;
       <link>https://people.csail.mit.edu/tals/authors/oleksandr-polozov/</link>
       <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://people.csail.mit.edu/tals/authors/oleksandr-polozov/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adam Yala</title>
-      <link>https://people.csail.mit.edu/tals/authors/adam-yala/</link>
-      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://people.csail.mit.edu/tals/authors/adam-yala/</guid>
       <description></description>
     </item>
     

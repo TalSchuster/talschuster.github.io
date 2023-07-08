@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Victor Quach | Tal Schuster</title>
+    <link>https://people.csail.mit.edu/tals/authors/victor-quach/</link>
+      <atom:link href="https://people.csail.mit.edu/tals/authors/victor-quach/index.xml" rel="self" type="application/rss+xml" />
+    <description>Victor Quach</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Tal Schuster</copyright><lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Victor Quach</title>
+      <link>https://people.csail.mit.edu/tals/authors/victor-quach/</link>
+    </image>
+    
+    <item>
+      <title>Conformal Language Modeling</title>
+      <link>https://people.csail.mit.edu/tals/publication/conformal_lm/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://people.csail.mit.edu/tals/publication/conformal_lm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
