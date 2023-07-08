@@ -5,12 +5,20 @@
     <link>https://talschuster.github.io/authors/regina-barzilay/</link>
       <atom:link href="https://talschuster.github.io/authors/regina-barzilay/index.xml" rel="self" type="application/rss+xml" />
     <description>Regina Barzilay</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Tal Schuster</copyright><lastBuildDate>Tue, 15 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Tal Schuster</copyright><lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Regina Barzilay</title>
       <link>https://talschuster.github.io/authors/regina-barzilay/</link>
     </image>
+    
+    <item>
+      <title>Conformal Language Modeling</title>
+      <link>https://talschuster.github.io/publication/conformal_lm/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/publication/conformal_lm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Conformal Prediction Sets with Limited False Positives</title>

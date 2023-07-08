@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeremiah Milbauer | Tal Schuster</title>
+    <link>https://talschuster.github.io/authors/jeremiah-milbauer/</link>
+      <atom:link href="https://talschuster.github.io/authors/jeremiah-milbauer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jeremiah Milbauer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Tal Schuster</copyright><lastBuildDate>Wed, 31 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Jeremiah Milbauer</title>
+      <link>https://talschuster.github.io/authors/jeremiah-milbauer/</link>
+    </image>
+    
+    <item>
+      <title>LAIT: Efficient Multi-Segment Encoding in Transformers with Layer-Adjustable Interaction</title>
+      <link>https://talschuster.github.io/publication/lait/</link>
+      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/publication/lait/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

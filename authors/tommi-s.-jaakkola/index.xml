@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tommi S. Jaakkola | Tal Schuster</title>
+    <link>https://talschuster.github.io/authors/tommi-s.-jaakkola/</link>
+      <atom:link href="https://talschuster.github.io/authors/tommi-s.-jaakkola/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tommi S. Jaakkola</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Tal Schuster</copyright><lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Tommi S. Jaakkola</title>
+      <link>https://talschuster.github.io/authors/tommi-s.-jaakkola/</link>
+    </image>
+    
+    <item>
+      <title>Conformal Language Modeling</title>
+      <link>https://talschuster.github.io/publication/conformal_lm/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/publication/conformal_lm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

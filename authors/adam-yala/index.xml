@@ -5,12 +5,20 @@
     <link>https://talschuster.github.io/authors/adam-yala/</link>
       <atom:link href="https://talschuster.github.io/authors/adam-yala/index.xml" rel="self" type="application/rss+xml" />
     <description>Adam Yala</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Tal Schuster</copyright><lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Tal Schuster</copyright><lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Adam Yala</title>
       <link>https://talschuster.github.io/authors/adam-yala/</link>
     </image>
+    
+    <item>
+      <title>Conformal Language Modeling</title>
+      <link>https://talschuster.github.io/publication/conformal_lm/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/publication/conformal_lm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Exploiting Rules to Enhance Machine Learning in Extracting Information From Multi-Institutional Prostate Pathology Reports</title>

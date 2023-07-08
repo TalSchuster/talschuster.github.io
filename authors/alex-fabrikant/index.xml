@@ -5,12 +5,28 @@
     <link>https://talschuster.github.io/authors/alex-fabrikant/</link>
       <atom:link href="https://talschuster.github.io/authors/alex-fabrikant/index.xml" rel="self" type="application/rss+xml" />
     <description>Alex Fabrikant</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Tal Schuster</copyright><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Tal Schuster</copyright><lastBuildDate>Wed, 31 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Alex Fabrikant</title>
       <link>https://talschuster.github.io/authors/alex-fabrikant/</link>
     </image>
+    
+    <item>
+      <title>LAIT: Efficient Multi-Segment Encoding in Transformers with Layer-Adjustable Interaction</title>
+      <link>https://talschuster.github.io/publication/lait/</link>
+      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/publication/lait/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PropSegmEnt: A Large-Scale Corpus for Proposition-Level Segmentation and Entailment Recognition</title>
+      <link>https://talschuster.github.io/publication/propsegment/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/publication/propsegment/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Stretching Sentence-pair NLI Models to Reason over Long Documents and Clusters</title>

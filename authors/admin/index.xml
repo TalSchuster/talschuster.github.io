@@ -5,12 +5,44 @@
     <link>https://talschuster.github.io/authors/admin/</link>
       <atom:link href="https://talschuster.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Tal Schuster</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Tal Schuster</copyright><lastBuildDate>Sun, 15 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Tal Schuster</copyright><lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tal Schuster</title>
       <link>https://talschuster.github.io/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>Conformal Language Modeling</title>
+      <link>https://talschuster.github.io/publication/conformal_lm/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/publication/conformal_lm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LAIT: Efficient Multi-Segment Encoding in Transformers with Layer-Adjustable Interaction</title>
+      <link>https://talschuster.github.io/publication/lait/</link>
+      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/publication/lait/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PropSegmEnt: A Large-Scale Corpus for Proposition-Level Segmentation and Entailment Recognition</title>
+      <link>https://talschuster.github.io/publication/propsegment/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/publication/propsegment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conformal Risk Control</title>
+      <link>https://talschuster.github.io/publication/conformal_risk/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/publication/conformal_risk/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>UL2: Unifying Language Learning Paradigms</title>

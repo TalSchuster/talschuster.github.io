@@ -5,12 +5,28 @@
     <link>https://talschuster.github.io/authors/adam-fisch/</link>
       <atom:link href="https://talschuster.github.io/authors/adam-fisch/index.xml" rel="self" type="application/rss+xml" />
     <description>Adam Fisch</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Tal Schuster</copyright><lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 Tal Schuster</copyright><lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Adam Fisch</title>
       <link>https://talschuster.github.io/authors/adam-fisch/</link>
     </image>
+    
+    <item>
+      <title>Conformal Language Modeling</title>
+      <link>https://talschuster.github.io/publication/conformal_lm/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/publication/conformal_lm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conformal Risk Control</title>
+      <link>https://talschuster.github.io/publication/conformal_risk/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://talschuster.github.io/publication/conformal_risk/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Confident Adaptive Language Modeling</title>
